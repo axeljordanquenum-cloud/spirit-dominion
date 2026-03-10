@@ -1,0 +1,181 @@
+================================================================================
+                    SPIRIT PROFILE — VALDRYN
+                    Jay's First Spirit | Rank 1 | Primal Spirit Orb
+================================================================================
+
+CLASSIFICATION  : Beast Spirit / Moon-Attuned
+TYPE            : Dire Wolf Variant
+ORIGIN          : Hyper-Dimensional Spirit World
+BOND HOST       : Jay
+
+--------------------------------------------------------------------------------
+APPEARANCE
+--------------------------------------------------------------------------------
+The Valdryn is a dire wolf variant — larger and heavier than any natural wolf,
+built for lethal efficiency rather than endurance. Its defining features set
+it apart from standard dire wolf spirits immediately:
+
+  - Coat         : Abundant silver fur, dense and close to the body.
+  - Scales       : Dragon-like scales line the belly and wrap around the
+                   limbs. They carry a faint silver-blue iridescence in
+                   moonlight or low light conditions.
+  - Eyes         : Moon-attuned — pale silver or white, with a faint inner
+                   luminescence when its abilities are active.
+  - Build        : Lean through the haunches, heavily muscled in the
+                   shoulders and forelimbs. The claws are disproportionately
+                   long and razor-defined — the primary weapon.
+  - Presence     : Even at its weakest, newborn state, the Valdryn carries
+                   a weight to it. Something in its bearing that other
+                   creatures register before it moves.
+
+--------------------------------------------------------------------------------
+NATURE & LORE
+--------------------------------------------------------------------------------
+The Valdryn is a solitary creature by nature. Unlike most wolf spirits, it
+does not operate within a pack structure — and when it does exist alongside
+others, it can only occupy one role: alpha. Subordination is not in its
+architecture.
+
+This mirrors Jay's own disposition — not anti-social, but fundamentally
+incapable of following someone else's lead once his own judgment is engaged.
+The Valdryn is not a coincidence. It is a reflection.
+
+Moon attunement grants the Valdryn a connection to cycles, timing, and
+precision. Its power is not brute force — it is the right strike, at the
+right moment, delivered with lethal accuracy. Its scaling into prolonged
+engagements through its skillset allows it to outlast opponents who
+expect it to burn out quickly.
+
+--------------------------------------------------------------------------------
+COMBAT PROFILE
+--------------------------------------------------------------------------------
+Specialty     : Fast, precise assault — leading with claws, exploiting
+                openings, building pressure through mobility and aggression.
+
+Secondary     : Sustained engagement — selected skills allow the Valdryn
+                to remain dangerous in extended fights, not just burst windows.
+
+Weakness      : Early stage, the spirit is newborn and raw. Its power ceiling
+                is visible but distant. Jay must grow it deliberately.
+
+--------------------------------------------------------------------------------
+SKILLSET — FULL POOL
+--------------------------------------------------------------------------------
+Skills are unlocked progressively as the Valdryn grows through its bond
+with Jay. The starting kit reflects the spirit's newborn state — functional
+but limited. The full pool represents its potential across the arc of the story.
+
+  [ ARC 1 — AVAILABLE AT START ]
+
+  Silver Assault
+    A precise, accelerated claw strike enhanced by the Valdryn's moon
+    attunement. Delivers concentrated force to a single point. Effective
+    against armored or scaled targets. The silver quality of the strike
+    carries additional effect against certain creature types.
+
+  Phantom Dance
+    A short-burst movement ability. The Valdryn — or Jay channeling it —
+    shifts position with near-instant speed, leaving a faint afterimage.
+    Used offensively to close distance or create angles. Used defensively
+    to break out of enclosed pressure. Not infinite — costs energy per use.
+
+  Blood Feast
+    On landing a damaging strike, the Valdryn partially recovers energy
+    from the wound. Sustain mechanic — keeps the spirit viable in prolonged
+    exchanges without needing to disengage. Scales with damage dealt.
+
+  Resilient Will
+    Passive. When the Valdryn or Jay would be pushed past a threshold of
+    damage, Resilient Will triggers a brief resistance state — reducing
+    incoming damage and steadying the bond. Does not prevent damage entirely.
+    Acts as a floor, not a shield.
+
+  ---
+
+  [ LOCKED — TO BE UNLOCKED PROGRESSIVELY ]
+
+  Blood Parade
+    —
+
+  Slaughter Feast
+    —
+
+  Howling Moon
+    —
+
+  Rampage
+    —
+
+  Frenzy
+    —
+
+  Moon Rain
+    —
+
+  Last Dance
+    —
+
+  Challenger
+    —
+
+  Aura of Dominance
+    —
+
+  King Presence
+    —
+
+  Steel Bone
+    —
+
+  Blessed Body
+    —
+
+--------------------------------------------------------------------------------
+SPIRIT SYNERGY CONTRIBUTION — ARC 1
+--------------------------------------------------------------------------------
+Per the Primal Spirit Orb's Spirit Synergy passive, Jay passively receives
+from the Valdryn at Arc 1:
+
+  - 50% of Valdryn's primary attribute     : Agility
+  - 30% of Valdryn's secondary attribute   : Strength
+  - 2 random skills from starting pool     : [ TBD — assign on rank-up ]
+
+  Note: Spirit is the Valdryn's tertiary attribute. It contributes to the
+  bond's sustainability and evolution trajectory but is not part of the
+  Spirit Synergy passive split at this stage.
+
+As the Valdryn grows, these passive contributions scale accordingly.
+
+--------------------------------------------------------------------------------
+GROWTH STATE
+--------------------------------------------------------------------------------
+  Current state  : Newborn. Weak relative to the Valdryn's true potential.
+  Visible ceiling: High — anyone with knowledge of spirit types would
+                   recognize what a Valdryn becomes. But few in Universe 711
+                   have that knowledge at Arc 1.
+  Growth driver  : Combat, bond deepening, Origin Infusion (passive).
+  Evolution path : [ TBD — to be defined as story progresses ]
+
+--------------------------------------------------------------------------------
+NARRATIVE ROLE
+--------------------------------------------------------------------------------
+The Valdryn is Jay's first reflection. Born at the moment of Ascension, it
+embodies who Jay is at that exact instant — the solitary predator, the
+precise and controlled aggressor, the creature that cannot follow but
+has not yet fully become the thing that leads.
+
+As Jay changes, the Valdryn does not change its nature. But it grows into
+more of what it already is. The question the spirit quietly poses across
+Book 1 is whether Jay's solitary-alpha nature is a strength, a limitation,
+or both.
+
+================================================================================
+TBD
+================================================================================
+
+  - Spirit Synergy random skill assignment  : TBD
+  - Locked skill descriptions               : TBD — unlock progressively
+  - Evolution form(s) and trigger(s)        : TBD
+  - Valdryn's name as given by Jay          : TBD (if Jay names it)
+
+================================================================================

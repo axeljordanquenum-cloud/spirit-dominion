@@ -1,0 +1,246 @@
+================================================================================
+                      TALENT SYSTEM — SPIRIT DOMINION
+================================================================================
+
+OVERVIEW
+--------
+A Talent is an innate ability awakened during the Ascension event. Every
+individual who survives the process receives one. It is not learned, not
+trained — it is simply there, and the individual instinctively knows how to
+use it from the moment it activates.
+
+A Talent's apparent strength at first glance is often misleading. Even a
+seemingly weak Talent, properly understood and applied, can produce
+extraordinary results. The ceiling is rarely visible at the start.
+
+Talents range across every category: combat, utility, perception, crafting,
+leadership, and beyond. They are as varied as the people who carry them.
+
+================================================================================
+SPIRIT FIGHTERS
+================================================================================
+
+WHAT IS A SPIRIT
+----------------
+A spirit is an entity native to the Hyper-Dimensional Spirit World — a layer
+of existence parallel to the physical. Spirits exist in all forms and shapes,
+each unique. They are not tools. They are living beings.
+
+A spirit can cross the boundary between worlds and bond with a physical
+individual. This bond is symbiotic:
+  - The spirit grants the individual access to its power.
+  - The individual's battles, growth, and experiences feed the spirit,
+    allowing it to grow stronger in return.
+
+The bond is permanent once formed. A spirit cannot be taken, transferred,
+or destroyed without consequence to its host.
+
+SPIRIT FIGHTERS
+---------------
+A spirit fighter is an individual who has bonded with a spirit. The class
+exists across many civilizations within the System Multiverse — some
+entire worlds have built their power structure around it.
+
+In Universe 711, a newly integrated world, the class is not foreign to the
+System but is largely unknown to its inhabitants at the start of the
+Ascension. Knowledge of spirits, their nature, and how to develop them
+will be something Jay and others must discover and piece together.
+
+The power of a spirit fighter varies enormously and is directly constrained
+by one thing: the quality of the spirit they receive.
+
+A weak spirit = a weak spirit fighter, regardless of the host's personal
+strength or effort. This is the fundamental ceiling of the class and why,
+despite not being rare, most spirit fighters never reach their potential.
+
+A strong spirit = a different story entirely.
+
+================================================================================
+JAY'S TALENT — PRIMAL SPIRIT ORB
+================================================================================
+
+CLASSIFICATION  : Growth / Luck / Spirit
+TYPE            : Active (with passive components)
+RARITY          : Singular — no known equivalent in Universe 711
+
+--------------------------------------------------------------------------------
+CORE ABILITY
+--------------------------------------------------------------------------------
+At each rank threshold reached, Jay automatically receives a new innate
+spirit. This spirit is born at the moment of rank-up and is unique to that
+rank and to Jay's internal state at the time.
+
+Most spirit fighters bond with one spirit across their entire life. The
+quality of that spirit defines their ceiling forever.
+
+Jay receives a new spirit at every rank. His ceiling does not exist in the
+same way.
+
+--------------------------------------------------------------------------------
+SPIRIT NATURE — REFLECTION
+--------------------------------------------------------------------------------
+Each spirit born from the Primal Spirit Orb is not random. It reflects Jay's
+mental and emotional state at the moment of rank-up — his dominant mindset,
+his unresolved tensions, his current understanding of himself and the world.
+
+This means:
+  - The spirits are deeply personal. No two will be identical across hosts,
+    even if such a talent existed in another individual.
+  - Jay's inner life directly shapes his power. Growth as a person is
+    inseparable from growth as a fighter.
+  - A spirit born during a moment of clarity will differ entirely from one
+    born during grief, rage, or cold ambition.
+
+The spirits are fixed once born — they do not change their fundamental
+nature. But they can grow, evolve, and expand their capabilities through
+the bond with Jay.
+
+--------------------------------------------------------------------------------
+SPIRIT SCOPE
+--------------------------------------------------------------------------------
+Each spirit operates across three domains:
+
+  COMBAT    : Direct offensive and defensive applications in battle.
+              Each spirit's combat expression is unique to its nature.
+
+  UTILITY   : Non-combat functions — scouting, analysis, environmental
+              interaction, support roles within Jay's faction.
+
+  PASSIVE   : Persistent low-level effects that remain active as long as
+              the bond is maintained. These may enhance Jay's base stats,
+              perception, or provide subtle advantages in specific contexts.
+
+--------------------------------------------------------------------------------
+ACTIVE LIMITATION — THE BUFFER
+--------------------------------------------------------------------------------
+The Primal Spirit Orb is an active talent. Jay cannot run at full power
+indefinitely.
+
+Summoning and maintaining spirits draws on his internal energy. The more
+spirits active simultaneously, the higher the drain. This creates a natural
+buffer — a ceiling on how long and how hard Jay can push in any given
+engagement.
+
+Early in the story, with only one or two spirits, this limitation is
+manageable but present. As his collection grows across ranks, managing
+which spirits to deploy and when becomes a strategic layer in itself.
+
+Full power is a finite state, not a default one.
+
+--------------------------------------------------------------------------------
+ADDITIONAL BENEFITS — PRIMAL SPIRIT ORB
+--------------------------------------------------------------------------------
+Beyond the core ability, the Primal Spirit Orb grants Jay four permanent
+advantages that compound across the entire arc of his growth:
+
+  1. STRENGTHENED SPIRIT ENERGY AFFINITY
+     Maintaining an active spirit bond requires spirit energy — a resource
+     most spirit fighters struggle to manage. Jay's affinity is innately
+     enhanced, reducing the baseline cost of maintaining bonds and making
+     him structurally more efficient than other spirit fighters at all stages.
+     Additionally, every ability granted by his spirits benefits from:
+       - Reduced activation cost
+       - Enhanced effect on use
+     The same ability in Jay's hands hits harder and costs less than in
+     anyone else's.
+
+  2. ENHANCED AFFINITY WITH SPIRIT CREATURES
+     Jay's baseline relationship with spirit-type entities is elevated.
+     Spirit creatures are naturally less hostile toward him, more responsive
+     to interaction, and easier to influence. This has combat applications
+     but extends into utility and diplomacy with spirit-aligned beings.
+
+  3. SPIRIT SYNERGY  [ Passive ]
+     For each bonded spirit, Jay passively receives:
+       - 50% of the spirit's primary attribute
+       - 30% of the spirit's secondary attribute
+       - 2 random skills from the spirit's ability pool
+     This passive scales directly with the number and quality of his spirits.
+     A single strong spirit already makes this significant. Across multiple
+     ranks, with multiple spirits each growing in power, the cumulative
+     stat and skill absorption becomes one of Jay's most decisive edges.
+
+  4. ORIGIN INFUSION  [ Passive ]
+     Spirits housed within the Primal Spirit Orb are gradually infused with
+     Origin Energy over time. This slow, automatic process reduces the cost
+     of spirit evolution — the threshold Jay needs to reach to push a spirit
+     to its next form is consistently lower than it would be for any other
+     spirit fighter.
+     Over a long timeline, this means Jay's spirits evolve faster, cheaper,
+     and more frequently than anyone else's. The compounding effect across
+     multiple spirits across multiple ranks is difficult to overstate.
+
+--------------------------------------------------------------------------------
+SPIRIT EVOLUTION & FUSION — FUTURE MECHANICS
+--------------------------------------------------------------------------------
+As Jay grows and the bond deepens, spirits can evolve beyond their initial
+form. Evolution is triggered by significant experiences, battles, or
+internal shifts — not by time alone.
+
+At a later stage, through acquired skills or abilities, Jay will gain the
+capacity to:
+  - Fuse two spirits into a single more powerful entity.
+  - Deploy spirits in combined or coordinated configurations.
+  - Unlock alternative modes of use beyond standard summoning.
+
+These mechanics are locked behind progression and will emerge naturally
+as the story advances. They are not available at the start.
+
+--------------------------------------------------------------------------------
+VISIBILITY
+--------------------------------------------------------------------------------
+Spirits manifested by Jay are visible to others when actively deployed.
+Their appearance reflects their nature — shaped by what they represent
+within Jay, expressed in physical form.
+
+Jay can choose whether or not to summon them. An unsummoned spirit is
+invisible and undetectable by outside observers. This gives Jay a degree
+of strategic concealment — his full arsenal is never immediately apparent.
+
+--------------------------------------------------------------------------------
+EARLY STORY STATE
+--------------------------------------------------------------------------------
+At the start of Book 1, Arc 1:
+  - Jay has just ranked up for the first time during the Ascension.
+  - His first spirit is newborn — weak, raw, and largely untested.
+  - He instinctively understands the bond but has no framework or
+    knowledge to contextualize what he has.
+  - To anyone observing, he is simply a spirit fighter with a weak
+    starting spirit. Unremarkable on the surface.
+  - The true nature and rarity of his Talent is not yet apparent —
+    to others, or fully to himself.
+
+This gap between perception and reality is one of the early story's
+most important tensions.
+
+================================================================================
+DESIGN NOTES
+================================================================================
+
+  - The talent is intentionally understated at first glance. "Another
+    spirit fighter" is the outside read. The depth only reveals itself
+    over time and ranks.
+
+  - The reflection mechanic ties Jay's power system directly to his
+    character arc. His internal growth is never decorative — it has
+    mechanical consequences.
+
+  - The buffer/limitation prevents the talent from being a win button.
+    Jay must think, manage, and choose. The talent rewards intelligence,
+    which matches his established character.
+
+  - Spirit fighter knowledge in Universe 711 starts at near zero. Jay
+    will have to discover, experiment, and build his understanding from
+    scratch — no guides, no mentors at the start.
+
+================================================================================
+TBD
+================================================================================
+
+  - First spirit name, appearance, and nature        : TBD
+  - Rank system and thresholds                       : TBD — see system doc
+  - Energy/resource mechanic details                 : TBD
+  - Spirit world lore and deeper mythology           : TBD — worldbuilding/system
+  - Known spirit fighter civilizations in multiverse : TBD — worldbuilding/politics
+
+================================================================================

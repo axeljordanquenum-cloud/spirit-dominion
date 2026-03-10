@@ -1,0 +1,162 @@
+================================================================================
+                        CHARACTER CARD — SPIRIT DOMINION
+================================================================================
+
+[ IDENTITY ]
+Name            : Jay Williams
+Aliases/Titles  : — (none at start)
+Age             : Early twenties
+Gender          : Male
+Race/Species    : Human — Universe 711
+Class/Role      : Spirit Fighter
+Affiliation     : Independent → Faction Founder (Arc 1)
+
+--------------------------------------------------------------------------------
+[ SYSTEM STATS ] — LitRPG
+--------------------------------------------------------------------------------
+Level           : 1 (post-Ascension, Arc 1 start)
+Rank/Tier       : Rank 1
+Primary Stat    : Agility
+Secondary Stats : Strength, Spirit
+Unique Skill(s) : Primal Spirit Orb — see talent-system doc
+System Title    : — (none at start)
+Limitations     : Active talent — cannot maintain full power indefinitely.
+                  First spirit (Valdryn) is newborn and weak at Arc 1 start.
+
+--------------------------------------------------------------------------------
+[ APPEARANCE ]
+--------------------------------------------------------------------------------
+Height/Build    : Tall, lean and athletic. Built for movement — nothing
+                  wasted, nothing excessive. The kind of build that doesn't
+                  announce itself until it's already moving.
+Ethnicity       : Mixed
+Eyes            : Sharp, steady. The kind that observe before they react.
+Hair            : Black
+Distinguishing  : A composure that reads as coldness to strangers. The
+                  absence of visible stress in situations that should produce it.
+Combat Gear     : TBD
+Casual Look     : Clean, understated. Nothing that draws attention.
+
+--------------------------------------------------------------------------------
+[ PERSONALITY ]
+--------------------------------------------------------------------------------
+Core Traits     : Calm under pressure. Adaptive. Observant. Pragmatic.
+                  Quietly competitive — the ambition runs deep but rarely
+                  surfaces as emotion.
+
+Strengths       : Reads situations faster than most. Doesn't panic.
+                  Makes decisions without needing certainty.
+                  Leads without needing to be liked.
+                  Finds the angle others miss because he's already stopped
+                  reacting and started thinking.
+
+Flaws           : Emotional distance — connection costs him effort that
+                  comes naturally to others.
+                  Tendency to carry everything alone longer than necessary.
+                  His father's voice lives in him. He doesn't always know
+                  when he's following it.
+
+Fears           : Purposeless strength — becoming powerful with nothing
+                  behind it.
+                  Losing Samantha or Jess.
+                  Becoming his father without realizing it.
+
+Motivations     : Reach the top. Not for recognition — because anything
+                  less feels like failure. This was installed by Alan and
+                  Jay has never fully examined whether it is truly his own.
+                  Protect the people he has chosen to keep close.
+
+Moral Alignment : Pragmatic with a private code. Will do what is necessary.
+                  Will not harm deliberately without purpose.
+                  Will not move against someone weaker than him.
+                  These lines are non-negotiable and have never been
+                  announced to anyone.
+
+Speech Style    : Sparse. Direct. No performance. Says the necessary thing
+                  and stops. In rare moments of ease — warmer, dryer humor
+                  surfaces briefly.
+
+--------------------------------------------------------------------------------
+[ BACKSTORY ]
+--------------------------------------------------------------------------------
+Origin          : Born into a world of violence he didn't choose. His father
+                  Alan ran something dangerous — the kind of household that
+                  gifted a puppy one month and a gun the next. His mother
+                  was a counterweight who couldn't fully protect him from
+                  what Alan decided to make him.
+
+Key Events      : — Rocky. The first lesson. Weakness is an eternal sin.
+                  — Samantha. The execution ground where he met her gaze
+                    and chose differently than he was instructed.
+                  — Years of spartan training under Alan that built the
+                    body, the discipline, and the philosophy that now runs
+                    him.
+                  — The Ascension. Universe 711 integrated. Jay exhaled
+                    and said: "So, this is it." He was not surprised.
+                    Some part of him had been waiting.
+
+Trauma/Wound    : His father didn't break him — which is almost worse.
+                  Alan's worldview took root because it worked. Jay is
+                  living proof of his father's method, which makes it
+                  very hard to reject entirely.
+
+Secret(s)       : The moral line he holds — not harming the weak, not
+                  acting without purpose — is a quiet, private rebellion
+                  against Alan that he has never named out loud, even
+                  to himself.
+
+--------------------------------------------------------------------------------
+[ RELATIONSHIPS ]
+--------------------------------------------------------------------------------
+Allies          : Samantha (closest), Jess (sister), Oliver (friend)
+Rivals          : TBD — to emerge through story
+Enemies         : TBD — corrupted human antagonist (Necropolis), rival
+                  faction lords
+Romantic        : TBD
+Mentors         : Alan (father) — in the darkest sense of the word.
+Family          : Alan (father — estranged or absent at Arc 1 start),
+                  unnamed mother, Jess (younger sister, 17)
+
+--------------------------------------------------------------------------------
+[ CHARACTER ARC ]
+--------------------------------------------------------------------------------
+Start State     : A man shaped entirely by someone else's philosophy,
+                  operating at high competence, with no examined reason
+                  for why he wants what he wants — only the certainty
+                  that he wants it.
+
+Internal Goal   : Become strong enough that nothing can be taken from him
+                  again. (Surface level — the deeper question of what he's
+                  actually building toward remains unanswered at Arc 1.)
+
+External Goal   : Survive the post-Ascension world. Build a faction.
+                  Destroy the Necropolis threat. Reach the top.
+
+Turning Point   : TBD — the moment the cost of climbing becomes personal
+                  enough to force the question: is this who I chose to be,
+                  or just who I was made?
+
+End State       : TBD — open. The arc resolves across multiple books.
+
+Theme/Lesson    : Strength without examined purpose is just inherited
+                  violence wearing a different face.
+
+--------------------------------------------------------------------------------
+[ TALENT ]
+--------------------------------------------------------------------------------
+Name            : Primal Spirit Orb
+Type            : Growth / Luck / Spirit — Active with passive components
+First Spirit    : Valdryn — see valdryn-spirit doc
+Full detail     : See talent-system doc
+
+--------------------------------------------------------------------------------
+[ NOTES ]
+--------------------------------------------------------------------------------
+Inspirations    : TBD
+Misc            : Jay's composure is not detachment — it is control. The
+                  difference matters and will surface at the right moments.
+                  He is not unfeeling. He is disciplined.
+                  The distinction between those two things is one of the
+                  story's quiet running threads.
+
+================================================================================
