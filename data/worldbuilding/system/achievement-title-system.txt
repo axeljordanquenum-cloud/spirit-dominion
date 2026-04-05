@@ -1,0 +1,585 @@
+================================================================================
+                    ACHIEVEMENT & TITLE SYSTEM
+                    Spirit Dominion | The System Era
+================================================================================
+
+OVERVIEW
+--------
+The System does not forget. Every action an integrated entity takes, every
+threshold crossed, every first and every extreme — the System records it all
+in a permanent log called the Achievement Register. Achievements do not expire,
+cannot be revoked, and accumulate across a lifetime.
+
+Titles are a separate layer. They are not the achievements themselves — they
+are what the System grants in recognition of them. A Title is earned, then
+held in the character's Title Pool. From that pool, a limited number can be
+equipped at any time. Only equipped Titles are active.
+
+This creates a meaningful management layer as a character's history deepens:
+a growing pool of earned recognition, a hard limit on what can be worn at
+once, and an ongoing question of which part of who you are is most useful
+right now.
+
+The distinction matters:
+
+  ACHIEVEMENT REGISTER : Permanent. Always visible. The full record.
+                         Cannot be equipped, traded, or lost.
+
+  TITLE POOL           : All Titles earned. Grows over time.
+                         Only a subset can be active at once.
+
+  EQUIPPED TITLES      : Active Titles. Their effects are live.
+                         Switching is allowed but not instant — see below.
+
+================================================================================
+ACHIEVEMENT REGISTER
+================================================================================
+
+WHAT QUALIFIES
+--------------
+The System awards achievements for actions it judges to be significant within
+the context of the individual's history and the world they inhabit. The
+specific conditions are never displayed in advance. Characters discover what
+the System considers worth recording by living and doing — not by consulting
+a checklist.
+
+General categories the System tracks:
+
+  FIRSTS               The first time something is done. First kill. First
+                       rank-up. First spirit bond. First faction member.
+                       First time a character does something no one in their
+                       world has done before.
+
+  EXTREMES             Actions at the edge of what is measurably possible —
+                       killing far above rank, surviving impossible odds,
+                       completing a challenge in conditions no one was
+                       meant to complete it in.
+
+  ACCUMULATION         Volume thresholds crossed. 100 kills. 1,000 kills.
+                       A certain amount of damage dealt. A certain number of
+                       distinct opponents defeated.
+
+  NATURE               What a character is, expressed consistently enough
+                       that the System recognizes it as identity rather than
+                       incident. Someone who has killed a hundred times without
+                       allies is not just a fighter — the System may name what
+                       that actually is.
+
+  SOCIAL / FACTION     Building something. Leading it. Keeping it alive.
+                       Making agreements that hold. Being recognized as
+                       authority by other integrated entities.
+
+  DISCOVERY            Finding things the System considers worth noting —
+                       locations, entities, mechanics, phenomena.
+
+HOW IT APPEARS IN THE INTERFACE
+--------------------------------
+The Achievement Register is a scrollable log in the System interface.
+Each entry shows:
+
+  — A name (always present)
+  — A date/timestamp relative to the Ascension event
+  — A brief record of what was done
+  — Whether a Title was awarded and which one
+
+The register is visible to the character at all times. It is not visible to
+others unless the character chooses to display it — and even then, only
+entries the character selects can be shared. The full log is private.
+
+================================================================================
+TITLES
+================================================================================
+
+WHAT A TITLE IS
+---------------
+A Title is the System's named recognition of something a character has done
+or become. It is permanent once awarded — it cannot be lost, revoked, or
+transferred. Even if the character never equips it, it exists in their pool.
+
+Every Title has four components:
+
+  1. NAME           : The label the System assigns. Chosen by the System's
+                      own judgment — often evocative, sometimes cryptic.
+                      High-rarity Titles tend to name things directly.
+                      Lower-rarity Titles are more descriptive.
+
+  2. FLAVOR TEXT    : A line or two. Not mechanical description — this is
+                      the System speaking as a recorder. It reads as
+                      annotation on a life: what was done, what it meant,
+                      what it says about who this person is.
+
+  3. EFFECTS        : The mechanical benefits. What changes when the Title
+                      is equipped. These are always visible on inspection.
+
+  4. RARITY         : The System's classification of how exceptional the
+                      achievement was. Affects presentation, effect strength,
+                      and in some cases, what becomes possible while it is worn.
+
+TITLE RARITY TIERS
+------------------
+Titles follow a rarity ladder. The tier reflects how extraordinary the
+achievement was — relative to the world the character inhabits, the rank
+they were operating at, and the conditions involved.
+
+  COMMON
+  ------
+  The foundation. These titles cover the expected milestones of any
+  integrated entity's early development. First kills. First rank-up.
+  Standard accumulation thresholds.
+  
+  Presentation: A clean System notification, no ceremony. The title
+  appears in the pool. The character can inspect it at leisure.
+  
+  Effects: Minor. Usually a small EXP yield boost (5–10%) or a flat
+  bonus to one attribute. Not game-changing but not trivial — they
+  accumulate across a career and the early ones stick around longest.
+
+  UNCOMMON
+  ---------
+  Achievements that most integrated entities will reach eventually but
+  not trivially. Things that require real effort, meaningful encounters,
+  or demonstrated consistency over time.
+  
+  Presentation: A brief notification with more substance — the System
+  names the deed as well as the title. Slightly more weight.
+  
+  Effects: Meaningful. EXP bonuses in the 10–15% range. Attribute
+  bonuses that begin to matter. First appearances of social effects.
+
+  RARE
+  -----
+  Things most integrated entities will not achieve. Either the conditions
+  are unusual, the standard is high, or the action required genuine
+  capability beyond typical rank.
+  
+  Presentation: The System pauses. Not dramatically — but there is a
+  noticeable beat before the notification arrives. The phrasing shifts.
+  The System does not just record. It acknowledges.
+  
+  Effects: Significant. EXP bonuses of 15–20%. Substantial attribute
+  bonuses. Social effects that carry weight in interactions with other
+  System entities. Possible narrative gates.
+
+  EPIC
+  -----
+  Achievements that mark a character as exceptional among their
+  contemporaries at any rank. Things most people in their generation
+  will not do.
+  
+  Presentation: The System interface changes momentarily. Not violently —
+  but the visual signature of the notification is distinct. The character
+  understands they have done something the System has not seen often.
+  
+  Effects: High EXP modifiers (20–25%). Multi-attribute bonuses. Social
+  effects that open doors and close others. Narrative gates that shift
+  how the world responds to this character's presence.
+
+  LEGENDARY
+  ----------
+  The rarest tier in normal progression. These titles mark events the
+  System considers historic — not just rare but significant at a
+  civilizational or world-historical level. Many integrated entities
+  live their entire lives without earning one.
+  
+  Presentation: Unmistakable. The System's notification for a Legendary
+  Title is not quiet. The character knows. In some cases, others nearby
+  may sense that the System has recognized something — though they cannot
+  read what was awarded.
+  
+  Effects: The top of the modifier range (25–30% EXP yield boost and up).
+  Major attribute bonuses. Social effects that are felt on sight — entities
+  that interact with the System can register the weight of a Legendary
+  Title through proximity alone. Narrative gates that are unavailable at
+  any lower tier.
+
+  UNIQUE
+  -------
+  Beyond the standard rarity ladder. Unique Titles are singular — one
+  holder across the entire history of the System in Universe 711. They
+  are awarded for deeds so specific to a character's nature, path, and
+  moment that no general criterion could have predicted them.
+
+  Unique Titles are not just records. They are, in some cases, names —
+  the System naming what a person actually is. The distinction between
+  a Unique Title and a True Name is not always clear, even to the System.
+  
+  Presentation: Not a notification. Something more like a statement.
+  Some characters report the experience as the System speaking directly —
+  not as an interface but as a presence.
+  
+  Effects: Variable and specific to the title. Not constrained by
+  standard modifier tables. Some Unique Titles have effects that
+  exist in no other category.
+
+================================================================================
+TITLE EFFECTS — CATEGORIES
+================================================================================
+
+All Titles draw their effects from these categories. Most Titles combine
+two or three. Higher rarity Titles tend to combine more and hit harder
+within each.
+
+EXP MODIFIERS
+  Already established in the leveling system. Titles contribute 5–30%
+  EXP req reduction and 10–30% kill yield boost. These are additive
+  with Skill and Talent modifiers. (Soft cap on req reduction: 30% full
+  efficiency, 60% hard ceiling. Kill yield boost uncapped.)
+
+ATTRIBUTE BONUSES
+  Flat bonuses to one or more attributes. These are always-on while the
+  Title is equipped. They do not interact with the diminishing returns
+  system — they are additive to the total but applied before soft cap
+  calculations.
+
+  Common Titles: +1 to +3 in a single attribute.
+  Uncommon:      +3 to +8 across one or two attributes.
+  Rare:          +8 to +20 across two or three attributes.
+  Epic:          +20 to +50 across multiple attributes.
+  Legendary:     +50 and above. Some Legendary Titles apply a percentage
+                 boost rather than a flat value.
+
+SOCIAL / FACTION EFFECTS
+  The Title's record creates tangible effects in interactions with the
+  System and with entities who can read System status:
+
+  — Intimidation weight: Some Titles carry an implicit record that other
+    entities register in their System read of the holder. A Title earned
+    by killing far above rank announces something about this person before
+    they speak.
+
+  — Reputation signals: Faction leadership, diplomatic, and civic Titles
+    create recognition effects — the holder is identified as a known
+    quantity in relevant circles.
+
+  — Recruitment effects: Certain Titles increase the likelihood that
+    unaffiliated entities will approach rather than avoid. Faction-related.
+
+  — Enemy response: Titles that mark a character as dangerous may cause
+    weaker entities to hesitate, flee, or defer without engagement.
+
+NARRATIVE GATES
+  Some events in the world will only trigger if the involved party holds
+  a qualifying Title. This is not widely understood or exploitable —
+  the conditions are not published. But the System uses Title history
+  as one of its filters for what becomes accessible:
+
+  — Certain quests will not appear in the interface without the right Title.
+  — Certain entities will not speak plainly, offer information, or engage
+    at depth with someone who has not demonstrated something the System
+    considers prerequisite.
+  — Some structural advancement opportunities — class challenges, faction
+    recognition, access to rare locations — are gated behind specific
+    Title criteria.
+
+================================================================================
+EQUIPPED TITLE SLOTS
+================================================================================
+
+A character can only benefit from a limited number of Titles simultaneously.
+Unequipped Titles sit in the pool — real, permanent, but dormant.
+
+SLOT PROGRESSION BY RANK
+  Rank F   : 1 slot
+  Rank E   : 2 slots
+  Rank D   : 3 slots
+  Rank C   : 4 slots
+  Rank B   : 5 slots
+  Rank A   : 6 slots
+  Rank S   : 7 slots
+  Rank SS  : 8 slots
+  Rank Ex  : 10 slots
+
+SWITCHING RULES
+  — Switching equipped Titles is possible from the System interface at
+    any time outside of active combat.
+  — During combat, the current loadout is locked. The System does not
+    allow mid-fight swapping.
+  — There is no cost to switching outside combat, but effects from
+    swapped-out Titles do not persist — they cut immediately.
+  — Some Titles have a brief integration period when newly equipped:
+    passive attribute bonuses apply instantly; more complex effects
+    (social, narrative gate) take a short period to register.
+
+STRATEGIC LAYER
+  As a character accumulates Titles across ranks, the decision of which
+  to equip becomes a real strategic consideration:
+
+  — A Title optimized for EXP gain is most valuable during leveling pushes.
+  — A Title with social effects becomes most valuable during political arcs.
+  — A Title that opens narrative gates should be equipped when entering
+    contexts where those gates are relevant.
+  — The right loadout changes with circumstances. This is intentional.
+
+================================================================================
+TITLE PRESENTATION — BY RARITY
+================================================================================
+
+The way the System delivers a Title notification is its own signal:
+
+  COMMON     : Simple text entry in the log. "Title earned: [Name]." No pause,
+               no ceremony. The character notices if they are watching.
+               If they are not, it waits in the log.
+
+  UNCOMMON   : A brief System notification surfaces alongside the log entry.
+               The System names what was done: "[Action]. Title awarded: [Name]."
+               Slightly more present. Still quiet.
+
+  RARE       : The System pauses the interface for a beat. The notification
+               uses the deed and the title together, with the flavor text
+               visible immediately. Something in the presentation registers
+               as distinct from routine.
+
+  EPIC       : The System interface shifts its visual signature for the
+               notification. The character feels the notification differently
+               than standard — not painful or overwhelming, but weightier.
+               The flavor text reads as deliberate. The System is not
+               just recording. It is marking.
+
+  LEGENDARY  : Unmistakable. The notification occupies the full interface
+               for a moment. The System speaks the title's flavor text
+               before the name — inverting the normal order. The deed
+               comes last. As if what was done is already known and the
+               System is simply giving it a name that fits.
+
+  UNIQUE     : Outside the normal notification pattern entirely. The
+               character's experience varies — some describe a silence
+               before the notification arrives, a moment where the System
+               feels present rather than passive. The title arrives not
+               as a reward but as a recognition. The System has seen
+               something it does not have a template for. It made one.
+
+================================================================================
+JAY — ASCENSION TITLES
+================================================================================
+
+Jay's compressed quest window — 1 hour against the standard 24 — combined
+with his performance and the Primal Spirit Orb's activation generated two
+Title awards at the moment of Ascension.
+
+The System registered what happened. It named what it saw.
+
+--------------------------------------------------------------------------------
+TITLE 1  |  RARITY: RARE
+
+  Name          : Against the Clock
+
+  Flavor Text   : "Assigned one hour where others were given twenty-four.
+                   Completed. The System notes the margin was not close."
+
+  Effects       :
+    — EXP requirement reduction: +12% (additive)
+    — Agility: +6
+    — Narrative gate: In future System quests, time-limited challenge
+      conditions are treated as a known quantity — Jay receives a brief
+      System acknowledgment when time-gated scenarios are involved.
+      Does not reduce the difficulty. Marks him as someone the System
+      already knows has operated under pressure.
+
+  Presentation  : Arrived at the end of the Ascension quest completion
+                  with a beat before the notification — the System naming
+                  the time margin explicitly in the record.
+
+--------------------------------------------------------------------------------
+TITLE 2  |  RARITY: EPIC
+
+  Name          : First of His Kind
+
+  Flavor Text   : "No record of this configuration exists in the System's
+                   index for Universe 711. The Primal Spirit Orb has no
+                   precedent here. This entity is the first."
+
+  Effects       :
+    — Kill EXP yield boost: +20% (additive)
+    — Mystery: +12
+    — Willpower: +8
+    — Social effect: Spirit-type entities register the Title's weight in
+      their System read of Jay — not as threat, but as recognition.
+      Spirit creatures' baseline disposition toward him is elevated
+      (stacks additively with the Primal Spirit Orb's Enhanced Affinity
+      with Spirit Creatures benefit).
+    — Narrative gate: Certain spirit-world entities and phenomena that
+      would not engage with a standard spirit fighter will interact with
+      Jay. The Title signals something the System considers significant
+      about his nature.
+
+  Presentation  : The System interface shifted for this one. The flavor text
+                  arrived before the Title name. Jay understood, at the end
+                  of the worst hour of his life, that the System had just
+                  told him something true about himself — not as comfort,
+                  but as fact.
+
+--------------------------------------------------------------------------------
+EQUIPPED AT ARC 1 START:
+  Jay has 1 slot at Rank F. He must choose between Against the Clock
+  and First of His Kind. Both sit in his pool. Only one is active.
+
+  This is his first Title decision. The choice is mechanical but also
+  a statement about what he thinks he needs most right now.
+
+================================================================================
+TITLE EXAMPLES — GENERAL CATALOGUE
+================================================================================
+
+The following are illustrative examples of Titles across rarity tiers and
+categories. Not exhaustive — the System generates Titles dynamically based
+on deeds. These represent the kinds of records the System considers worth naming.
+
+────────────────────────────────────────────────────────────────────────────────
+COMMON TITLES
+────────────────────────────────────────────────────────────────────────────────
+
+  First Blood
+  "The first kill. The System records it without judgment."
+  Effects: Kill EXP yield +5%. Constitution +1.
+
+  Rank Climber
+  "Rank F to Rank E. The first step is always the longest."
+  Effects: EXP req reduction +5%.
+
+  Survivor
+  "Reached critical HP and continued. Once."
+  Effects: Constitution +2. HP threshold debuffs trigger 5% later than standard.
+
+  Pack Hunter
+  "Participated in ten kills as part of a group. The System notes the pattern."
+  Effects: Kill EXP yield +7% (team kills only).
+
+────────────────────────────────────────────────────────────────────────────────
+UNCOMMON TITLES
+────────────────────────────────────────────────────────────────────────────────
+
+  Iron Will
+  "Fought past the threshold where most stop. More than once."
+  Effects: Willpower +5. Mental interference resistance +8%.
+
+  Above Rank
+  "Killed an opponent one rank higher. The gap was real."
+  Effects: Kill EXP yield +12%. Perception +4.
+
+  Founder
+  "Registered a faction with the System. Something did not exist before.
+   Now it does."
+  Effects: EXP req reduction +8% (faction/leadership EXP sources only).
+           Faction Call initial broadcast range +15%.
+
+  Marked Hunter
+  "One hundred kills. The System has counted."
+  Effects: Kill EXP yield +10%. Agility +4.
+
+────────────────────────────────────────────────────────────────────────────────
+RARE TITLES
+────────────────────────────────────────────────────────────────────────────────
+
+  Alone
+  "Reached Rank D without a faction or consistent allies. The path was
+   theirs alone."
+  Effects: EXP req reduction +12%. Strength +8. Agility +8.
+           Social effect: Entities read this Title as a signal that
+           this individual does not need assistance to function. Affects
+           negotiation weight with unaffiliated parties.
+
+  The Hard Way
+  "Completed a rank advancement challenge under conditions the System
+   did not design for survival."
+  Effects: Kill EXP yield +15%. Constitution +10.
+           Narrative gate: Future advancement challenges note this Title
+           in their condition set — modified scenarios may appear.
+
+  Oathkeeper
+  "A System contract was set. Conditions were met in full, under duress."
+  Effects: EXP req reduction +10%. Wisdom +7. Willpower +6.
+           Social effect: Other System-integrated entities receive a passive
+           read of this Title in binding contexts — the System signals
+           that this party's contracts have held under pressure.
+
+────────────────────────────────────────────────────────────────────────────────
+EPIC TITLES
+────────────────────────────────────────────────────────────────────────────────
+
+  Rank Crusher
+  "Killed an opponent two full ranks above. The gap should have been
+   insurmountable. It was not."
+  Effects: Kill EXP yield +22%. Strength +18. Agility +12. Perception +10.
+           Social effect: Opponents at lower relative rank register
+           this Title's weight when the System reads are mutual.
+           Intimidation effect applies without action.
+
+  The Unbroken Line
+  "Led a faction through a major engagement without a member death.
+   The System considers this notable."
+  Effects: EXP req reduction +18% (faction/leadership sources).
+           All leadership skill effects +15% potency while equipped.
+           Social effect: Potential recruits respond to this Title —
+           the record of not losing anyone speaks louder than rank.
+
+  Apex Killer
+  "An Apex-class opponent. Defeated. The quality gap was four tiers."
+  Effects: Kill EXP yield +25%. Multi-attribute bonus: STR +20,
+           AGI +15, CON +15, Willpower +12.
+           Narrative gate: Access to certain elite faction contracts
+           and high-rank System quests that require proof of capability
+           before they appear.
+
+────────────────────────────────────────────────────────────────────────────────
+LEGENDARY TITLES (examples — intentionally limited)
+────────────────────────────────────────────────────────────────────────────────
+
+  King of the Threshold
+  "At the moment when the System calculated this individual could not win,
+   they changed the calculation. The System adjusted its model. It has
+   not encountered this before."
+  Effects: EXP yield +30%. All primary attributes +35.
+           Social effect: Legendary-weight presence. Entities who can
+           read System status register the Title immediately. The effect
+           does not require activation or announcement.
+           Narrative gate: Entities and events that require proof of
+           something beyond rank become accessible.
+
+  Note: Legendary Titles are not catalogued in advance. The examples
+  above illustrate the tier's weight. Each Legendary Title in the story
+  should be developed specifically for the character and deed that earned it.
+
+================================================================================
+DESIGN NOTES
+================================================================================
+
+  - The Achievement Register is the System playing historian. The full
+    record is private — this matters for Jay specifically. What he has
+    done, and what the System has noted about it, is not on display.
+    Others can sense the weight of equipped Titles but cannot read the log.
+
+  - The single slot at Rank F is a deliberate early constraint. Jay's first
+    choice — Against the Clock vs First of His Kind — is worth treating
+    as a real character beat. The EXP optimization pick and the identity
+    pick are different answers.
+
+  - Title rarity should feel earned in the prose. A Common Title gets a
+    sentence. A Legendary Title should stop the scene.
+
+  - The social effects of Titles are intentionally not always positive.
+    A Title that announces someone as dangerous draws attention that is
+    not always welcome. Jay's Arc 1 Titles are not threatening — but as
+    the story escalates, the question of what his record announces about
+    him becomes relevant.
+
+  - Unique Titles are the System's version of a True Name. Not the same
+    thing — but the boundary blurs at high enough rank. This is intentional
+    and worth holding for later arcs.
+
+  - Jess, Alex, Lexie, and Samantha will each generate their own Title
+    history through their arcs. Their Ascension Titles (if any) are TBD
+    and should be developed with the same specificity as Jay's.
+
+================================================================================
+TBD
+================================================================================
+
+  - Ascension Titles for Jess, Alex, Lexie, Samantha        : TBD
+  - Full EXP modifier stacking table (Skill + Title + Talent): TBD — see leveling doc
+  - Narrative gate catalogue (which events require which Titles): TBD — arc-dependent
+  - Unique Title mechanics in detail                          : TBD — long arc
+  - Title suppression or interference (can Titles be hidden?) : TBD
+  - Social effect intensity scaling with Title rarity         : TBD
+  - Interaction between Legendary Titles and True Name path   : TBD — Book 2+
+
+================================================================================

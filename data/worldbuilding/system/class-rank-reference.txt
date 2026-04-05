@@ -1,0 +1,238 @@
+================================================================================
+                    CLASS & RANK REFERENCE
+                    Spirit Dominion | The System Era
+================================================================================
+
+RANK DESCRIPTIONS
+================================================================================
+
+  RANK F — NOVICE / TRAINEE
+  -------------------------
+  Individuals at this rank are beginners just starting to develop their
+  capabilities. Minimal experience, minimal proficiency. The System has
+  recognized their potential but they have yet to demonstrate meaningful
+  mastery of any skill or discipline. Most survivors of the Ascension
+  event start here.
+
+  RANK E — APPRENTICE
+  --------------------
+  Apprentices have moved beyond raw beginnings and are actively developing
+  their skills through practice and experience. They are gaining real
+  competence in their chosen path and beginning to understand the deeper
+  mechanics of their class. A Rank E fighter is no longer simply reacting
+  — they are learning to think within their discipline.
+
+  RANK D — ADEPT
+  ---------------
+  Adepts have achieved genuine proficiency. They perform with skill and
+  efficiency, demonstrate clear mastery of core techniques, and are
+  capable of handling serious threats. At this rank, individuals begin
+  stepping outside the scope of ordinary life — their capabilities start
+  to exceed what conventional weapons and soldiers can reliably counter.
+  Reaching Rank D requires an Elite quality class minimum.
+
+  RANK C — ELITE
+  ---------------
+  Elites are among the best in their field. Superior skills, deep knowledge,
+  and refined capability set them apart from the vast majority of practitioners.
+  At this rank, characters can survive weapons of mass destruction and carry
+  enough destructive potential to level a city. Notable achievement and
+  reputation typically accompany Rank C advancement.
+
+  RANK B — MASTER
+  ----------------
+  Masters have achieved a level of mastery that places them as authorities
+  within their domain. Their abilities surpass most practitioners decisively.
+  At this rank, power begins exceeding mortal comprehension — a Master
+  operating at full strength can destroy a large country and permanently
+  alter the surrounding environment. Natural disaster equivalence.
+
+  RANK A — LEGEND
+  ----------------
+  Legends are renowned figures whose accomplishments and power are without
+  parallel at the mortal level. They have transcended planetary constraints
+  — capable of surviving in space, operating freely outside of any single
+  world's scope, and destroying entire worlds under the right conditions.
+  An A rank individual is extremely difficult to kill by any conventional
+  means.
+
+  RANK S — ASCENDANT
+  -------------------
+  Ascendants have transcended the conventional limits that define even
+  Legends. They possess rare or unique capabilities that set them entirely
+  apart. At this rank, power can no longer be meaningfully quantified by
+  mortal standards. Entry into the Eternal sublimation path.
+
+  RANK SS — TRANSCENDENT
+  -----------------------
+  Transcendents stand at the pinnacle of skill and existence, surpassing
+  even the most legendary figures in history. They are among the greatest
+  practitioners across any era. Their mastery is effectively without ceiling
+  within the known framework of the System. Deep Law interaction begins here.
+
+  RANK Ex — SUPREME
+  ------------------
+  Supreme beings are incomparable. They represent the absolute peak of
+  power, knowledge, and influence within their domain. Their existence
+  alone shapes the world around them. Primordial classification.
+
+================================================================================
+CLASS QUALITY TIERS
+================================================================================
+
+  BASIC / ORDINARY
+  -----------------
+  Entry-level classes suitable for those beginning their System journey.
+  Straightforward in function, limited in ceiling. A solid starting point
+  but insufficient for advancement past the early ranks without upgrading.
+  The most common class quality among newly awakened individuals.
+
+  Example — Warrior Apprentice:
+    A novice warrior learning the basics of combat with sword and shield.
+    Simple abilities: basic attacks, defensive stance, standard strikes.
+
+  ---
+
+  ELITE
+  ------
+  Strong and reliable classes that perform well across most situations.
+  They possess formidable abilities and contribute meaningfully at their
+  rank. Popular among serious practitioners seeking a balance of power
+  and reliability. Required minimum quality for advancement to Rank D.
+
+  ---
+
+  RARE
+  -----
+  Less common classes with unique abilities or attributes that differentiate
+  them from standard options. They offer specialized gameplay and experiences
+  that require more effort or resources to unlock and master. Required
+  minimum quality for advancement to Rank C.
+
+  ---
+
+  SPECIALIST / EPIC
+  ------------------
+  Classes that excel in specific roles or niches, providing unique advantages
+  and strategies. Not always the most versatile, but devastating in the right
+  context and in skilled hands. Their specialization demands coordination
+  and deep understanding to maximize.
+
+  Example — Shadow Assassin:
+    A stealthy rogue specializing in ambush and assassination.
+    Abilities: Backstab for concentrated burst damage, Vanish to
+    disengage and reposition unseen.
+
+  ---
+
+  APEX
+  -----
+  The pinnacle of power and versatility among accessible classes. Apex
+  classes excel across all aspects of engagement and are highly sought
+  after for their unparalleled strength and adaptability. Considered the
+  strongest reliable choice for consistent high-level performance.
+
+  Example — Divine Champion:
+    A chosen warrior blessed with divine authority.
+    Abilities: Holy Smite to strike with righteous force,
+    Divine Shield to protect allies from harm.
+
+  ---
+
+  LEGENDARY
+  ----------
+  Classes legendary in nature, possessing unmatched power and abilities
+  within their tier. Revered as the epitome of class mastery. Their
+  capabilities set them apart from all others at the same rank.
+
+  Example — Archmage of the Arcane Order:
+    Master of all schools of magic.
+    Abilities: Time Warp to manipulate temporal flow,
+    Meteor Storm to rain concentrated destruction.
+
+  ---
+
+  CELESTIAL
+  ----------
+  Classes imbued with a quality of power that transcends conventional
+  classification. Often associated with divine or extraordinary origin.
+  They wield capabilities that operate beyond the standard framework
+  of the System's lower tiers.
+
+  Example — Avatar of Light:
+    An embodiment of celestial purity.
+    Abilities: Celestial Nova — blinding explosion of concentrated light,
+    Celestial Blessing — healing and protection of allies.
+
+  ---
+
+  FORGOTTEN / ANCIENT
+  --------------------
+  Ancient or obscure classes lost to time or overlooked by most. They
+  may possess hidden potential and unique abilities that are not
+  immediately apparent — and are often underestimated for exactly
+  that reason. Mastering a Forgotten class requires significant research
+  and unconventional thinking.
+
+  Example — Shadowblade Revenant:
+    A warrior returned from darkness, wielding shadow powers.
+    Abilities: Shadowstep — teleportation through darkness,
+    Soul Drain — siphon life force from enemies.
+
+  ---
+
+  UNIQUE
+  -------
+  One-of-a-kind classes that defy categorization entirely. They offer
+  experiences and mechanics unlike any other class — original, unconventional,
+  and impossible to fully predict or counter through standard means.
+  Unique classes are singular. No two individuals can hold the same one.
+
+  Example — Chronomancer:
+    A master of time magic bending the fabric of reality.
+    Abilities: Temporal Distortion — slow localized time,
+    Rewind — undo recent events and restore a prior state.
+
+================================================================================
+RANK × CLASS QUALITY MINIMUMS
+================================================================================
+
+  Rank F  →  Rank E  : Basic minimum
+  Rank E  →  Rank D  : Basic minimum
+  Rank D  →  Rank C  : Elite minimum
+  Rank C  →  Rank B  : Rare minimum
+  Rank B  →  Rank A  : TBD
+  Rank A  →  Rank S  : TBD
+  Rank S  →  Rank SS : TBD
+  Rank SS →  Rank Ex : TBD
+
+================================================================================
+SPECIALIST CLASSES — ADDITIONAL EXAMPLES
+================================================================================
+
+  Arcane Artificer  [ Rare ]
+    A master craftsman who infuses weapons and armor with magical properties.
+    Abilities: Arcane Infusion — empower equipment with magical force,
+    Construct Summoning — deploy crafted constructs as combat allies.
+
+  Battle-Mage  [ Elite ]
+    A spellcaster equally capable in melee and magic.
+    Abilities: Arcane Strike — imbue weapons with magical force,
+    Shield Barrier — deploy a protective magical field.
+
+================================================================================
+NOTES
+================================================================================
+
+  - Class quality determines the ceiling of benefits per level: AP granted,
+    skill quality, and advancement potential all scale with class quality.
+
+  - A character's class quality must meet rank minimums or advancement is
+    hard-blocked by the System. No workarounds exist.
+
+  - Forgotten and Unique classes are intentionally rare in Universe 711
+    at the start of Book 1. Knowledge of their existence is limited.
+
+  - Jay's starting class: TBD — see jay-character-card doc.
+
+================================================================================

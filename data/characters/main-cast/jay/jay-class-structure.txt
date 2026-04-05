@@ -1,0 +1,382 @@
+================================================================================
+                    JAY — CLASS STRUCTURE & SKILL REFERENCE
+                    Spirit Dominion | The System Era
+================================================================================
+
+OVERVIEW
+--------
+Jay begins the story classless. His class is not assigned at Ascension — it
+is earned through a time-attack quest issued by the System. His window is
+1 hour. The standard window is 24 hours.
+
+The compressed window is not a penalty. It is the System acknowledging his
+ceiling is different and demanding he prove it immediately.
+
+Class reward is determined by two factors:
+  — Completion speed within the window
+  — Achievement quality during the window (kills, survival, actions taken)
+
+Jay earns a high-tier fighter class through performance. The System then
+reads his Primal Spirit Orb talent and synthesizes the result — producing
+Spirit Fighter as the intersection of what he did and what he is. A fighter
+with identical performance but no Primal Spirit Orb would receive a different
+class entirely.
+
+================================================================================
+CLASS IDENTITY
+================================================================================
+
+  Class name    : Spirit Fighter
+  Quality       : Elite
+  Starting rank : F
+  Concept       : Platform class — not a damage class. Provides infrastructure
+                  to make Jay's spirits more accessible, more efficient, and
+                  more deeply integrated with his combat.
+
+  Core principle:
+  Jay channels power through himself. He is not a summoner. Spirits do not
+  fight independently at a distance while he stands back. They integrate with
+  his body, augment his capabilities, and shape what he is capable of in a
+  given fight. The fusion system is the primary expression of this.
+
+AUTO-ATTRIBUTE DISTRIBUTION (class track, ~70% primary / 30% secondary)
+------------------------------------------------------------------------
+  Agility        ~28%   Primary physical axis
+  Constitution   ~23%   Primary physical axis
+  Strength       ~18%   Primary physical axis
+  Willpower      ~21%   Spirit control secondary
+  Perception     ~10%   Minor spread
+
+  Note: Distribution shifts when a fusion stage is active. Spirit Synergy
+  passively transfers 50% of the active spirit's primary attribute and 30%
+  of its secondary to Jay — the active spirit shapes the combat ceiling.
+
+================================================================================
+CLASS PROGRESSION TRACK
+================================================================================
+
+  Each rank-up via the Primal Spirit Orb grants Jay one new spirit.
+  Spirits are born from Jay's mental and emotional state at the moment of
+  rank-up. The first spirit has a predatory nature — a fragment of something
+  primordial that recognized its own nature in Jay.
+
+  ─────────────────────────────────────────────────────────────────────────────
+  RANK F — SPIRIT FIGHTER  |  Concept: Channeling
+  ─────────────────────────────────────────────────────────────────────────────
+  1 spirit. No physical form — cannot be summoned outside Jay's body. Power
+  is borrowed. The spirit responds, Jay channels. He must use his single
+  spirit intelligently — when to activate, when to hold back, how to make one
+  source of power cover every situation. The limitation is the design.
+
+  Gate condition (Lv15): Over-rank OR over-quality kill required.
+  Non-qualifying kills yield 5% EXP during gate level.
+
+  ─────────────────────────────────────────────────────────────────────────────
+  RANK E — SPIRIT PREDATOR  |  Concept: Fusion
+  ─────────────────────────────────────────────────────────────────────────────
+  2 spirits. No synergy between them. The challenge shifts — not how to use
+  one spirit well, but when to use which spirit and how to transition without
+  losing momentum. The boundary between Jay and his first spirit blurs
+  permanently. His senses, reflexes, and instincts are no longer purely
+  human-baseline.
+
+  ─────────────────────────────────────────────────────────────────────────────
+  RANK D — SPIRIT HERALD  |  Concept: Resonance
+  ─────────────────────────────────────────────────────────────────────────────
+  3 spirits. Jay can now project spirits outside his body as visible
+  presences — manifestations, not summons. He gains access to the spirit
+  world and begins to understand its structure. From here he hunts other
+  spirits to feed his own via Spirit Devouring. His nature begins broadcasting
+  outward — other spirits, beasts, and spirit users feel him.
+
+  ─────────────────────────────────────────────────────────────────────────────
+  RANK C — SPIRIT ASCENDANT  |  Concept: Transcendence
+  ─────────────────────────────────────────────────────────────────────────────
+  4 spirits. Jay can evolve his spirits, build physical bodies for them, and
+  summon them to act independently. He has an avatar in the spirit world.
+  Power extends beyond himself for the first time: Spirit Call temporarily
+  draws an unbound spirit and can gift it to someone; Spirit Transfer
+  temporarily lends a bonded spirit to an ally. He becomes a node.
+
+  ─────────────────────────────────────────────────────────────────────────────
+  RANK B — SPIRIT EMPEROR  |  Concept: Authority
+  ─────────────────────────────────────────────────────────────────────────────
+  5 spirits. Jay can fuse multiple spirits together temporarily into a single
+  unified entity. Spirit Conversion enters the kit — non-spirit matter can be
+  turned into spirits. Wild spirits, enemy spirits, and bonded spirits of
+  other fighters destabilize in his presence.
+
+  ─────────────────────────────────────────────────────────────────────────────
+  RANK A — SOVEREIGN  |  Concept: Natural Law
+  ─────────────────────────────────────────────────────────────────────────────
+  6 spirits — the sixth is the True Name itself, crystallized into a living
+  thing Jay can wield. His spirits become armaments: each takes the form of
+  a weapon or armor Jay equips, giving him their full power while wielding
+  them. True Name, Avatar, and Domain all active.
+
+  ─────────────────────────────────────────────────────────────────────────────
+  RANK S — PRIMAL INCARNATION  |  Concept: Embodiment
+  ─────────────────────────────────────────────────────────────────────────────
+  7 spirits — the seventh is the Primal Spirit Orb itself. The Talent that
+  started everything becomes the final bond. Every spirit is an extension of
+  Jay's will. He can act through any of them simultaneously, in any form, with
+  full intent. He doesn't cast — he extends.
+
+  ─────────────────────────────────────────────────────────────────────────────
+  RANK SS — ORIGIN SPIRIT  |  Concept: Source
+  ─────────────────────────────────────────────────────────────────────────────
+  All spirits and Jay become one. The Primal Spirit Orb was always a fragment
+  of something primordial that recognized its own nature in Jay. At SS, the
+  recognition is complete. Every rank was not a becoming — it was the world
+  catching up to what was already there.
+
+CONCEPTUAL SPINE
+----------------
+  Channeling → Fusion → Resonance → Transcendence →
+  Authority → Natural Law → Embodiment → Source
+
+================================================================================
+SPIRIT FUSION SYSTEM
+================================================================================
+
+Each bonded spirit has four independent fusion stages. Stages unlock based
+on bond level, skill mastery, and attribute requirements. Higher stages
+drain spirit energy continuously — hold duration is limited.
+
+  STAGE 1 — DEMI  (Partial integration)
+  ----------------------------------------
+  Jay takes on some characteristics of the spirit — subtle physical markers,
+  enhanced senses. Bonus attributes from Spirit Synergy amplified.
+  Skills: abilities that don't require morphological features or elemental
+  affinity. Moderate entry cost, low continuous drain. Extended hold viable.
+
+  STAGE 2 — WERE / WILD  (Significant transformation)
+  -----------------------------------------------------
+  Body changes substantially — proportions shift, new features emerge.
+  Elemental access opens for the first time. Skills requiring the spirit's
+  physical affinity become available. High entry cost, meaningful drain.
+  Hold duration measured in minutes. Transformation is visible — strategic
+  concealment compromised.
+
+  STAGE 3 — MORPHED  (Full transformation)
+  -----------------------------------------
+  Complete transformation into the spirit's form. Full access to the spirit's
+  power. Very high entry cost, severe continuous drain. Hold duration extremely
+  limited — decisive intervention window, not sustained combat mode. Human
+  cognition partially suppressed; spirit nature bleeds into decision-making.
+
+  STAGE 4 — PERFECT  (Full absorption, no visible change)
+  --------------------------------------------------------
+  Jay looks entirely human. Spirit's power fully absorbed and expressed
+  through human form. All skills human-adapted, no morphological requirements.
+  Highest entry cost but paradoxically lower continuous drain than Morphed —
+  integration is so complete it is more efficient. Hardest to achieve.
+  Requires deep bond level, high skill mastery, significant attribute
+  thresholds.
+
+================================================================================
+SKILLS — FULL REFERENCE
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+RANK F STARTERS  (awarded at class obtention, Race Lv10)
+────────────────────────────────────────────────────────────────────────────────
+
+  SPIRIT AFFINITY  [Passive]
+  Reduces the base cost of maintaining any active spirit bond. The foundation
+  that makes sustained fusion viable. Stacks with Spirit Bond when unlocked.
+
+  SPIRIT LANGUAGE  [Passive]
+  Grants intuitive understanding of a bonded spirit's intent, mood, and
+  nature. Not verbal — a direct sense of meaning. Deepens as bond level
+  grows. Prerequisite for advanced spirit coordination.
+
+  SPIRIT BOND  [Active]
+  Deliberately deepens the bond relationship with a target spirit. Accelerates
+  bond level growth beyond passive accumulation. Higher bond level unlocks
+  deeper fusion stages and stronger Spirit Synergy transfer.
+
+────────────────────────────────────────────────────────────────────────────────
+RANK F THRESHOLD UNLOCKS
+────────────────────────────────────────────────────────────────────────────────
+
+  SPIRIT SENSE  [Passive]
+  Environmental awareness of nearby spirit-type entities — presence, rough
+  nature, approximate strength. Not precise detection. Grows more accurate
+  with skill level. Also reads a spirit's nature on direct contact.
+
+  SPIRIT FUSION  [Active]
+  Initiates a fusion stage with a bonded spirit (Demi, Were, Morphed, or
+  Perfect depending on bond depth and requirements). Each stage has an energy
+  cost to enter and drains continuously while held. Higher stages drain faster.
+
+  SPIRIT NURTURING  [Passive]
+  Accelerates a bonded spirit's natural growth over time. Reduces experience
+  and bond depth required for a spirit to evolve. Long-arc skill — cumulative
+  effect is most visible across ranks.
+
+  ADAPTIVE PHYSIONOMY  [Passive]
+  Jay's body gradually adapts to the physical changes imposed by fusion stages
+  — reducing recovery time after exiting a stage and improving tolerance for
+  higher-stage transformations over time.
+
+────────────────────────────────────────────────────────────────────────────────
+RANK E — NEW UNLOCKS
+────────────────────────────────────────────────────────────────────────────────
+
+  SPIRIT SWITCH  [Active]
+  Instantly swaps which designated spirit is active mid-combat. Eliminates
+  transition lag between spirits. Cost scales with how deep a fusion stage
+  Jay is exiting when switching.
+
+  OVERCLOCK  [Active]
+  Temporarily pushes Jay's own attributes beyond their current cap by drawing
+  on accumulated spirit energy. Short duration, significant backlash if
+  overextended. Independent of any fusion stage — works with or without an
+  active spirit.
+
+  TWIN STAR DANCE  [Active]
+  A coordinated strike technique using two spirits simultaneously.
+  Coordination is Jay's doing — the spirits do not cooperate naturally. High
+  execution cost. Effective precisely because it appears impossible given the
+  lack of spirit synergy at this stage.
+
+────────────────────────────────────────────────────────────────────────────────
+RANK D — NEW UNLOCKS
+────────────────────────────────────────────────────────────────────────────────
+
+  SPIRIT MANIFESTATION  [Active]
+  Projects a bonded spirit as a visible external presence — a projection in
+  the physical world. Not a summon; the spirit has no independent body or
+  action. Used for intimidation, environmental effect, or extending Jay's
+  sensory range.
+
+  SPIRIT JUMP  [Active]
+  Teleportation through the spirit world. Jay dissolves into the spirit layer,
+  travels instantaneously, and re-emerges at a destination. Range and
+  precision scale with spirit world familiarity. Cannot be tracked through
+  conventional means during transit.
+
+  SPIRIT DEVOURING  [Active]
+  Sacrifices a bonded or captured spirit to dramatically accelerate another
+  bonded spirit's growth. Irreversible. The devoured spirit ceases to exist.
+  The weight of the decision is built into the mechanic — these are living
+  bonds.
+
+  OVERLIMIT BREAK  [Active]
+  Pushes a fusion stage beyond its safe threshold — accessing power above what
+  the current bond level should allow. Short window. Significant physical
+  backlash on exit. Distinct from Overclock: Overlimit breaks the fusion
+  ceiling, Overclock breaks the attribute ceiling.
+
+  SPIRIT STRENGTHENING  [Active]
+  Channels spirit energy into a bonded spirit to raise its base power level
+  permanently over repeated use. Slow but cumulative — the ceiling of what a
+  spirit can become is directly influenced by how much Strengthening has been
+  applied.
+
+  SPIRIT ENHANCEMENT  [Active]
+  Temporarily amplifies Jay's attributes in the direction of a spirit's nature
+  for the duration of a fight or engagement. Costs spirit energy. Does not
+  require an active fusion stage.
+
+────────────────────────────────────────────────────────────────────────────────
+RANK C — NEW UNLOCKS
+────────────────────────────────────────────────────────────────────────────────
+
+  SPIRIT SUMMONING  [Active]
+  Calls a bonded spirit into the physical world with an independent body to
+  act autonomously. Requires a body to have been built for the spirit
+  beforehand. The spirit can fight, scout, or act separately from Jay. Costs
+  spirit energy proportional to duration.
+
+  SPIRIT ASCENSION  [Active]
+  Evolves a bonded spirit to its next form — a permanent transformation that
+  raises its power ceiling, unlocks new capabilities, and deepens its nature.
+  Requires sufficient bond level, Spirit Nurturing investment, and Spirit
+  Strengthening history. Cannot be reversed.
+
+  SPIRIT CALL  [Active]
+  Temporarily attracts an unbound spirit from the surrounding environment. The
+  spirit responds for a limited duration. Secondary function: Jay can grant
+  the attracted spirit as a temporary bond to another person — the only way
+  someone without a Talent can access a spirit bond.
+
+  SPIRIT TRANSFER  [Active]
+  Temporarily transfers the bond of one of Jay's spirits to another person.
+  That person gains access to the spirit's power for the duration. Jay loses
+  access to that spirit while the transfer is active. Bond returns
+  automatically when the transfer ends or Jay recalls it.
+
+  AVATAR  [Active]
+  Projects a presence into the spirit world through which Jay can act,
+  perceive, and interact — while his physical body remains in the material
+  world. Allows simultaneous existence across both layers.
+
+  SUBJUGATION  [Active]
+  Forces an unbound or weakened spirit under Jay's authority. Subjugated
+  spirits are not bonded — they are controlled. Control maintained through
+  continuous will. Used for hunting, intelligence gathering, or temporary
+  combat deployment. A spirit under Subjugation can be Devoured.
+
+────────────────────────────────────────────────────────────────────────────────
+RANK B — NEW UNLOCKS
+────────────────────────────────────────────────────────────────────────────────
+
+  SPIRIT MERGE  [Active]
+  Temporarily fuses two or more of Jay's bonded spirits into a single unified
+  entity. The merged spirit inherits combined power and nature from all
+  participants. Duration limited. When the merge ends, constituent spirits
+  return to their individual states.
+
+  SPIRIT CONVERSION  [Active]
+  Converts non-spirit matter — objects, energy, in extreme cases concepts —
+  into spirits. The resulting spirit reflects the nature of what was converted.
+  Costs proportional to complexity and scale of what is being converted.
+
+  MIRROR BREAK  [Active]
+  Overlays a spirit onto Jay that mirrors his own abilities back — a living
+  copy of his capability expressed through the spirit's nature. Used
+  offensively as a decoy layer, defensively to reflect attacks, or to run
+  the same technique from two vectors simultaneously.
+
+────────────────────────────────────────────────────────────────────────────────
+RANK A — NEW UNLOCKS
+────────────────────────────────────────────────────────────────────────────────
+
+  SPIRIT ARMAMENT  [Active]
+  A bonded spirit takes the physical form of a weapon or armor that Jay
+  equips. While wielding the armament Jay accesses the spirit's full power
+  simultaneously. The form reflects the spirit's nature. The sixth spirit —
+  the True Name — is inseparable from this skill's highest expression.
+
+────────────────────────────────────────────────────────────────────────────────
+RANK S — EXPRESSIONS (not conventional skill unlocks)
+────────────────────────────────────────────────────────────────────────────────
+  Full spirit extension — every spirit acts as an extension of Jay's will
+  simultaneously. Act through any, in any form, with full intent.
+
+────────────────────────────────────────────────────────────────────────────────
+RANK SS — EXPRESSIONS
+────────────────────────────────────────────────────────────────────────────────
+  PRIMORDIAL ECHO  — All previous skills across every rank activate
+                     simultaneously as a single unified expression.
+  FIRST LAW        — Imposes a rule that predates the System. Cannot be
+                     negated because it existed before negation was possible.
+  ORIGIN PULSE     — Rewrites the spirit nature of everything in range back
+                     to its most fundamental predatory state — civilization,
+                     technique, and refinement stripped away.
+
+================================================================================
+TBD — OPEN ITEMS
+================================================================================
+
+  - First spirit name, appearance, and nature (predatory — TBD)
+  - Advanced class name after Rank F advancement
+  - Exact fusion stage unlock requirements (bond level thresholds, attributes)
+  - Spirit world lore and structure
+  - Body-building mechanic for Spirit Summoning (Rank C prerequisite)
+  - True Name content — what Jay's True Name actually is
+  - Spirit Devouring narrative weight — story beats TBD
+
+================================================================================

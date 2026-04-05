@@ -1,0 +1,426 @@
+================================================================================
+                    POWER SYSTEM — PROGRESSION
+                    Spirit Dominion | The System Era
+================================================================================
+
+OVERVIEW
+--------
+Every integrated entity in Universe 711 operates on two parallel progression
+tracks simultaneously:
+
+  1. CLASS LEVEL   — Skills, combat role, and technique-based advancement.
+  2. RACE LEVEL    — Biological and metaphysical sublimation of the body itself.
+
+Both tracks must advance in tandem at critical nodes. Neglecting one limits
+the ceiling of the other. Together they define the full scope of a character's
+power.
+
+================================================================================
+TRACK 1 — CLASS LEVEL
+================================================================================
+
+RANK STRUCTURE
+--------------
+Class progression is divided into ranks, each with a level cap. Moving through
+ranks represents mastery deepening and power scaling beyond the previous ceiling.
+
+  Rank F  — Novice         15 levels    Basic quality minimum
+  Rank E  — Apprentice     25 levels    Basic quality minimum
+  Rank D  — Adept          60 levels    Elite quality minimum
+  Rank C  — Elite         100 levels    Elite quality minimum
+  Rank B  — Master                      Rare
+  Rank A  — Legend                      Rare
+  Rank S  — Ascendant                   Epic
+  Rank SS — Transcendent                Legendary
+  Rank Ex — Supreme                     Celestial
+
+POWER SCALING REFERENCE
+-----------------------
+A rough real-world equivalent for each rank to anchor the scale of threats
+and capabilities:
+
+  Rank F  : Still vulnerable to conventional weapons and small caliber firearms.
+  Rank E  : Can engage properly armed soldiers. Resistant to small and large
+            caliber firearms.
+  Rank D  : Power comparable to conventional war machines. Resistant to most
+            kinetic weapons. Begins stepping outside the scope of ordinary life.
+  Rank C  : Can survive weapons of mass destruction. Enough power to destroy
+            a city.
+  Rank B  : Natural disaster level. First major threshold. Abilities begin
+            exceeding mortal comprehension. At full power, can destroy a large
+            country and permanently alter the environment.
+  Rank A  : Free from the constraints of a planet. Walking calamities capable
+            of surviving in space. Can destroy an entire world under the right
+            conditions. Extremely difficult to kill.
+  Rank S+ : Beyond conventional quantification. See Sublimation stages.
+
+CLASS QUALITY
+-------------
+Every class carries an inherent quality rating that determines the ceiling of
+its benefits — AP granted per level, skill quality, and advancement potential.
+
+  Basic / Ordinary   (F tier)
+  Elite              (E tier)
+  Rare               (D tier)
+  Specialist / Epic  (C tier)
+  Apex               (B tier)
+  Legendary          (A tier)
+  Celestial          (S tier)
+  Forgotten/Ancient  (SS tier)
+  Unique             (Ex tier)
+
+Note: A character's class quality must meet minimum thresholds at certain ranks.
+As rank increases, a Basic class may become insufficient — the character either
+advances their class or faces a hard ceiling on progression.
+
+CLASS ADVANCEMENT MECHANICS
+----------------------------
+
+Leveling up:
+  - Performing actions aligned with the class generates class experience.
+  - A pure swordsman gains no class EXP from firing a gun.
+  - Each level-up increases the class's main attributes automatically and
+    awards Free Attribute Points.
+  - At certain level thresholds, new skills become available.
+  - The quantity of AP, number of skills, and their quality all scale with
+    class quality.
+
+Rank-up:
+  When the maximum level of a rank is reached, two paths are available:
+
+  Simple Rank-Up:
+    The class remains the same but advances to the next rank.
+    Example: Rank E Spearman → Rank D Spearman.
+
+    Class quality minimum — HARD BLOCK:
+    Certain ranks require a minimum class quality to advance. This is not
+    a penalty or a soft cap — it is an absolute System requirement.
+    A character whose class quality falls below the minimum for their
+    current rank cannot rank up under any circumstance until the class
+    quality requirement is met.
+
+    Minimums:
+      Rank F → Rank E  : Basic quality minimum
+      Rank E → Rank D  : Basic quality minimum
+      Rank D → Rank C  : Elite quality minimum
+      Rank C → Rank B  : Elite quality minimum
+
+    Practical implication:
+    Every character aiming for Rank D must complete a class advancement
+    challenge and reach Elite quality first. This is not optional content
+    — it is a structural prerequisite. Class advancement challenges become
+    mandatory milestones, not optimization choices.
+
+  Class Advancement:
+    Requires completing a challenge — the nature of which varies by class
+    and rank. Success unlocks an evolved or entirely new class.
+    Advancement benefits:
+      — Increased attribute conversion ratios
+      — Improved attribute distribution
+      — Skill points
+      — Skill tier advancement
+      — For Rare quality and above: special organ strengthening and/or
+        knowledge transmission
+
+================================================================================
+TRACK 2 — RACE LEVEL  [ SUBLIMATION ]
+================================================================================
+
+SUBLIMATION STAGES
+------------------
+Race progression — also called Sublimation — represents the fundamental
+transformation of a being's physical and metaphysical nature. It runs
+parallel to class progression and must align with class advancement at
+critical breakthrough nodes.
+
+  Stage 1 — Dormant        (Class G equivalent)
+  Stage 2 — Awakened       (Class F, E, D)       Mortal tier
+  Stage 3 — Extraordinary  (Class C, B)           Super-dimensional tier
+  Stage 4 — Named          (Class A, S)           Super-dimensional High tier
+  Stage 5 — Eternal        (Class SS)             High-Information tier
+  Stage 6 — Primordial     (Class Ex)             Beyond classification
+
+────────────────────────────────────────────────────────────────────────────────
+STAGE 1 — DORMANT
+────────────────────────────────────────────────────────────────────────────────
+The default state of any species before contact with supernatural or System
+energy. Most beings in Universe 711 were at this stage before the Ascension
+event. No access to the extraordinary. Bound entirely by natural biology.
+
+────────────────────────────────────────────────────────────────────────────────
+STAGE 2 — AWAKENED  [ Book 1 scope ]
+────────────────────────────────────────────────────────────────────────────────
+The first true contact with System power. The character gains access to
+extraordinary capabilities but remains fundamentally constrained by their
+physical body and its natural laws.
+
+Characteristics:
+  — Physiological needs persist (food, sleep, oxygen).
+  — Lifespan remains limited.
+  — Most magical and extraordinary armament still poses a serious threat.
+  — Certain body parts remain critical weak points.
+  — Recovery from serious injury is slow.
+  — Limited post-action capacity — severe impairment in hostile environments.
+  — Elemental access is limited to a single, relatively basic element.
+  — Spells and skills are power-reliant rather than refined — quantity
+    over quality. Physical skills push the body toward its limits rather
+    than transcending them.
+
+This is the entirety of Book 1's scope for Jay and most characters.
+The ceiling of what Awakened beings can achieve is vast — F through D rank
+covers an enormous range from vulnerable-to-firearms to war-machine-equivalent.
+
+────────────────────────────────────────────────────────────────────────────────
+STAGE 3 — EXTRAORDINARY  [ Book 2+ milestone ]
+────────────────────────────────────────────────────────────────────────────────
+The first true break from mortal constraints. The character ceases to use
+general-purpose mana and gains access to a higher, more refined energy
+suited to their specific path. This transition dramatically increases power
+and endurance in sustained combat.
+
+Note: Some doors close at this stage. The path chosen shapes what becomes
+accessible and what does not.
+
+The super-dimensional designation reflects the character beginning to touch
+the fundamental fabric of the world — no longer merely operating within it.
+
+Rank C advancement:
+  — Acquisition of advanced energy.
+  — Awakening of a new elemental affinity.
+  — The character begins forging either a Battle Body (physical path) or
+    a True Self (spiritual/mental path) by nourishing it with their
+    advanced energy.
+
+Battle Body / True Self:
+  A passive effect permanently granted upon completion. Its nature depends
+  entirely on the type of energy used to forge it. This is not a technique
+  — it is a fundamental transformation of what the character is.
+
+  Upon completion:
+  — Attributes are compressed — the same number now represents
+    dramatically greater actual power.
+  — A Golden Attribute is unlocked.
+
+Golden Attribute:
+  A single attribute that amplifies every aspect of the character in its
+  direction. Categories: Might / Speed / Psychic / Magic / Resilience / Life.
+
+  Mechanics:
+  — Every point of the golden attribute unleashes its full effect without
+    physical backlash.
+  — The value of 1 Golden Point is determined by the highest value of the
+    character's primary attribute at the moment of acquisition.
+    Example: If primary attribute is 10 at acquisition, then 1 GP = 10.
+  — Golden Attributes can only be obtained through significant achievement
+    or high-value System quests. They cannot be farmed.
+
+────────────────────────────────────────────────────────────────────────────────
+STAGE 4 — NAMED
+────────────────────────────────────────────────────────────────────────────────
+The summit of pure numerical might. To reach Named stage, a character must
+accumulate sufficient achievement through the Extraordinary stage and earn
+a True Name — the crystallization of everything they have accomplished and
+become.
+
+True Name:
+  The True Name is not a title assigned by others. It is a name that
+  emerges from the weight of a character's existence — their deeds,
+  their nature, their path. Its power is proportional to that weight.
+
+  The True Name unlocks:
+  — The Avatar / Incarnation: the active form of the Battle Body / True Self.
+    At full activation, this represents a nearly limitless release of
+    destructive force, drawing from the dimensional energy well directly.
+    Duration, power, and manifestation depend on the value of the True Name.
+  — The Domain: the projection of the character's will upon the surrounding
+    world. Unlike the Avatar which empowers the self, the Domain suppresses
+    and affects everything within its reach.
+
+Domain effects (variable by character):
+  Elemental suppression / Life drain / Energy drain / Continuous attacks /
+  Ruler compulsion / Instant execution / Environmental domination.
+  The only counter to a Domain is another Domain.
+
+Named beings in practice:
+  Nearly indestructible. Capable of effortlessly destroying worlds if
+  unconstrained. The Domain is also the bridge to the next stage — it
+  is how a Named being learns to connect to the world at a structural level,
+  preparing the path to Eternal.
+
+────────────────────────────────────────────────────────────────────────────────
+STAGE 5 — ETERNAL
+────────────────────────────────────────────────────────────────────────────────
+At this stage, raw power is no longer the question. An Eternal being is a
+Domain lord — nigh indestructible, capable of living for eons. And yet death
+remains a looming possibility even here.
+
+The only path to true Eternal status: becoming part of the universe itself.
+
+This requires touching the Laws — the fundamental rules that govern existence.
+An Eternal being must:
+  1. Understand a Law deeply enough to perceive its structure.
+  2. Seize a complete concept within that Law and make it theirs.
+     (Example: The Law of Fire contains concepts of life, creation, time,
+     hope, and destruction. Seizing the complete concept of Destruction
+     within the Law of Fire is one such achievement.)
+  3. Inscribe their mark on the fabric of that concept — so that as long
+     as the universe persists, they persist within it.
+
+Notes:
+  — The greater a being's influence and Domain, the easier it is to seize
+    concepts within a Law.
+  — Competition over Laws and their concepts is brutal. Eternal Lords
+    may wage wars over a single concept.
+  — Seizing an entire Law is not required — only complete mastery over
+    one concept within it.
+
+Once enough concept fragments are gathered across multiple Laws, the
+character can construct the prototype of a Concept — the final preparation
+for Primordial ascension.
+
+────────────────────────────────────────────────────────────────────────────────
+STAGE 6 — PRIMORDIAL
+────────────────────────────────────────────────────────────────────────────────
+Beyond conventional classification. The endpoint of the progression path
+as currently understood. Details intentionally limited.
+
+[ To be expanded as the story reaches this scope ]
+
+================================================================================
+RACE & BLOODLINE
+================================================================================
+
+RACE CLASSIFICATION
+-------------------
+Every character belongs to a race — a group of beings sharing core biological
+and metaphysical characteristics. Race determines the natural ceiling of
+sublimation, the benefits of racial level-up, and base attribute tendencies.
+
+Race tiers by sublimation potential:
+
+  Basic / Mortal          Can reach Awakened naturally.
+                          Extraordinary requires external factors (class system).
+  Intermediate / Super-dimensional   Can reach Extraordinary naturally.
+  Advanced / High-Information        Can reach Named naturally.
+  Unique Entity           Classification outside standard tiers.
+
+Each tier can be further divided: Low / Mid / High.
+
+Benefits of racial level-up scale with race rating — higher races grant more
+AP, stronger characteristics, and better inherited skills.
+
+Most races are linked to a higher race they can evolve into through sublimation.
+
+INTELLIGENT RACE CATEGORIES
+----------------------------
+Intelligent races are classified by their civilizational tendency and power
+system affinity. In Universe 711's fusion world, humans are not uniform —
+they vary across categories depending on their origin world among the five
+that merged during Ascension.
+
+  Crafting Race:
+    High-intellect races relying on advanced technology and machinery.
+    Weakest individually but highest potential for adaptability and
+    collective destructive capability. Their creations compensate for
+    physical limitations.
+    Core attributes : Dexterity, Wisdom, Perception, Willpower.
+    Example         : Terran (Human-type I)
+
+  Power Race:
+    Physically dominant races relying on raw bodily strength. Technology
+    is often backward. Warlike culture with deep respect for power.
+    Core attributes : Constitution, Strength, Agility, Willpower.
+
+  Spirit Race:
+    Races with an innate connection to nature and the extraordinary.
+    Even before System integration, they could access limited natural
+    power. Technology is advanced but organic rather than destructive.
+    Core attributes : Mystery, Willpower, Perception, Wisdom.
+    Note            : Often intermediate races.
+
+  Faith Race:
+    Races organized around belief in a higher power. Survival is often
+    dependent on a patron being or supernatural force. Society tends to
+    be hierarchical around religious leadership. Attributes and capabilities
+    vary significantly based on the object of their belief.
+    Core attributes : Mystery, Perception.
+
+BLOODLINE
+---------
+A bloodline is a power specific to a subset within a race — inherited,
+passed generation to generation, and representing an edge over racial peers.
+
+Bloodline can translate into:
+  — Additional attribute points
+  — Inherited Talents
+  — Inherited Skills
+  — Other unique benefits
+
+Bloodline is the primary power source for monsters and non-intelligent species.
+For intelligent beings, it is an add-on layered over racial baseline.
+
+Bloodline quality tiers:
+  Common
+  Uncommon
+  Refined
+  Noble
+  Sovereign
+  Mythic
+  Primordial
+
+================================================================================
+MONSTER PATH
+================================================================================
+
+Monsters progress on a parallel track to intelligent beings. They are the
+primary hunting target of the System and the main source of combat experience
+and resources for advancing characters.
+
+Key differences from intelligent species:
+  — Monsters advance almost exclusively through race level, not class level.
+  — At the same rank, monster level caps are 2× those of intelligent species.
+  — The primary determinant of a monster's path and ceiling is their bloodline.
+
+Monster rank titles:
+
+  Rank F  — Monster
+  Rank E  — Elite Monster
+  Rank D  — Tyrant Monster
+  Rank C  — Titan / Spirited Monster
+  Rank B  — Disaster Monster
+  Rank A  — Calamity Monster
+  Rank S  — Apocalypse Monster
+  Rank SS — Divine Monster
+  Rank Ex — Primordial Monster
+
+Promotion paths and sublimation stages mirror those of intelligent species.
+Monster bloodline tiers follow the same quality structure as intelligent
+bloodlines and are the defining factor in how high a monster can ascend.
+
+================================================================================
+STORY SCOPE — BOOK 1
+================================================================================
+
+  Jay's range       : Rank F → Rank D (Awakened stage throughout)
+  Starting state    : Rank F, Level 1, baseline human, no bloodline advantage
+  Key advantage     : Primal Spirit Orb talent — the only exceptional edge
+                      at the start
+  Extraordinary     : Book 2+ milestone. Not reached in Book 1.
+
+  The Awakened stage alone spans an enormous power range — from vulnerable
+  to conventional firearms at F rank to war-machine equivalent at D rank.
+  Book 1 has more than enough room to tell a complete and escalating story
+  entirely within this window.
+
+================================================================================
+TBD
+================================================================================
+
+  - Jay's class name and quality at Rank F               : TBD
+  - Human race variants in the fusion world (5 origins)  : TBD
+  - Golden Attribute candidates for Jay at Extraordinary : TBD — Book 2+
+  - True Name direction for Jay                          : TBD — long arc
+  - Class advancement challenge structure                : TBD
+  - Specific AP amounts per rank/class quality           : TBD
+
+================================================================================

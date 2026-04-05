@@ -1,0 +1,341 @@
+================================================================================
+                        CHARACTER CARD — SPIRIT DOMINION
+================================================================================
+
+[ IDENTITY ]
+Name            : Jessica Williams
+Aliases/Titles  : Jess (default, how everyone knows her)
+                  Jessica (what Jay calls her when the other side is present)
+Age             : 17
+Gender          : Female
+Race/Species    : Human — Universe 711
+Class/Role      : Arcane Gunner → Reality Mancer (long arc)
+Affiliation     : Independent → Faction Core Member
+
+--------------------------------------------------------------------------------
+[ SYSTEM STATS ] — LitRPG
+--------------------------------------------------------------------------------
+Level           : 1 (post-Ascension, Arc 1 start)
+Rank/Tier       : Rank F
+Primary Stat    : Mystery
+Secondary Stats : Willpower, Perception, Wisdom
+Unique Skill(s) : True Sight / Veil Breaker — see talent section below
+System Title    : — (none at start)
+Limitations     : Talent backlash is a genuine and escalating risk.
+                  Reckless use of True Sight risks severe mental and
+                  physical consequences. Crucially, pushing the talent
+                  too hard is one of the two conditions that can trigger
+                  the switch to Jessica. The talent and the disorder are
+                  not separate problems.
+                  Jessica's aggression and recklessness with True Sight
+                  compounds the backlash risk significantly. She does
+                  not respect the cost at all.
+
+--------------------------------------------------------------------------------
+[ APPEARANCE ]
+--------------------------------------------------------------------------------
+Height/Build    : Lean and compact. The kind of person who takes up
+                  less space than they should until they decide not to.
+Eyes            : Bright and restless as Jess. Something colder and
+                  more deliberate settles into them as Jessica.
+Hair            : TBD
+Distinguishing  : As Jess, an energy that reads as enthusiasm barely
+                  managing to stay ahead of itself. As Jessica, the
+                  energy does not disappear. It sharpens into something
+                  that makes people instinctively step back without
+                  knowing why.
+Combat Gear     : TBD — arcane gunner configuration, research tools.
+Casual Look     : Practical. Usually has something taken apart nearby.
+
+--------------------------------------------------------------------------------
+[ PERSONALITY — JESS ]
+--------------------------------------------------------------------------------
+Core Traits     : Brilliant and restless. Genuinely warm. Moves through
+                  the world with a curiosity that did not survive Alan's
+                  household intact in Jay but survived it in her.
+                  Pushes limits before fully mapping them — not from
+                  recklessness but from a deep conviction that the next
+                  layer of understanding is always worth reaching for.
+
+Strengths       : Speed of comprehension. She connects things across
+                  domains in ways others miss and does it without effort.
+                  Unafraid of complexity. A difficult spell is a puzzle
+                  worth solving, not a warning to step back.
+                  Honest in a way that disarms people. She does not
+                  perform warmth. She simply is warm.
+                  The relationship with Jay is the most important one
+                  in her life and she holds it with both hands even
+                  when it costs her.
+
+Flaws           : Runs ahead of herself. The gap between understanding
+                  a thing and respecting what it costs is where she
+                  gets into trouble — and that gap is exactly where
+                  Jessica lives.
+                  Jay's protectiveness is something she loves and
+                  resents in equal measure. She has never said that
+                  to him.
+                  She is aware of Jessica and cannot always stop the
+                  switch. Living with that awareness is its own weight,
+                  carried without complaint.
+
+Fears           : Being kept small by someone else's fear on her behalf.
+                  The backlash. Not consciously held as a fear, but
+                  somewhere in her the knowledge sits — the talent
+                  can break her if she pushes wrong, and Jessica
+                  does not care about that at all.
+                  Losing control at the wrong moment and hurting
+                  someone she cannot afford to hurt.
+
+Motivations     : Understand everything. Not for power, for the
+                  satisfaction of the understanding itself.
+                  Be her own person inside a faction that includes
+                  her older brother.
+                  Find a way to hold both sides of herself without
+                  one destroying the other.
+
+Moral Alignment : Principled but not rigid. Would not harm without
+                  cause. Would break a rule if it was standing between
+                  her and something important. Holds a genuine care
+                  for people that is not situational.
+
+Speech Style    : Fast. Layered. She talks the way she thinks, which
+                  means she sometimes lands three steps ahead and has
+                  to double back. Warm underneath the speed. Occasional
+                  dry wit that lands harder for being unexpected.
+
+--------------------------------------------------------------------------------
+[ PERSONALITY — JESSICA ]
+--------------------------------------------------------------------------------
+Core Traits     : Bloodthirsty. Contemptuous of weakness. Operates with
+                  a cold confidence that has no interest in performing
+                  anything for anyone. She does not pretend to be less
+                  than she is. She considers Jess's warmth and caution
+                  a waste of what they are capable of.
+
+Relationship with Jess:
+                  Jessica is aware of Jess and holds her in contempt.
+                  Not hatred. Contempt. She sees the warmth, the caution,
+                  the effort Jess puts into being good-natured, and reads
+                  it as weakness dressed up as virtue. She does not want
+                  to destroy Jess. She wants Jess to stop being so small.
+
+Relationship with Jay:
+                  Confrontational. Jessica does not defer to Jay the
+                  way Jess does. She engages him directly, challenges
+                  him, and is not intimidated by him. Jay calls her
+                  by her full name when she surfaces. She knows he
+                  knows. She does not care and does not hide.
+                  There is a version of respect in how she treats him.
+                  She does not respect many people, and she does not
+                  pretend to respect him. But she engages him as an
+                  equal where Jess sometimes holds back.
+
+Use of True Sight:
+                  Jessica uses the talent the way Jess will not allow
+                  herself to. Recklessly. Aggressively. She pushes
+                  further than Jess has mapped because the cost does
+                  not register to her as hers to pay. The backlash,
+                  when it comes, lands on Jess. Jessica is aware of
+                  this and considers it a Jess problem.
+
+Speech Style    : Precise and direct. Less performative than Jess.
+                  No warmth in the baseline register. Not loud —
+                  she does not need volume. The contempt is quiet
+                  and that makes it land harder.
+
+--------------------------------------------------------------------------------
+[ TRIGGERS ]
+--------------------------------------------------------------------------------
+Two conditions bring Jessica forward:
+
+  EMOTIONAL STRESS   Situations where Jess feels threatened, cornered,
+                     or pushed past a threshold she cannot manage
+                     from her default register. The switch is not
+                     always instantaneous. There is sometimes a
+                     visible moment of fracture where Jess is losing
+                     the ground before Jessica takes it.
+
+  TALENT BACKLASH    Pushing True Sight past what Jess's mind can
+                     currently hold cleanly. The overreach destabilizes
+                     her enough to open the door. This is the more
+                     dangerous trigger because it can happen in the
+                     middle of a fight, in the middle of a research
+                     session, in any context where Jess reaches too far.
+                     Jessica surfaces from the fracture ready and already
+                     contemptuous of whatever caused the situation.
+
+The switch back to Jess can be anchored by Jay calling her full name.
+Not always immediately. Not as a clean reset. But his voice using that
+name is the most reliable external anchor she has.
+
+--------------------------------------------------------------------------------
+[ BACKSTORY ]
+--------------------------------------------------------------------------------
+Origin          : Same household as Jay. Same father, same environment,
+                  a different way of surviving it. Jay absorbed Alan's
+                  philosophy and built it into his architecture. Jess
+                  was younger, shielded more by their mother, and came
+                  out with her curiosity and warmth intact — and with
+                  something else that formed in the dark alongside both
+                  of those things.
+
+Key Events      : The household. She saw enough of what Alan was to
+                  understand why Jay is the way he is, even if she
+                  cannot say it out loud.
+                  Jessica's first emergence — TBD. The specific moment
+                  the split became undeniable. Jay was present.
+                  The Ascension. True Sight activated and she saw the
+                  fabric of the world for the first time. The experience
+                  was overwhelming and revelatory. Jessica surfaced
+                  briefly during it and liked what she saw.
+                  First serious backlash incident — TBD. It is coming
+                  and it will force the question of whether Jess can
+                  keep pushing the talent the way she has been.
+
+Trauma/Wound    : The split did not happen without cause. Alan's
+                  household produced it. Whether it was a specific
+                  event or the accumulated weight of years is TBD,
+                  but the wound is real and it lives in the gap
+                  between who Jess is and who Jessica is.
+                  Jay knows this. He has never said it directly
+                  and neither has she.
+
+Secret(s)       : Jess has already pushed True Sight further than
+                  she has told anyone — partly from genuine curiosity,
+                  partly because Jessica has taken it further during
+                  switches Jess can only partially reconstruct afterward.
+                  She knows more about what the talent can do and what
+                  it costs than she lets on, and some of that knowledge
+                  was not earned by her.
+
+--------------------------------------------------------------------------------
+[ RELATIONSHIPS ]
+--------------------------------------------------------------------------------
+Allies          : Jay (brother — the most important relationship),
+                  Samantha, Lexie, Alex
+Rivals          : TBD
+Enemies         : TBD
+Romantic        : TBD
+Mentors         : TBD — eventually outgrows every available mentor
+                  in her specific domain.
+Family          : Jay (older brother), Alan (father — estranged),
+                  unnamed mother
+
+--------------------------------------------------------------------------------
+[ TALENT ]
+--------------------------------------------------------------------------------
+Name            : True Sight / Veil Breaker
+Classification  : Elemental / Magical — Perceptual / Conceptual variant
+Timing          : Composite
+
+POWER ROAD:
+  OBSERVATION    The first layer. True Sight strips concealment.
+                 Illusions, false presentations, and surface glamours
+                 are transparent to her. She sees what is actually there.
+
+  UNDERSTANDING  The second layer. She begins to comprehend the structure
+                 of what she sees — formations, spell architecture,
+                 the underlying logic of magical phenomena. What she
+                 sees, she can read.
+
+  MODIFICATION   The third layer. Understanding becomes the foundation
+                 for interference. She can reach into what she sees
+                 and alter it. Rewriting formations mid-execution,
+                 disrupting spell structures, bending what is toward
+                 what she intends it to be.
+
+  CREATION       The final layer. She stops working with what already
+                 exists and begins creating from fundamental principles.
+                 Reality Mancing. Laws she has fully understood become
+                 laws she can rewrite within the scope of her domain.
+
+BACKLASH:
+  The world does not want to be seen at its foundation. Every push
+  beyond what the mind can currently hold cleanly risks backlash:
+  sensory collapse, mental fracturing, temporary loss of the talent's
+  function, and at extreme overreach, permanent damage.
+  Backlash is also a trigger for Jessica. This is the talent's most
+  significant structural danger — Jess and Jessica together will push
+  further than Jess alone ever would, and the cost of that lands
+  on Jess.
+
+JESSICA'S EXPRESSION:
+  Jessica uses True Sight without the restraint Jess applies. She does
+  not pause to map the cost. She reaches and takes what is there. Her
+  application is more aggressive and more reckless, and in short bursts
+  this produces results Jess's cautious approach would not. The damage
+  that follows is Jess's to absorb.
+
+COMBAT APPLICATION:
+  Arcane Gunner early: True Sight feeds directly into accuracy, threat
+  assessment, and the ability to use spell configurations others cannot
+  execute reliably. Jess does not just aim. She sees where to aim.
+
+  Illusion specialization: Because she sees through illusions completely,
+  she understands their architecture better than any conventional
+  illusionist. What she builds is structurally precise in a way that
+  makes her illusions uniquely difficult to pierce. The person who sees
+  through everything choosing to master the art of making others unable
+  to see clearly — this tension is worth mining.
+
+  Phenomena-class spells: Her specialization in spells that mirror
+  natural phenomena is the long expression of this talent. The world's
+  own forces, read clearly enough, can be reproduced. Eventually she
+  does not cast spells. She authors events.
+
+--------------------------------------------------------------------------------
+[ CHARACTER ARC ]
+--------------------------------------------------------------------------------
+Start State     : A seventeen-year-old carrying a brilliant mind, a
+                  genuine warmth, a talent with a dangerous ceiling,
+                  and another version of herself that is contemptuous
+                  of everything she tries to be. Jay knows. She knows
+                  he knows. Neither of them has said it plainly.
+
+Internal Goal   : Hold both sides of herself together long enough to
+                  understand what they are. Not eliminate Jessica —
+                  integrate her, or at minimum stop being consumed
+                  by the gap between them.
+
+External Goal   : Master True Sight before the backlash or Jessica's
+                  recklessness masters her. Become the faction's
+                  primary research and arcane authority. Reach
+                  Reality Mancing.
+
+Turning Point   : A serious backlash that surfaces Jessica at the
+                  worst possible moment. The damage lands on Jess.
+                  The question of whether to keep pushing the talent
+                  the way she has been becomes impossible to avoid.
+
+End State       : TBD — open. There is a version of this arc where
+                  Jess and Jessica stop being at war with each other
+                  and the integration produces something neither
+                  could have become alone.
+
+Theme/Lesson    : The parts of yourself you did not choose are still
+                  yours to answer for. Understanding that is not the
+                  same as accepting it. Acceptance is harder and it
+                  comes later.
+
+--------------------------------------------------------------------------------
+[ NOTES ]
+--------------------------------------------------------------------------------
+Misc            : Jessica is not the villain of this story and should
+                  not be written as one. She is contemptuous, bloodthirsty,
+                  and reckless — but she is also a product of the same
+                  household Jess survived. At some level she is the part
+                  of Jess that did not bother to pretend it was fine.
+                  That deserves weight.
+                  Jay calling her Jessica is a signal the reader will
+                  learn to read. Used sparingly, it lands hard.
+                  The relationship between Jess's illusion specialization
+                  and True Sight is thematically significant: the person
+                  who sees through everything building the art of making
+                  others unable to see.
+                  Jessica's contempt for Jess should never become simple
+                  cruelty. It is a specific kind of contempt — the kind
+                  that comes from watching someone capable of more choose
+                  to be less. That distinction matters for how she reads
+                  on the page.
+
+================================================================================

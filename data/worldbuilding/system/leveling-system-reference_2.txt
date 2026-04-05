@@ -1,0 +1,424 @@
+================================================================================
+                    LEVELING SYSTEM — FULL REFERENCE
+                    Spirit Dominion | The System Era
+================================================================================
+
+OVERVIEW
+--------
+Every integrated entity operates on two parallel progression tracks:
+
+  CLASS TRACK   — Skills, combat role, technique-based advancement.
+                  Advances through class-aligned actions and kills.
+                  Awards auto-attribute points + small FA bonus per level.
+
+  RACE TRACK    — Biological and metaphysical sublimation of the body.
+                  Primary source of Free Attribute Points (FA).
+                  Advances through kills (reduced rate) + non-kill sources.
+
+Both tracks feed from the same kill pool but split the EXP independently.
+They can desync. Race level hard-gates certain class rank-ups at critical nodes.
+
+================================================================================
+RANK & LEVEL STRUCTURE
+================================================================================
+
+  Rank   Class level range   Overall class level   Sublimation stage
+  -----  -----------------   -------------------   -----------------
+  F      [1–10]              10                    Awakened
+  E      [1–15]              25
+  D      [1–25]              50
+  C      [1–40]              90                    Extraordinary
+  B      [1–60]              150
+  A      [1–70]              220                   Named
+  S      [1–80]              300
+  SS     [1–200]             500                   Eternal
+  EX     [1–inf]             inf                   Primordial
+
+RACE LEVEL CAPS PER SUBLIMATION STAGE
+--------------------------------------
+  Awakened       50 levels   (shared freely across Rank F, E, D — no sub-cap)
+  Extraordinary  100 levels
+  Named          150 levels
+  Eternal        200 levels
+  Primordial     inf
+
+COMBINED PEAK LEVELS PER STAGE
+-------------------------------
+  Awakened (F–D)        : 50 class + 50 race = 100 combined
+  Extraordinary (C–B)   : 150 class + 100 race = 250 combined (approx)
+  Named (A–S)           : 300 class + 150 race = 450 combined (approx)
+  Eternal (SS)          : 500 class + 200 race = 700 combined (approx)
+
+OVERALL LEVEL (for formula use)
+---------------------------------
+  Overall Lv = current class track level + current race track level
+  at the moment of calculation. Both tracks use their own local level
+  counter. Resets at each sublimation stage boundary (see Stage Transition).
+
+================================================================================
+EXP REQUIRED PER LEVEL
+================================================================================
+
+Formula (per track, independently):
+  EXP(local_lv → local_lv+1) = local_lv^1.65 × C_req
+
+Constants:
+  α = 1.65   (fixed across all stages and tracks)
+  C_req      (shifts at each sublimation stage boundary — see Stage Transition)
+
+Awakened baseline:
+  C_req = 100
+
+Sample requirements (Awakened, C_req = 100):
+  Lv 1  → 2   :     100 EXP
+  Lv 2  → 3   :     314 EXP
+  Lv 3  → 4   :     613 EXP
+  Lv 5  → 6   :   1,317 EXP
+  Lv 10 → 11  :   4,467 EXP
+  Lv 14 → 15  :   7,800 EXP
+  Lv 25 → 26  :  19,700 EXP
+  Lv 50 → 51  :  63,500 EXP (Awakened overall peak)
+
+NOTE: Each track tracks its own local level and requirement independently.
+A character at Class Lv8 + Race Lv5 has two separate requirement counters
+running — one at Lv8 for class, one at Lv5 for race.
+
+================================================================================
+KILL EXP — FULL FORMULA
+================================================================================
+
+OVERALL LEVEL
+-------------
+Kill EXP yield and ratio both use OVERALL LEVEL:
+  Overall Lv = attacker's class track level + attacker's race track level
+  Same for opponent.
+
+MASTER FORMULA
+--------------
+  Kill EXP (total pool) = Opp overall Lv^1.35 × C_kill × Rank Factor
+                          × (Opp overall Lv / Your overall Lv)
+
+Constants:
+  β      = 1.35   (fixed across all stages)
+  C_kill = 10     (Awakened baseline — shifts at stage boundaries)
+
+RANK FACTOR
+-----------
+  Opponent below your rank     :  ×0      Hard zero. No EXP.
+  Same rank                    :  ×1.0    Baseline.
+  +1 rank (adjacent letter)    :  ×2.0    One boundary crossed.
+  +2 ranks                     :  ×3.5    Two boundaries crossed.
+  +3 ranks                     :  ×5.0    +1.5 per additional rank, uncapped.
+  +4 ranks                     :  ×6.5
+  +5 ranks                     :  ×8.0    (continues linearly)
+
+EXP SPLIT — CLASS VS RACE
+--------------------------
+After total kill pool is calculated, it splits between tracks based on
+kill method alignment:
+
+  Alignment tier      Class share   Race share
+  ----------------    -----------   ----------
+  Fully aligned       60%           40%
+  Partially aligned   20%           80%
+  Unaligned           0%            100%
+
+  Fully aligned    : Kill achieved through core class method.
+  Partially aligned: Hybrid method — class involved but not primary.
+  Unaligned        : Kill achieved entirely outside class identity.
+
+Examples:
+  Warrior kills with sword         → Fully aligned (60/40)
+  Warrior kills with sword + gun   → Partially aligned (20/80)
+  Warrior kills with gun only      → Unaligned (0/100)
+  Spirit Fighter uses spirit ability → Fully aligned (60/40)
+  Spirit Fighter uses a trap       → Partially aligned (20/80)
+
+TEAM EXP SPLIT
+--------------
+When multiple members contribute to a kill:
+
+  Base EXP : Split by contribution weight (proportional to damage dealt).
+  Kill shot : Recipient gets an additional +40% of their contribution share.
+             Kill shot bonus does NOT apply to the quality bonus pool.
+  Split     : Rank factor applied before split. Each member receives their
+             share then routes it 60/40 (or per alignment) independently.
+
+  Quality floor rule:
+  The team's quality floor is set by the highest-quality CONTRIBUTING member
+  (those who dealt damage). Non-contributing members do not affect the floor.
+  Quality bonus only triggers if opponent quality exceeds the floor.
+
+================================================================================
+QUALITY BONUS POOL
+================================================================================
+
+Awarded as a SEPARATE pool on top of base kill EXP.
+Triggered only when opponent's class/bloodline quality exceeds the highest
+quality among contributing team members (or the solo attacker).
+
+Both class quality and bloodline quality use the same table.
+Bloodline bonus stacks independently on top of class quality bonus.
+
+GAP BONUS (% of total base kill EXP — post rank factor):
+  +1 quality tier   :  +45%
+  +2 quality tiers  :  +110%
+  +3 quality tiers  :  +200%
+  +4 quality tiers  :  +320%
+  +5 quality tiers  :  +475%
+  +6 tiers+         :  +475% + 180% per additional tier
+
+FLAT UNLOCK (scaled by opponent overall level):
+  Flat bonus = base flat × (opponent overall Lv / 10)
+
+  Opponent quality   Base flat
+  ----------------   ---------
+  Elite              70
+  Rare               175
+  Epic               470
+  Apex               1,170
+  Legendary          2,920
+  Celestial+         +1,750 per tier
+
+Quality pool splits by contribution weight (same as base EXP).
+Kill shot bonus does NOT apply to the quality pool.
+
+================================================================================
+EXP MODIFIERS — SKILLS / TITLES / TALENTS
+================================================================================
+
+All modifiers are ADDITIVE within each axis.
+A single source can affect both EXP requirements and kill yield simultaneously.
+
+SOURCE RANGES:
+  Source    EXP req reduction   Kill yield boost   Gate
+  -------   -----------------   ----------------   --------------------
+  Skill     2% – 8%             5% – 15%           Level threshold
+  Title     5% – 20%            10% – 30%          Achievement
+  Talent    10% – 35%           15% – 50%          Innate / progressive
+
+SOFT CAP — EXP REQUIREMENT REDUCTION:
+  0% – 30%   : Full effect. Every % applies at face value.
+  30% – 60%  : Half efficiency. Each additional % costs 2% of modifier value.
+  60%+       : Hard ceiling. No further reduction regardless of modifiers.
+
+Kill yield boost has NO hard cap. Stacks additively without ceiling.
+
+APPLICATION ORDER:
+  Quality coefficient → Rank coefficient → Skills/Titles/Talents → Potential
+
+JAY — MODIFIER STACK (Book 1, provisional):
+  Source               Type      EXP req   Kill yield
+  ------------------   -------   -------   ----------
+  Primal Spirit Orb    Talent    −13%      +20%
+  First over-rank kill Title     −8%       +15%
+  Faction founder      Title     −5%       +10%
+  Class skill (TBD)    Skill     −4%       +8%
+  ─────────────────────────────────────────────────
+  Raw total                      −30%      +53%
+  Effective (post cap)           −30%      +53%   ← exactly at soft cap floor
+
+================================================================================
+NON-KILL EXP SOURCES
+================================================================================
+
+Non-kill actions generate EXP at reduced efficiency. Diminishing returns
+apply to repeated actions — the System rewards genuine novelty and effort.
+Farming the same action yields progressively less.
+
+  Source                    Efficiency vs kills   Track routing       Split
+  -----------------------   -------------------   -----------------   --------
+  Crafting / non-combat     50% – 70%             Class only          100/0
+  Faction / leadership      30% – 50%             Split               35/65
+  Training / practice       20% – 35%             Class only          100/0
+  Exploration / discovery   10% – 20%             Race only           0/100
+
+  Crafting / non-combat : Rewards doing what your class is built for.
+                          Crafter and specialist classes can progress
+                          meaningfully without combat.
+  Faction / leadership  : 35% class / 65% race. Authority shapes the
+                          being more than the class.
+  Training / practice   : Reinforces class identity. No race benefit —
+                          the body needs real stress, not repetition,
+                          to sublimate.
+  Exploration/discovery : Exposure feeds the race track. New environments
+                          and self-understanding accelerate sublimation.
+
+================================================================================
+NARRATIVE GATES
+================================================================================
+
+Gates activate at rank threshold levels (the final level before rank-up).
+They filter which actions generate EXP — they do not freeze progression.
+
+GATE MECHANIC:
+  Qualifying action     → Full EXP (all modifiers apply normally)
+  Non-qualifying action → EXP × 0.05 (5% of normal yield)
+
+GATE CONDITIONS:
+  Base condition set by class identity.
+  Achievement history can modify it or add additional valid conditions.
+  Multiple valid conditions can exist simultaneously — any one qualifies.
+
+  Condition type        Source         Description
+  ------------------    -----------    ------------------------------------------
+  Solo combat           Class base     Only solo kills qualify.
+  Over-rank kill        Class base     Only kills against higher rank qualify.
+  Over-quality kill     Class base     Only kills against higher quality qualify.
+  Achievement unlock    History mod    Past feat adds a valid condition.
+  Discovery unlock      History mod    Self-understanding adds a valid condition.
+
+GATE LEVELS (rank threshold):
+  Rank F → E : Level 10 (class track)
+  Rank E → D : Level 25 (class track)
+  Rank D → C : Level 50 (class track)
+  (Continues at each rank ceiling)
+
+JAY'S GATE CONDITION: TBD — depends on class identity (see class doc).
+
+================================================================================
+FREE ATTRIBUTE POINTS (FA)
+================================================================================
+
+FA comes from two sources with different roles:
+
+RACE TRACK — PRIMARY FA SOURCE:
+  Bulk FA awarded per race level-up. Manually allocated by the character.
+  This is where build identity and attribute customization live.
+
+  Sublimation stage   FA per race level-up
+  -----------------   --------------------
+  Awakened            15 – 25
+  Extraordinary       30 – 50
+  Named               60 – 100
+  Eternal             TBD
+
+CLASS TRACK — SECONDARY FA + AUTO-ATTRIBUTES:
+  Small FA bonus awarded per class level-up.
+  Auto-attribute points also awarded — weighted ~70% toward primary class
+  attributes, ~30% spread across secondary. Not manually allocated.
+
+  Class quality   Rank F FA/lv   Rank E FA/lv   Rank D FA/lv
+  -------------   ------------   ------------   ------------
+  Basic           1 – 2          2 – 3          3 – 5
+  Elite           2 – 3          3 – 5          5 – 7
+  Rare            3 – 5          5 – 8          7 – 11
+  Epic            5 – 7          7 – 11         10 – 15
+  Apex            7 – 10         10 – 15        14 – 20
+
+DIMINISHING RETURNS:
+  FA allocation cost grows as an attribute's total rises.
+  Early points in an attribute are efficient.
+  Later points cost proportionally more. No hard ceiling — only increasing
+  price. Rewards focused builds over extreme min-maxing.
+
+  FA allocation takes time to absorb. Effect builds progressively.
+  Regional weighting: areas most actively used after allocation gain more.
+
+================================================================================
+SKILL UNLOCK THRESHOLDS
+================================================================================
+
+Threshold positions shift with class quality.
+Quality also determines what fills the slot — higher quality class unlocks
+higher quality skill at the same threshold.
+
+RANK F (10 class levels):
+  Class Lv 5   : First skill slot. Basic quality. Reflects early state.
+  Class Lv 8   : First slot upgrades to Elite quality (Elite+ class only).
+  Class Lv 10  : Second skill slot. Narrative gate active.
+                 Requires meaningful combat to unlock.
+  Class Lv 13  : Second slot upgrades to Elite quality (Elite+ class only).
+  Class Lv 15  : Rank-up gate + class advancement check.
+                 Class quality minimum enforced.
+
+RANK E (15 class levels):
+  Class Lv 5   : Third skill slot. First new slot after rank-up.
+  Class Lv 10  : Slot upgrade window. Elite+ can upgrade any existing slot.
+  Class Lv 15  : Fourth skill slot. Rare+ unlocks higher quality slot.
+  Class Lv 20  : Second upgrade window. Narrative gate active.
+  Class Lv 25  : Rank-up gate + class advancement check.
+                 Rare quality minimum enforced for Rank D.
+
+================================================================================
+DESYNC — RACE VS CLASS HARD GATES
+================================================================================
+
+Race level must meet minimum thresholds at critical class rank-up nodes.
+
+  Class rank-up   Required race milestone         Consequence if unmet
+  -------------   ----------------------------    ----------------------------
+  F → E           Awakened stage active           Class rank-up hard blocked.
+  E → D           Awakened — mid progression      Threshold TBD.
+  D → C           Extraordinary stage required    Hard block. Cannot enter
+                                                  Rank C without Extraordinary
+                                                  sublimation. Non-negotiable.
+
+The D→C gate is structurally the most significant — Rank C represents a
+fundamental break from mortal constraints. The race track must reflect that
+shift. A character cannot grind class levels past Rank D without their
+race track keeping pace.
+
+================================================================================
+SUBLIMATION STAGE TRANSITION — FORMULA SCALING
+================================================================================
+
+At each sublimation stage boundary, the formula does NOT carry overall level
+forward. Instead local level resets to 1 — but C_kill and C_req are
+recalibrated so that Lv1 of the new stage opens at the same yield and
+requirement weight as the previous stage's peak.
+
+β and α remain fixed forever (1.35 and 1.65).
+Only C_kill and C_req shift at each boundary.
+
+TRANSITION FORMULA:
+  new_C_kill = old_C_kill × (stage_entry_overall_lv + 1)^β   [uses opponent overall lv]
+  new_C_req  = old_C_req  × (track_peak_lv + 1)^α            [uses character track peak lv]
+
+C_kill uses overall level because it concerns the opponent — overall level
+is always the relevant axis for yield calculation.
+C_req uses the character's own track peak local level — each track computes
+its own C_req independently since class and race advance separately.
+
+AWAKENED → EXTRAORDINARY EXAMPLE:
+  Awakened peak overall lv (opponent axis) = 100 (50 class + 50 race)
+  Awakened peak track local lv (character axis) = 50 (per track)
+  C_kill (Awakened) = 10
+  C_req  (Awakened) = 100
+
+  new_C_kill = 10 × (100+1)^1.35 = 10 × 101^1.35
+  101^1.35 : ln(101)×1.35 = 4.615×1.35 = 6.230, e^6.230 = 507
+  new_C_kill = 10 × 507 = 5,070
+
+  new_C_req = 100 × (50+1)^1.65 = 100 × 51^1.65
+  51^1.65 : ln(51)×1.65 = 3.932×1.65 = 6.488, e^6.488 = 659
+  new_C_req = 100 × 659 = 65,900
+
+Verify — Lv1 of Extraordinary (class track):
+  Kill yield : 1^1.35 × 5,070 = 5,070 EXP
+  vs. continuous overall Lv101 : 101^1.35 × 10 = 507 × 10 = 5,070 ✓
+
+  EXP req   : 1^1.65 × 65,900 = 65,900 EXP
+  vs. continuous track Lv51 : 51^1.65 × 100 = 659 × 100 = 65,900 ✓
+
+The formula produces output identical to the continuous curve at the boundary,
+then scales naturally upward from that floor across the new stage.
+
+================================================================================
+TBD — OPEN ITEMS
+================================================================================
+
+  - Jay's class identity and gate condition
+  - Race EXP progression curve and requirements
+  - Exact kill-to-race EXP rate (provisional: ~40% of kill pool)
+  - Training diminishing returns — exact falloff rate
+  - Specific Title names, values, and unlock conditions
+  - Race level milestone threshold for E→D gate
+  - Class advancement challenge structure per rank
+  - Interaction between Primal Spirit Orb and leadership skills
+  - Skill upgrade paths and max levels
+  - Racial level-up attribute bonus table
+  - MP conversion rate from Mystery
+  - Full HP threshold / debuff table
+
+================================================================================

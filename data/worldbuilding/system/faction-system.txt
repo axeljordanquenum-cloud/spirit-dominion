@@ -1,0 +1,910 @@
+================================================================================
+                    FACTION SYSTEM — FULL REFERENCE
+                    Spirit Dominion | The System Era
+================================================================================
+
+OVERVIEW
+--------
+A faction is a System-recognized collective. The moment a faction is
+registered, it becomes a distinct entity in the System's record — separate
+from the individuals who comprise it, with its own rank, history, and
+accumulation of achievements. The System treats it as a thing that exists
+in its own right, not merely as a group of people who have agreed to travel
+together.
+
+This distinction matters. A faction's rank does not directly reflect the
+personal power of its members. It reflects what the faction has done,
+what it controls, how many people operate under its banner, and what the
+System has chosen to recognize about its place in the world. A faction of
+ten Rank D fighters may outrank a faction of a hundred Rank F fighters
+if its achievement history is deeper and its territorial footing is more
+established. The System is not counting heads. It is evaluating presence,
+performance, and demonstrated permanence.
+
+For the leader, the faction is the amplifier. It extends reach, compresses
+timelines, opens doors that personal power alone cannot open. It also
+creates obligations, costs, and vectors of vulnerability that a lone
+individual does not carry. Building a faction is not just acquiring resources.
+It is choosing to be responsible for other people and everything that
+responsibility invites in.
+
+This is the personal cost that runs beneath the power. Jay can grow faster
+alone. He cannot build anything that lasts alone. The faction is the
+structure through which he becomes something that survives beyond any
+single engagement. It is also the first thing in his life that can be
+used against him in ways that raw strength cannot answer.
+
+================================================================================
+SECTION 1 — FACTION TYPES
+================================================================================
+
+The System recognizes five faction types. Type determines the faction's
+structural identity, the category of achievements the System tracks most
+closely, and the long-term ceiling of certain faction-specific benefits.
+Type is declared at founding and cannot be changed after System registration.
+
+Choosing a type is not merely administrative. It is a statement about what
+the faction is for. The System reads that statement and calibrates its
+recognition accordingly.
+
+--------------------------------------------------------------------------------
+COMBAT FACTION
+--------------------------------------------------------------------------------
+Built around military strength and combat capability. The System tracks
+kill records, over-rank engagements, territorial defense outcomes, and
+engagement survival rates. Combat factions are the most common type in
+newly integrated worlds in the immediate aftermath of Ascension, when
+survival requires force and nothing else has had time to organize.
+
+Primary benefits:
+  Combat achievement multipliers for faction rank advancement. Access to
+  System-issued combat contracts and bounties at lower rank thresholds
+  than other faction types. Commander's Presence and Vanguard Aura skill
+  potency increased by 15% while the faction holds Combat designation.
+
+Ceiling consideration:
+  Combat factions advance quickly through early ranks and plateau at mid-tier
+  without diversifying their capability base. Exclusive combat identity
+  becomes a vulnerability at higher faction ranks where political and
+  economic leverage begins determining outcomes that force alone cannot.
+
+--------------------------------------------------------------------------------
+TRADE FACTION
+--------------------------------------------------------------------------------
+Built around the acquisition, movement, and exchange of resources. The
+System tracks trade volume, contract completion rates, resource node control,
+and economic territory. Trade factions are rare in the immediate post-Ascension
+period because there is little to trade and few structures to trade through.
+They become progressively more powerful as the world stabilizes and resource
+demand diversifies.
+
+Primary benefits:
+  Resource acquisition rates improved across controlled territory. System
+  contracts for rare material acquisition appear at reduced threshold requirements.
+  Faction members receive a passive bonus to Wisdom and Dexterity from
+  faction affiliation that scales with faction rank.
+
+Ceiling consideration:
+  Trade factions lack independent defensive capability at early ranks and
+  depend on allied combat factions or mercenary arrangements for territorial
+  protection. The wealth they accumulate makes them targets. Managing that
+  vulnerability is the defining strategic challenge of the type.
+
+--------------------------------------------------------------------------------
+RESEARCH FACTION
+--------------------------------------------------------------------------------
+Built around knowledge acquisition, System analysis, and the development
+of new techniques, formations, or understanding of post-Ascension phenomena.
+The System tracks discovery achievements, knowledge compilation depth, and
+the production of usable outputs — techniques, formations, equipment, or
+intelligence that other factions act on. Research factions are the rarest
+type at early faction ranks because the post-Ascension world does not yet
+understand what it has access to, and most survivors are focused on
+immediate survival rather than systematic study.
+
+Primary benefits:
+  Discovery EXP multiplied for all faction members. System-issued analysis
+  contracts appear earlier. Members receive passive Wisdom and Mystery bonuses
+  from faction affiliation. The faction unlocks a System-maintained knowledge
+  archive that grows with contribution and persists beyond member turnover.
+
+Ceiling consideration:
+  Research factions are the slowest to generate immediate combat output and
+  the slowest to achieve early faction rank advancement. Their power curve is
+  the most back-weighted of any type. At high faction ranks, a well-developed
+  research faction produces leverage that no other faction type can replicate,
+  but the early arc requires tolerance for vulnerability and the discipline
+  to invest in something that will not pay out immediately.
+
+--------------------------------------------------------------------------------
+GOVERNANCE FACTION
+--------------------------------------------------------------------------------
+Built around territorial administration, population management, and the
+maintenance of social order within a defined area. The System tracks the
+size of the population under the faction's jurisdiction, the stability
+metrics of that population, the resolution of internal disputes, and the
+delivery of protection and resource access to registered members. Governance
+factions do not fight for territory. They administer it once it has been
+secured, and their power comes from the depth and stability of what they
+control rather than their capacity to take more.
+
+Primary benefits:
+  Faction size caps raised significantly at each rank tier compared to
+  other types. Member EXP bonuses for non-combat activities are higher.
+  System-issued governance contracts offer substantial faction rank advancement
+  credit. The faction unlocks a System-administered taxation mechanic that
+  passively generates resources from registered territory.
+
+Ceiling consideration:
+  Governance factions without a military arm are dependent on allied
+  combat factions for defense. The size advantages they enjoy also mean
+  internal management complexity scales faster. Leadership skills from
+  the Tier 2 and Tier 3 sets are not optional for this type — they are
+  operationally necessary.
+
+--------------------------------------------------------------------------------
+HYBRID FACTION
+--------------------------------------------------------------------------------
+A faction that does not commit to a single primary identity. The System
+recognizes hybrid status when a faction's achievement record shows
+meaningful contribution across two or more type categories without
+clear dominance in any one. Hybrid factions do not receive the specialized
+bonuses of any single type but receive a reduced version of each relevant
+type's benefits. They also receive a small passive bonus to faction rank
+advancement rate that reflects the System's recognition of their breadth.
+
+Primary benefits:
+  Partial benefits from each active type category. Resistance to the ceiling
+  vulnerabilities of single-type factions. Moderate bonus to faction rank
+  advancement rate. Greater flexibility in which System contracts become
+  accessible at each rank tier.
+
+Ceiling consideration:
+  Hybrid factions are harder to build well than any single-type faction.
+  The breadth that protects them from single-type vulnerabilities also means
+  they do not achieve the peak expression of any specialization. They require
+  a leader capable of managing multiple domains simultaneously without losing
+  coherence in any of them.
+
+JAY'S FACTION TYPE: TBD — declared at founding. The arc direction suggests
+Hybrid is the likely long-term shape, but the founding declaration should
+reflect what Jay is building at the moment he registers, not what he intends
+to build eventually. The System reads the present. The character's intentions
+are his own.
+
+================================================================================
+SECTION 2 — FACTION FOUNDING
+================================================================================
+
+REQUIREMENTS FOR REGISTRATION
+------------------------------
+Founding a faction requires meeting a minimum threshold before the System
+will accept the registration. The threshold is not high. The System is not
+trying to prevent factions from forming. It is establishing that what is
+being registered has enough substance to be worth tracking.
+
+Minimum requirements at the time of registration:
+
+  Members      : 3 individuals minimum, including the founding leader.
+                 All must be System-integrated. All must consent to
+                 registration — the System does not bind unwilling participants.
+
+  Leader       : The registering individual must hold at least Rank F and
+                 have completed their initial class assignment. Classless
+                 individuals cannot register a faction.
+
+  Name         : A faction name must be declared. Names are unique within
+                 a universe. The System will reject any name already held
+                 by a registered faction in Universe 711.
+
+  Type         : A faction type must be declared. This cannot be changed
+                 after registration.
+
+  Territory    : Optional at founding. A faction can register without
+                 claimed territory. Claiming territory after registration
+                 is a separate process that contributes to faction rank
+                 advancement but is not a founding prerequisite.
+
+THE FOUNDING MOMENT
+-------------------
+When the registration conditions are met and submitted through the System
+interface, the System processes the founding as a discrete event. It does
+not happen passively. The founding leader actively initiates it.
+
+What happens at the moment of registration:
+
+  The System generates a faction entry in its record. This entry is visible
+  to any integrated entity with a Faction Sense skill or equivalent. The
+  faction now exists as a System entity distinct from its members.
+
+  The founding leader receives the Founder achievement and, if the System
+  judges the founding to be the first instance of its type or circumstance
+  in Universe 711, additional achievement recognition may apply.
+
+  The Tier 1 leadership skills become available to the founding leader
+  immediately: Faction Call, Evaluation Eye, and Contract Binding unlock
+  without any additional requirement.
+
+  A faction rank of 0 is assigned. Rank 0 is not a functional rank. It is
+  the state of having been registered but not yet having demonstrated enough
+  to earn System recognition at even the lowest operational tier. The faction
+  exists. It has not yet proven that it should be taken seriously.
+
+WHAT FOUNDING COSTS JAY
+------------------------
+This belongs in the design layer, not the mechanical layer, but it is worth
+naming explicitly.
+
+Jay is not a person who builds things with other people. His entire formation
+is individual. His father's philosophy was individual. The muscle memory of
+his life is to rely on himself, assess others as variables, and carry the
+weight of decisions alone.
+
+A faction requires him to let other people's fates attach to his choices.
+Every contract he signs, every mission he assigns, every enemy he makes by
+existing as a faction leader rather than a lone actor, becomes a cost that
+is paid partly by people who trusted him enough to register under his name.
+
+The mechanical moment of founding is simple. The personal weight of what
+it means is the story. These two things should not be collapsed into each
+other. The System asks for three members and a name. What Jay is actually
+agreeing to is something the System does not measure.
+
+================================================================================
+SECTION 3 — FACTION RANK STRUCTURE
+================================================================================
+
+OVERVIEW
+--------
+Faction rank is separate from the personal ranks of its members. It is
+determined by a combination of five weighted factors the System evaluates
+continuously. Rank advancement is not triggered by crossing a single
+threshold. All five factors must meet their minimum for the target rank
+before the System will recognize the advancement.
+
+THE FIVE FACTORS
+----------------
+
+  MEMBERSHIP DEPTH
+  The total number of registered members and the distribution of their
+  personal ranks. Raw headcount matters less than the quality distribution.
+  A faction of fifty Rank F members counts for less than a faction of
+  ten Rank E members with three Rank D members at the top. The System
+  weights the highest personal ranks most heavily and treats a steep
+  pyramid as a structural indicator of ceiling.
+
+  TERRITORIAL FOOTPRINT
+  The amount of System-recognized territory the faction controls or
+  administers. Territory can be claimed by clearing and holding it,
+  by System contract completion in a given area, by agreement with
+  other recognized factions, or by governance achievement within a
+  defined zone. The System distinguishes between claimed territory and
+  administered territory. Claimed means the faction has asserted presence.
+  Administered means the faction has demonstrated sustained management.
+  Administered territory counts for more.
+
+  ACHIEVEMENT RECORD
+  The cumulative weight of the faction's achievement history. This is
+  not just the leader's personal achievements. It includes contributions
+  from all members acting under the faction's banner. Over-rank kills
+  as a faction. Contract completions above the faction's current rank
+  expectation. Firsts. Survival events the System considers notable.
+  The achievement record is the single most variable factor — it can
+  advance dramatically in a single engagement or accrue slowly through
+  consistent output over time.
+
+  RESOURCE BASE
+  What the faction controls in terms of material wealth, production
+  capacity, and supply infrastructure. The System measures this in
+  terms of faction-held resources, active income sources, and the
+  faction's ability to sustain its current membership at their current
+  operational tempo. A faction that is wealthy but cannot maintain
+  its members scores lower than a faction that runs lean but never
+  misses obligations.
+
+  SYSTEM RECOGNITION
+  The formal recognition tier the System has assigned based on the
+  faction's interaction with System-issued structures. This includes
+  the completion of System-issued faction quests, the resolution of
+  System-arbitrated disputes, and the faction's standing within any
+  System-recognized inter-faction framework in Universe 711. System
+  Recognition cannot be manufactured or bought. It accrues through
+  action and the System's own judgment of what that action means.
+
+--------------------------------------------------------------------------------
+RANK 0 — REGISTERED
+--------------------------------------------------------------------------------
+The state of having been founded and accepted into the System's record.
+No minimum thresholds have been demonstrated yet.
+
+What exists at this rank:
+  A System entry. A name. A founding leader. Three or more members.
+  Tier 1 leadership skills unlocked for the leader.
+  Faction Call, Evaluation Eye, and Contract Binding are available.
+
+What does not exist:
+  Any formal System recognition. No protection under System-sanctioned
+  inter-faction frameworks. No access to faction-tier System contracts.
+  No territorial claims recognized by the System. The faction can be
+  destroyed without System consequence to the aggressor.
+
+The period between registration and Rank 1 is the most dangerous phase
+of any faction's existence. It is publicly visible in the System's record
+but carries no weight. Any established faction can move against it without
+triggering any System-level response. The Rank 0 faction does not yet
+matter enough to protect.
+
+--------------------------------------------------------------------------------
+RANK 1 — PROVISIONAL
+--------------------------------------------------------------------------------
+The first level of meaningful System recognition. The faction has
+demonstrated enough to be treated as a real entity within the world's
+power structure, not merely a registered name.
+
+Minimum thresholds required:
+
+  Membership Depth     : 5 registered members minimum. At least 2 must
+                         be Rank E or higher.
+
+  Territorial Footprint: At least one piece of territory claimed and
+                         held for a minimum of 30 days without loss.
+                         A single safe zone, resource node, or
+                         administrative area qualifies.
+
+  Achievement Record   : A minimum achievement weight that reflects
+                         the faction having survived real adversity.
+                         The System does not publish this number. The
+                         intent is that the faction must have done
+                         something under pressure, not just existed.
+
+  Resource Base        : Sufficient to maintain current members at
+                         basic operational capacity for 60 days
+                         without external input.
+
+  System Recognition   : Completion of one System-issued faction quest
+                         at or above the faction's current strength
+                         estimate.
+
+What changes at Rank 1:
+  The faction enters the System's inter-faction framework. Unprovoked
+  aggression against a Rank 1 faction by a higher-ranked faction now
+  carries System-registered consequences. Not prohibitive consequences
+  at this stage, but the fact of the aggression is recorded and weighted
+  in future System recognition for the aggressor.
+
+  The leader gains access to Tier 2 loyalty skills once membership has
+  passed the initial threshold and the first internal challenge has been
+  navigated. Rally, Shared Will, and Oath of the Faction become available.
+
+  The faction receives a System-assigned identifier visible in the
+  public record. Other integrated entities can search for it, evaluate
+  its public achievement record, and assess its territorial footprint.
+  The faction is now a known quantity. Being a known quantity is useful.
+  It is also a different kind of exposure than obscurity.
+
+--------------------------------------------------------------------------------
+RANK 2 — ESTABLISHED
+--------------------------------------------------------------------------------
+The faction has moved beyond provisional status. It has demonstrated
+sustained function, not just initial survival. The System treats it as
+a permanent fixture in the world's power landscape until proven otherwise.
+
+Minimum thresholds required:
+
+  Membership Depth     : 15 registered members minimum. At least one
+                         must be Rank D or higher. Distribution must
+                         show at least 5 Rank E members.
+
+  Territorial Footprint: A minimum of three distinct areas held or
+                         administered. At least one must be actively
+                         administered rather than merely claimed.
+                         Total footprint equivalent to a small district
+                         or settlement zone.
+
+  Achievement Record   : Achievement weight reflecting consistent
+                         faction-level output over a sustained period.
+                         Over-rank kills as a coordinated faction unit,
+                         contract completions that exceeded the faction's
+                         expected capability, or a single standout event
+                         the System records as significant.
+
+  Resource Base        : Self-sustaining for 120 days without external
+                         input. Active income source in operation.
+
+  System Recognition   : Completion of three System-issued faction quests
+                         total. At least one must have been rated above
+                         the faction's estimated capability at the time
+                         of completion.
+
+What changes at Rank 2:
+  The faction gains access to System-issued contracts reserved for
+  Established factions. These contracts are more lucrative and more
+  dangerous than entry-level contracts. They also come with reputation
+  weight. Completing them is visible to any faction with Threat Assessment
+  or equivalent skills.
+
+  Other factions begin forming opinions. The Rank 2 threshold is where
+  inter-faction dynamics stop being theoretical and start being active.
+  Recruitment overtures from rival factions to the leader's members may
+  begin. Territorial pressure from factions that want what the faction
+  has claimed is now a real consideration.
+
+  The faction's name carries enough weight that unaffiliated individuals
+  will have heard it. Not as a feared quantity, but as a real one.
+
+--------------------------------------------------------------------------------
+RANK 3 — RECOGNIZED
+--------------------------------------------------------------------------------
+The faction is a significant actor in its region. The System's recognition
+at this tier reflects that the faction has become part of the world's
+structure, not just an element within it. Established factions take it into
+account when making decisions. Unaffiliated individuals actively seek
+affiliation with it.
+
+Minimum thresholds required:
+
+  Membership Depth     : 50 registered members minimum. At least one
+                         Rank C member required. Minimum 10 Rank D members.
+                         The System begins evaluating combat capability
+                         distribution as an independent metric at this rank.
+
+  Territorial Footprint: Sufficient to constitute a recognizable presence
+                         in the System's territorial map. Control of or
+                         administration over what amounts to a small city
+                         or equivalent resource zone. Multiple nodes, not
+                         just contiguous territory.
+
+  Achievement Record   : The faction must have resolved at least one
+                         significant external conflict through either
+                         military outcome or negotiated settlement
+                         recognized by the System. Surviving a serious
+                         external threat counts. Eliminating one counts
+                         more.
+
+  Resource Base        : Operationally independent. The faction can fund
+                         expansion without drawing down its reserve. Active
+                         surplus generation.
+
+  System Recognition   : The faction must be acknowledged by at least two
+                         other Rank 2 or higher factions through System-
+                         registered agreements. Alliance, non-aggression, or
+                         trade agreements all qualify. The System requires
+                         that other factions have formally recognized this
+                         one's existence in writing through the interface.
+
+What changes at Rank 3:
+  Tier 3 combat command skills become fully available: Commander's Presence,
+  Battle Coordination, and Vanguard Aura. These unlock through combat
+  leadership achievements and are not simply awarded on rank advancement,
+  but Rank 3 is when the achievement thresholds that unlock them become
+  reachable.
+
+  The faction can now sponsor individual members for accelerated class
+  advancement. The System recognizes faction sponsorship as a qualifying
+  resource for challenge scenarios, reducing the threshold requirements
+  for sponsored individuals.
+
+  Inter-faction political visibility is now significant. The faction's
+  decisions create ripple effects visible to other factions' intelligence
+  infrastructure. This is the rank at which having enemies who actively
+  plan against the faction rather than simply responding to it becomes
+  the normal condition.
+
+--------------------------------------------------------------------------------
+RANK 4 — POWERFUL
+--------------------------------------------------------------------------------
+The faction is a regional power. Its decisions shape the environment around
+it rather than simply responding to it. Other factions position relative
+to it as a fixed point rather than as one variable among many.
+
+Minimum thresholds required:
+
+  Membership Depth     : 200 members minimum. Multiple Rank C members
+                         required. Minimum one Rank B member OR the leader
+                         must have reached Rank B. The System evaluates
+                         peak personal rank as an independent factor
+                         at this tier.
+
+  Territorial Footprint: Control or administration of territory sufficient
+                         to constitute a city-scale presence or equivalent
+                         multi-zone resource network. The System expects
+                         both breadth and depth at this tier. Having
+                         many claimed territories with shallow administration
+                         scores lower than fewer territories managed well.
+
+  Achievement Record   : The faction's achievement record must include at
+                         least one event the System classifies as having
+                         changed the local power landscape. Destroying a
+                         rival faction, resolving a large-scale System
+                         event, or establishing a precedent that other
+                         factions have had to respond to all qualify.
+
+  Resource Base        : Sufficiently developed that resource management
+                         is a strategic consideration, not a survival one.
+                         The faction is no longer asking whether it can
+                         afford to act. It is asking which actions it
+                         should prioritize.
+
+  System Recognition   : Acknowledged by factions and entities at or above
+                         Rank 3. The faction's name must appear in multiple
+                         System-registered agreements as a counterparty,
+                         not just as a cosignatory. The System is evaluating
+                         whether the faction has standing, not just presence.
+
+What changes at Rank 4:
+  Tier 4 negotiation and authority skills become available: Iron Terms,
+  Threat Assessment, and Diplomatic Immunity unlock through the conditions
+  tied to this rank's achievement requirements.
+
+  The faction becomes eligible for System-issued world-event contracts.
+  These are not regular contracts. They are the System's mechanism for
+  directing significant actors toward significant problems. They are not
+  optional in the way that standard contracts are optional. The System
+  does not force participation, but declining them has its own costs.
+
+  The leader's personal Title history begins intersecting with the
+  faction's social weight. Legendary Titles earned by the leader create
+  passive recognition effects that extend to the faction's reputation.
+  The faction begins accumulating its own Titles independent of the leader.
+
+--------------------------------------------------------------------------------
+RANK 5 — DOMINANT  |  and beyond
+--------------------------------------------------------------------------------
+The faction has become a world-shaping force. Its existence is a structural
+fact of Universe 711's post-Ascension political landscape. At this tier and
+above, faction rank advancement is no longer primarily a matter of meeting
+thresholds. It is a matter of the System recognizing that the faction has
+become something that the world has no choice but to organize around.
+
+Rank 5 and higher faction ranks are outside the scope of Book 1.
+The thresholds, mechanics, and world-level implications of these tiers will
+be developed as the story reaches them.
+
+What can be established now: the arc from Rank 0 to Rank 4 is the core
+of Jay's faction-building story through the early and middle arcs. Rank 4
+represents a faction that can stand in the same room as the most powerful
+organized groups in Universe 711 and be taken seriously. Reaching it is
+the external objective. What Jay becomes in the process of reaching it is
+the actual story.
+
+================================================================================
+SECTION 4 — FACTION ADVANCEMENT MECHANICS
+================================================================================
+
+HOW RANK ADVANCES
+-----------------
+Faction rank does not advance automatically when thresholds are crossed.
+The System evaluates the faction's standing on a rolling basis and generates
+an advancement notification when all five factors for the target rank are met
+simultaneously. The leader can also manually request an evaluation through
+the System interface. A manual evaluation that fails provides feedback on
+which factors are insufficient but does not penalize the faction.
+
+Rank advancement generates a System notification equivalent to an Epic-tier
+achievement for the leader personally. The event is visible to other factions
+with sufficient intelligence infrastructure. Advancing publicly draws attention.
+There is no private advancement.
+
+HOW RANK DECREASES
+------------------
+Faction rank can decrease. The System does not lock ranks in place once earned.
+If the five factors fall sufficiently below the threshold for the current rank,
+the System will issue a demotion warning and then a demotion if the deficiency
+is not corrected within a set period.
+
+What causes rank to drop: sustained member loss without replacement, territorial
+loss without recovery, resource depletion below operational threshold, or
+a failure so significant that the achievement record's accumulated weight no
+longer offsets the faction's current state.
+
+Demotion is rarer than advancement but it happens. A faction that loses its
+highest-ranked member to death or defection, or that loses a major territorial
+holding in a single catastrophic engagement, is at risk. The System is not
+sentimental. It evaluates what is, not what was.
+
+FACTION QUESTS
+--------------
+The System issues faction quests as a separate track from personal quests.
+They are accessible only through the faction interface and visible only to
+the registered leader and officers designated by the leader.
+
+Faction quest tiers correspond loosely to faction rank, with contracts
+available one tier above and one tier below the faction's current standing.
+Accepting a contract above the faction's rank carries higher risk but
+generates disproportionate achievement record weight on completion.
+
+Faction quest types:
+
+  CLEARANCE  : Eliminate a defined threat within a defined zone.
+               Time-gated. All faction members who participated receive
+               combat EXP and the faction receives achievement credit.
+
+  ACQUISITION: Secure a defined resource or location within a time window.
+               Often competitive with other registered factions. The System
+               does not bar multiple factions from accepting the same
+               acquisition contract. The first to complete claims the reward.
+
+  DEFENSE    : Hold a defined area against escalating System-generated
+               pressure for a defined duration. No external competition.
+               Pure survival. The reward scales with how long the faction
+               held and what quality of pressure it held against.
+
+  GOVERNANCE : Administer a defined population or territory and meet
+               stability metrics over a defined period. Low immediate
+               danger. High faction rank advancement credit. The
+               most underutilized contract type in the post-Ascension
+               period because most factions at early ranks lack the
+               membership depth to spare people for non-combat roles.
+
+  DIPLOMATIC : Broker a System-recognized agreement between two defined
+               parties. Success requires both parties to sign through
+               the interface. The faction serves as intermediary and
+               guarantor. The System holds the faction partially
+               accountable if agreements it brokered are broken.
+
+INTER-FACTION AGREEMENTS
+-------------------------
+Factions can enter into System-registered agreements with other registered
+factions. Agreements are formal documents submitted through the interface.
+The System records them, enforces their terms where mechanically possible,
+and assigns breach penalties where terms are violated.
+
+Agreement types:
+
+  NON-AGGRESSION: Both factions commit to not initiating hostile action
+                  against the other or the other's members for a defined
+                  period. The System records any breach and applies
+                  reputation penalties to the breaching faction's
+                  standing with the System recognition factor.
+
+  ALLIANCE      : A mutual commitment to assist the other party in defined
+                  circumstances. Alliance terms vary. Full military alliance,
+                  intelligence-sharing alliance, and resource alliance are
+                  all distinct agreement structures. The obligations must
+                  be specified. The System does not fill in ambiguous terms
+                  charitably.
+
+  TRADE         : Exchange terms for defined resources at defined intervals.
+                  The System tracks fulfillment and generates breach records
+                  on non-delivery. Trade agreements are the primary driver
+                  of the resource base factor for factions without direct
+                  resource node control.
+
+  SUBORDINATION : A formal acknowledgment that one faction operates under
+                  the authority of another. The subordinate faction retains
+                  its registration and its own rank track but is recognized
+                  by the System as operating within the superior faction's
+                  political structure. Subordination is voluntary at the
+                  moment of signing. It is not always voluntary in practice
+                  by the time it is offered.
+
+================================================================================
+SECTION 5 — INTER-FACTION POLITICS AND WAR
+================================================================================
+
+THE SYSTEM'S ROLE IN CONFLICT
+------------------------------
+The System does not prevent factions from fighting each other. It does not
+adjudicate most conflicts. What it does is record, categorize, and apply
+consequence to actions that fall outside the framework it has established.
+
+The System cares about one thing in inter-faction conflict: whether the
+parties involved were operating within or outside the rules it recognizes.
+It does not care who wins. It cares whether the conduct of the conflict
+was legitimate in its terms.
+
+Legitimate conflict, in the System's framework, is conflict between factions
+that have not signed a non-aggression agreement, conducted in a way that
+does not target non-integrated individuals, and not initiated through
+deception or fraud that the System can verify. Within those parameters,
+factions can destroy each other without any System consequence beyond the
+standard record of what happened.
+
+Outside those parameters, the System has tools. It does not deploy them
+emotionally and it does not deploy them quickly. But a faction that builds
+a pattern of conduct the System classifies as illegitimate will find that
+pattern accumulating weight in its System recognition factor and eventually
+encountering consequences that arrive without warning and without appeal.
+
+TERRITORIAL CONFLICT
+--------------------
+Territory changes hands through three mechanisms:
+
+  MILITARY SEIZURE  : A faction defeats the defending faction's presence
+                      in a territory and establishes its own continuous
+                      presence for a minimum period. The System does not
+                      recognize a seized territory until the holding period
+                      is completed. The period scales with the territory's
+                      registered importance. A minor resource node requires
+                      three days of uncontested presence. A major settlement
+                      zone requires thirty days. Until the holding period
+                      completes, the territory is in contested status and
+                      the prior holder's claim is not fully extinguished.
+
+  NEGOTIATED TRANSFER: A territory can change hands through a System-registered
+                      agreement signed by both parties. The transfer is
+                      immediate on execution. No holding period required.
+                      Negotiated transfers are binding and cannot be
+                      reversed unilaterally.
+
+  ABANDONMENT       : A faction that ceases to maintain presence in a
+                      territory for a defined period without explicitly
+                      transferring it loses the System's recognition of
+                      its claim. The territory reverts to unclaimed status
+                      and is available for any faction to claim. Abandonment
+                      timelines scale with territory importance.
+
+FACTION WAR
+-----------
+A faction war is a System-registered state of open conflict between two
+factions. It is distinct from ordinary territorial skirmishes in that it
+is formally declared, recorded, and governed by a specific set of System
+parameters that differ from standard inter-faction conflict rules.
+
+Declaration of faction war requires a formal submission through the interface
+by at least one party. The opposing faction receives a System notification.
+The war state does not require mutual consent to begin. One party can
+declare. The other party's lack of declaration does not mean the conflict
+is not recognized as a war by the System.
+
+What a declared faction war enables that ordinary conflict does not:
+  The declaring faction can act against any registered member of the opposing
+  faction without triggering standard social and reputation penalties from
+  the System. Ordinarily, attacking another faction's members in territory
+  not in active dispute carries some System-registered consequence. Under
+  war declaration, this protection is suspended.
+
+What a declared faction war costs:
+  The war is public. Every other registered faction can see it in the
+  System record. It signals vulnerability and distraction. Other factions
+  that have been waiting for an opening may find the war state creates one.
+  Neutral factions that had no interest in either party may develop one
+  when the conflict's territorial and resource implications become clear.
+
+War resolution:
+  A declared faction war ends through one of three outcomes.
+
+  Total dissolution of one faction. If a faction loses all registered members
+  or its leader is killed and no succession structure exists within the
+  interface, the System dissolves the faction. Its territory reverts to
+  unclaimed. Its agreements are voided. It ceases to exist in the System's
+  record.
+
+  Surrender through the interface. The surrendering faction's leader can
+  submit a formal capitulation. The terms of surrender must be negotiated
+  and signed by both parties within a defined window or the System applies
+  default terms that favor the declaring party.
+
+  Negotiated ceasefire. Both parties submit and sign a ceasefire agreement.
+  The war state is suspended. If the underlying terms are not resolved,
+  the ceasefire can be broken and the war re-declared without the standard
+  cooling period that applies to first declarations.
+
+THE REAL COST OF WAR FOR A SMALL FACTION
+-----------------------------------------
+This belongs in the design layer alongside the founding section, for the
+same reason.
+
+A Rank 1 faction that declares war on a Rank 3 faction is announcing that
+it is willing to be destroyed. The System's framework does not protect small
+factions from existential threats that emerge from their own decisions.
+Jay's faction, in the early arc, does not have the standing to initiate
+conflict against major powers without accepting that the cost may be the
+people who trusted him.
+
+This tension is one of the faction system's central pressures on Jay
+as a character. He is used to absorbing costs himself. The faction means
+those costs are no longer only his to absorb.
+
+================================================================================
+SECTION 6 — FACTION STRUCTURE AND ROLES
+================================================================================
+
+OVERVIEW
+--------
+The System recognizes a basic internal hierarchy for registered factions.
+The specific names of roles within that hierarchy are the leader's choice.
+The functional designations are fixed. The System operates on the functional
+layer regardless of what the leader calls the positions.
+
+FIXED FUNCTIONAL ROLES
+
+  LEADER
+  The individual who registered the faction or who holds the succession
+  designation. The only individual with full access to all faction interface
+  functions, including dissolution, war declaration, subordination agreements,
+  and succession transfer. There is exactly one Leader at any time. If the
+  Leader dies without having designated a successor through the interface,
+  the faction enters a dissolution countdown. The countdown period scales
+  with faction rank. A Rank 1 faction has 7 days. A Rank 4 faction has 30.
+
+  OFFICER
+  Individuals designated by the Leader with partial interface access.
+  Officers can view faction contracts, access the faction's internal
+  System records, and exercise some Contract Binding functions on behalf
+  of the faction within the scope the Leader has defined. The number of
+  Officer slots available scales with faction rank: 2 at Rank 1, 5 at Rank 2,
+  10 at Rank 3, 20 at Rank 4.
+
+  MEMBER
+  Any registered individual who has signed a Contract Binding or equivalent
+  System-recognized agreement with the faction. Members receive the passive
+  benefits of faction affiliation at their rank tier and contribute to all
+  five advancement factors through their actions while operating under the
+  faction banner. Members can leave through a formal interface process.
+  Leaving mid-contract triggers whatever penalty terms the Contract Binding
+  specified.
+
+  PROVISIONAL MEMBER
+  A member in a defined evaluation period. The System allows a leader to
+  register individuals as Provisional for up to 60 days before requiring
+  a full Contract Binding or releasing them. Provisional members receive
+  reduced faction affiliation benefits and contribute at a lower rate to
+  the advancement factors. They cannot access Officer-level interface
+  functions regardless of the Leader's designation.
+
+SUCCESSION
+----------
+The Leader can designate a successor through the interface at any time.
+The successor must be a registered Officer. The designation can be changed
+at any time before it is triggered. If the Leader dies or is incapacitated
+and has a valid succession designation, the designated individual assumes
+the Leader role immediately. All interface functions transfer with the role.
+
+The new Leader's personal stats and skills are irrelevant to the transfer.
+The System does not evaluate whether the successor is qualified. It executes
+the transfer the Leader authorized. The political reality of whether the
+faction will follow the successor is not a System problem.
+
+================================================================================
+DESIGN NOTES
+================================================================================
+
+  The faction system is intentionally designed to create pressure at every
+  rank. Each tier introduces new vulnerabilities at the same time as it
+  provides new capabilities. This mirrors the story's core tension: power
+  and cost scaling together rather than power neutralizing cost.
+
+  Jay's faction is a Rank 0 entity at the start of Arc 1. Every element of
+  the system above is something he will encounter through the story rather
+  than something he knows going in. His understanding of what he has built
+  will develop in parallel with the faction itself. This is intentional.
+  He should not start with a mastery of faction politics. He should learn
+  it the hard way, which is the only way his character actually learns anything.
+
+  The five advancement factors are designed to resist pure optimization.
+  A leader who maximizes membership while ignoring territorial footprint
+  will hit a wall. A leader who focuses entirely on achievement record
+  without building resource base sustainability will find the faction
+  fragile in exactly the moments it needs to be durable. Jay's strengths
+  map strongly onto achievement record and territorial footprint through
+  combat. His weaknesses map onto governance and resource base. Managing
+  that gap requires either developing personal capabilities he does not
+  currently have or finding members who cover what he cannot.
+
+  The latter is the more likely path. And building genuine trust in people
+  who cover his gaps is one of the most specific and uncomfortable things
+  the faction system will ask of him.
+
+  Samantha's role within the faction is TBD but the design space for her
+  is in the governance and resource domain, counterbalancing exactly
+  the areas Jay is structurally weakest in.
+
+================================================================================
+TBD — OPEN ITEMS
+================================================================================
+
+  Jay's faction name                                   : TBD
+  Jay's faction type declaration                       : TBD
+  Faction founding moment and which members are present: TBD — Arc 1
+  Samantha's faction role                              : TBD
+  Oliver and Jess's faction roles if applicable        : TBD
+  First faction quest in detail                        : TBD — Arc 1
+  First external faction antagonist                    : TBD
+  Rank 5 and above thresholds                          : TBD — Book 2+
+  Advanced leadership skills at Named stage            : TBD — long arc
+  Interaction between Primal Spirit Orb and leadership
+    skills at high faction rank                        : TBD
+  Faction Title catalogue                              : TBD — as arcs develop
+
+================================================================================

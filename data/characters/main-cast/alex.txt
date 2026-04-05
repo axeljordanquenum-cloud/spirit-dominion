@@ -1,0 +1,282 @@
+================================================================================
+                        CHARACTER CARD — SPIRIT DOMINION
+================================================================================
+
+[ IDENTITY ]
+Name            : Alex — (last name TBD)
+Aliases/Titles  : The Soul Smith (emerges through arc)
+Age             : TBD — early-to-mid twenties
+Gender          : Male
+Race/Species    : Human — Universe 711
+Class/Role      : Fighter / Blacksmith — Soul Smith
+Affiliation     : Independent → Faction Core Member → Faction Warmaster
+
+--------------------------------------------------------------------------------
+[ SYSTEM STATS ] — LitRPG
+--------------------------------------------------------------------------------
+Level           : 1 (post-Ascension, Arc 1 start)
+Rank/Tier       : Rank F
+Primary Stat    : Strength / Constitution (co-primary physical)
+Secondary Stats : Willpower, Vitality
+Unique Skill(s) : Soul Forge — see talent section below
+                  Twin Soul Bastion — shared with Lexie, see below
+System Title    : — (none at start)
+Limitations     : Soul Forge requires slain opponents as material —
+                  the quality of what he can produce is directly
+                  constrained by what he has available to smelt.
+                  Early arc, his soul fire capabilities are limited
+                  by the strength of the souls he has encountered.
+                  The forge is a resource. Managing it is a discipline.
+
+--------------------------------------------------------------------------------
+[ APPEARANCE ]
+--------------------------------------------------------------------------------
+Height/Build    : Built for what he does — physically substantial,
+                  the kind of frame that reads as competent rather
+                  than excessive. Hands that look like they have
+                  made things and broken things in equal measure.
+Eyes            : TBD
+Hair            : TBD — visual distinction from Lexie present.
+Distinguishing  : A directness that does not waste motion. He does
+                  not perform intensity — it is simply his default
+                  register.
+Combat Gear     : TBD — hammer-based. Soul fire expression.
+                  His own weapons by definition — no one else
+                  makes what he carries.
+Casual Look     : TBD — something that reads as someone who is
+                  always slightly prepared for things to go wrong.
+
+--------------------------------------------------------------------------------
+[ PERSONALITY ]
+--------------------------------------------------------------------------------
+Core Traits     : Direct. Reliable. Fiercely protective of the
+                  people he has decided to protect. Proud of what
+                  he makes in the way a craftsman is proud — not
+                  ego, but the satisfaction of having done something
+                  well. Carries a heat under the surface that comes
+                  out in combat.
+
+Strengths       : He is exactly what he appears to be, which is
+                  unusual in a world where most powerful people
+                  maintain layers. There is no gap between who Alex
+                  is in the room and who Alex is in a fight.
+                  His weapons are exceptional from the start and
+                  grow into something extraordinary. The faction's
+                  combat effectiveness is partly built on what
+                  comes out of his forge.
+                  Steady under pressure. The heat he carries does
+                  not become chaos — it becomes force.
+
+Flaws           : The twin bond means he absorbs Lexie's pain
+                  at threshold moments and she absorbs his. He does
+                  not discuss this. The weight of that knowledge
+                  sits in every combat decision he makes.
+                  Can be blunt in ways that land badly when
+                  precision would serve better.
+                  The soul-smelting mechanic has implications he
+                  has not fully reckoned with yet — what it means
+                  to consume a soul for materials is a question
+                  the story will eventually make him answer.
+
+Fears           : Lexie getting hurt because of something he
+                  could have prevented.
+                  Becoming the kind of person who stops asking
+                  what it costs to make something powerful.
+
+Motivations     : Make things that matter. Not just powerful
+                  weapons — weapons that are right for the person
+                  who carries them, built with the full depth
+                  of what he can put into them.
+                  Be someone the faction can count on when the
+                  situation requires something that does not
+                  yield.
+                  Understand the full scope of what the Soul Forge
+                  can do — and reckon with it honestly.
+
+Moral Alignment : Has lines. Does not announce them. Crosses them
+                  for the right people. Will not cross them for
+                  the wrong reasons no matter the justification
+                  offered.
+
+Speech Style    : Direct. Short when he does not need more words.
+                  More words when the situation earns them.
+                  The humor surfaces when he is comfortable — dry,
+                  self-aware, and usually at his own expense.
+
+--------------------------------------------------------------------------------
+[ BACKSTORY ]
+--------------------------------------------------------------------------------
+Origin          : TBD — arrives with Lexie. Their origin is shared
+                  and should be developed together. Wherever they
+                  came from, they came from it together and the
+                  experience shaped them differently without
+                  pulling them apart.
+
+Key Events      : The Ascension. Soul Forge activated and the fire
+                  was simply there — ancient, patient, ready.
+                  He did not feel like it was given to him.
+                  He felt like it recognized him.
+                  First weapon forged with soul material — the
+                  moment the full scope of what the Forge can do
+                  became tangible. TBD.
+                  First time the Twin Soul Bastion triggered at
+                  threshold — TBD. Load-bearing story beat.
+
+Trauma/Wound    : TBD — shared with Lexie's backstory development.
+                  The soul-smelting question is the wound that
+                  has not been opened yet. At some point the
+                  story will ask him what he is doing to the
+                  things he melts.
+
+Secret(s)       : TBD
+
+--------------------------------------------------------------------------------
+[ RELATIONSHIPS ]
+--------------------------------------------------------------------------------
+Allies          : Lexie (twin — closest relationship), Jay, Samantha, Jess
+Rivals          : TBD
+Enemies         : TBD
+Romantic        : TBD
+Mentors         : TBD
+Family          : Lexie (twin sister)
+
+--------------------------------------------------------------------------------
+[ TALENT ]
+--------------------------------------------------------------------------------
+
+TALENT 1: SOUL FORGE
+Classification  : Craft / Technique — Creation / Combat hybrid
+Timing          : Composite
+
+CORE:
+  Alex carries an internal forge — not a physical object but a space within
+  him where soul fire burns. The fire is primordial in quality and
+  patient in nature. It does not rush. It waits for the right material
+  and the right moment, then it works.
+
+POWER ROAD:
+  SOUL FIRE      The base expression. Alex can externalize soul fire
+                 as a combat element — it is not standard fire magic.
+                 It burns differently. Conventional fire suppression
+                 has limited effect on it. At early ranks its output
+                 is modest. It grows with the quality of what feeds
+                 the forge.
+
+  SMELTING       The forge does not just burn. It processes. Alex can
+                 smelt the souls of slain opponents — extracting from
+                 them something essential that becomes material for
+                 his craft. The quality and nature of what he extracts
+                 depends entirely on what the opponent was:
+                 their rank, their nature, and how they died.
+                 A monster's soul yields different materials than a
+                 warrior's. A warrior's yields different materials
+                 than something older and stranger.
+
+  FORGING        What he makes carries properties that standard
+                 crafting cannot produce. His weapons are not
+                 enhanced equipment — they are made from things
+                 that used to be alive. That distinction matters
+                 in how they behave. A weapon forged from strong
+                 soul material has properties that align with the
+                 source. It is not just powerful. It is specific.
+
+  COMBAT SMITH   Alex is not a support character who occasionally
+                 fights. He is a warmaster. The hammer he carries
+                 and the soul fire he commands make him one of the
+                 faction's most dangerous close-range combatants.
+                 The forge and the fight are the same thing in
+                 his hands — what he does to opponents in battle
+                 feeds what he can build afterward.
+
+  LATE EXPRESSION Over the long arc, what Alex can smelt and
+                  what he can forge expands beyond conventional
+                  soul material. The implications of what the
+                  forge is capable of at high ranks are TBD —
+                  but the direction is clear. He is not just
+                  building weapons. He is building things that
+                  have no category yet.
+
+TALENT 2: TWIN SOUL BASTION
+Classification  : Physical Enhancement / Defensive — shared talent
+Timing          : Composite
+Shared with     : Lexie
+
+CORE:
+  See Lexie's character card for full mechanics. Alex carries the same
+  half of the shared talent. Key expressions from his perspective:
+
+  MENTAL FORTRESS  Natural resistance to mental attack. Passive,
+                   always active, strengthened by proximity to Lexie.
+
+  DAMAGE TRANSFER  When Lexie takes a threshold blow, Alex feels it
+                   and absorbs half. When Alex takes a threshold blow,
+                   Lexie absorbs half. He cannot prevent this.
+                   He can only be aware of it.
+
+  PROXIMITY BOND   His combat output is measurably higher when Lexie
+                   is in range. Not by his own effort — the talent
+                   amplifies what both of them are doing in proximity.
+
+  COST             The distribution of a threshold blow means Alex
+                   takes serious damage when Lexie would take fatal
+                   damage. He has made his peace with this. Lexie
+                   has not entirely made her peace with his version
+                   of peace with it.
+
+--------------------------------------------------------------------------------
+[ CHARACTER ARC ]
+--------------------------------------------------------------------------------
+Start State     : A man who knows exactly what he is and has not yet
+                  been asked to reckon with the full cost of being it.
+                  The forge is there. The fire is ready. The question
+                  of what it means to consume souls for materials has
+                  not been fully opened yet.
+
+Internal Goal   : Make things worthy of what went into them.
+                  This is both a craft principle and an unexamined
+                  moral position. Eventually the story will ask
+                  him to examine it.
+
+External Goal   : Arm the faction for what is coming. Become
+                  the warmaster the faction needs at scale.
+                  Push the Soul Forge until he understands everything
+                  it can do.
+
+Turning Point   : The moment the forge produces something that makes
+                  the soul-smelting question impossible to avoid —
+                  either because of what he smelted, or because of
+                  what the weapon does to someone, or because
+                  someone asks him directly and he does not have
+                  an answer he can stand behind. TBD.
+
+End State       : TBD — open. The Soul Smith at full expression is
+                  someone who makes things that do not exist in any
+                  other forge. What those things are and what they
+                  cost is the arc.
+
+Theme/Lesson    : Making something powerful is not the same as
+                  making something right. The fire does not care
+                  about the difference. The smith has to.
+
+--------------------------------------------------------------------------------
+[ NOTES ]
+--------------------------------------------------------------------------------
+Misc            : Alex and Lexie are not the same person in a
+                  two-body configuration. They came through the
+                  same experience differently and those differences
+                  are what makes their bond matter.
+                  The soul-smelting mechanic is the most morally
+                  interesting element of his kit and should not
+                  be glossed over. The story will eventually have
+                  to engage with what it means.
+                  His combat role as warmaster needs to be shown
+                  early enough that his identity is established
+                  before the crafting side dominates his screen time.
+                  The two expressions — forger and fighter — should
+                  feel like one thing, not two.
+                  The twin bond's damage-sharing has direct tactical
+                  implications for how Jay uses both of them in
+                  high-risk engagements. This is worth developing
+                  in the faction dynamics section.
+
+================================================================================

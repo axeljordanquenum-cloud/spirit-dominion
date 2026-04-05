@@ -1,0 +1,85 @@
+================================================================================
+                    RANK & TIER CLASSIFICATION — QUICK REFERENCE
+                    Spirit Dominion | The System Era
+================================================================================
+
+CLASS RANKS
+-----------
+  F   Novice          15 lv    Basic minimum
+  E   Apprentice      25 lv    Basic minimum
+  D   Adept           60 lv    Elite minimum
+  C   Elite          100 lv    Elite minimum
+  B   Master                   Rare
+  A   Legend                   Rare
+  S   Ascendant                Epic
+  SS  Transcendent             Legendary
+  Ex  Supreme                  Celestial
+
+CLASS QUALITY
+-------------
+  F   Basic / Ordinary
+  E   Elite
+  D   Rare
+  C   Specialist / Epic
+  B   Apex
+  A   Legendary
+  S   Celestial
+  SS  Forgotten / Ancient
+  Ex  Unique
+
+POWER SCALING REFERENCE
+-----------------------
+  F   Vulnerable to cold weapons and conventional / small caliber firearms
+  E   Can fight armed soldiers — resistant to small and large caliber firearms
+  D   War machine equivalent — resistant to most kinetic weapons
+  C   Survives weapons of mass destruction — city destruction potential
+  B   Natural disaster level — can destroy a large country at full power
+  A   Planet-free — space-capable — world destruction potential
+  S+  Beyond conventional quantification
+
+SUBLIMATION STAGES  [ Race Level ]
+-----------------------------------
+  Dormant        G          Pre-System. No extraordinary access.
+  Awakened       F, E, D    Mortal tier. Body-constrained. Limited element.
+  Extraordinary  C, B       Super-dimensional. Advanced energy. Battle Body.
+  Named          A, S       True Name. Avatar. Domain.
+  Eternal        SS         Law mastery. Concept seizure. Universe-bound.
+  Primordial     Ex         Beyond classification.
+
+RACE TIERS  [ Sublimation Ceiling ]
+-------------------------------------
+  Basic / Mortal              Awakened (naturally) — Extraordinary requires class
+  Intermediate / Super-dim.   Extraordinary naturally
+  Advanced / High-Info.       Named naturally
+  Unique Entity               Outside standard classification
+
+INTELLIGENT RACE CATEGORIES
+----------------------------
+  Crafting    Dexterity / Wisdom / Perception / Willpower     e.g. Terran
+  Power       Constitution / Strength / Agility / Willpower
+  Spirit      Mystery / Willpower / Perception / Wisdom
+  Faith       Mystery / Perception
+
+BLOODLINE QUALITY
+-----------------
+  Common
+  Uncommon
+  Refined
+  Noble
+  Sovereign
+  Mythic
+  Primordial
+
+MONSTER RANKS
+-------------
+  F   Monster
+  E   Elite Monster
+  D   Tyrant Monster
+  C   Titan / Spirited Monster
+  B   Disaster Monster
+  A   Calamity Monster
+  S   Apocalypse Monster
+  SS  Divine Monster
+  Ex  Primordial Monster
+
+================================================================================

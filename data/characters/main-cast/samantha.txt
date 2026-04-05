@@ -1,0 +1,236 @@
+================================================================================
+                        CHARACTER CARD — SPIRIT DOMINION
+================================================================================
+
+[ IDENTITY ]
+Name            : Samantha — (last name TBD)
+Aliases/Titles  : The Night Lady / Star Queen (titles emerge through arc)
+Age             : Early twenties
+Gender          : Female
+Race/Species    : Human — Universe 711
+Class/Role      : Mage (Support / Large-Scale) → Stellar Summoner (long arc)
+Affiliation     : Independent → Faction Core Member → Faction Executive
+
+--------------------------------------------------------------------------------
+[ SYSTEM STATS ] — LitRPG
+--------------------------------------------------------------------------------
+Level           : 1 (post-Ascension, Arc 1 start)
+Rank/Tier       : Rank F
+Primary Stat    : Mystery
+Secondary Stats : Willpower, Wisdom, Constitution
+Unique Skill(s) : Stellar Affinity — see talent section below
+System Title    : — (none at start)
+Limitations     : Support and large-scale specialization means her
+                  individual offensive output is not her edge.
+                  Early arc, her talent's deeper expressions are
+                  locked behind range, understanding, and rank.
+                  Drawing on stellar power over very long distances
+                  carries casting cost and latency that scales with
+                  proximity to the relevant body.
+
+--------------------------------------------------------------------------------
+[ APPEARANCE ]
+--------------------------------------------------------------------------------
+Height/Build    : TBD — something that reads as composed and present.
+                  The kind of person a room notices without being
+                  able to say exactly why.
+Eyes            : TBD
+Hair            : TBD
+Distinguishing  : A quality of stillness. She is rarely the loudest
+                  presence and almost always the most attended-to.
+                  The person everyone in the room is unconsciously
+                  tracking even when she is not speaking.
+Combat Gear     : TBD — mage configuration, long-range focus.
+Casual Look     : Clean. Deliberate. Nothing accidental about how
+                  she presents herself.
+
+--------------------------------------------------------------------------------
+[ PERSONALITY ]
+--------------------------------------------------------------------------------
+Core Traits     : Perceptive. Steady. Privately ambitious in a way
+                  she does not advertise. Exceptionally good at
+                  reading people and situations. The kind of person
+                  who solves a problem three steps before anyone
+                  else has identified it as a problem.
+
+Strengths       : Operational intelligence. She does not just see
+                  what is happening — she sees what is going to happen
+                  and moves accordingly.
+                  Trustworthy in a deep sense. People give her authority
+                  because she has earned it through consistent reliability,
+                  not through claiming it.
+                  Large-scale thinking. She manages systems, people,
+                  and long timelines simultaneously without losing
+                  the thread of any of them.
+                  Her care for the people around her is genuine and it
+                  makes her better at everything she does, not worse.
+
+Flaws           : Her own needs tend to come last. She is so capable
+                  of holding everything up that she rarely lets anyone
+                  notice when she is the one carrying the weight.
+                  The emotional distance in Jay that she navigates
+                  so well means she never pushes him — and there are
+                  moments she should.
+                  She accepted it but has ambitions of her own that
+                  the faction role can crowd out if she is not careful.
+
+Fears           : The people she holds together falling apart in a
+                  way she did not see coming.
+                  Becoming so essential to the structure that she
+                  loses the thread of who she is outside it.
+
+Motivations     : Build something that lasts. Not power for its own
+                  sake — legacy. A faction that is more than the sum
+                  of its strongest fighters.
+                  Protect the people she chose. This is not secondary
+                  to the first motivation. They are the same thing.
+                  Become something extraordinary in her own right.
+                  The background role is chosen, not imposed — but
+                  she has not put a ceiling on where she goes from it.
+
+Moral Alignment : Has a clear sense of right that she does not
+                  compromise easily. Will not harm without cause.
+                  Will also not stand aside when something needs to
+                  be done. Pragmatic at the edges, principled at
+                  the center.
+
+Speech Style    : Measured. She does not rush words. Warm without
+                  being soft. Occasionally she says the precise
+                  thing that cuts through a room's noise and everyone
+                  goes quiet without knowing why. She is very
+                  aware of the weight her words carry and uses that
+                  deliberately.
+
+--------------------------------------------------------------------------------
+[ BACKSTORY ]
+--------------------------------------------------------------------------------
+Origin          : TBD — pre-Ascension connection to Jay. The execution
+                  ground moment is the anchor point: Jay was given an
+                  instruction and chose differently when he met her gaze.
+                  She knows what that moment cost him and what it meant.
+
+Key Events      : The execution ground. Whatever it was, she was there
+                  and it was the moment the relationship was defined.
+                  The Ascension. Stellar Affinity activated and she
+                  felt for the first time that the stars were not
+                  just distant light — they were available to her.
+                  Taking on the faction's operational structure. Not
+                  dramatic. She simply saw what needed doing and did it.
+
+Trauma/Wound    : TBD — to be developed alongside the backstory.
+                  The execution ground implies something was at stake
+                  beyond a meeting. What she was doing there and why
+                  matters to who she is.
+
+Secret(s)       : TBD
+
+--------------------------------------------------------------------------------
+[ RELATIONSHIPS ]
+--------------------------------------------------------------------------------
+Allies          : Jay (unspoken bond, implicit trust), Jess, Lexie, Alex
+Rivals          : TBD
+Enemies         : TBD
+Romantic        : TBD — her relationship with Jay is the most significant
+                  unresolved thread. She is openly warmer toward him than
+                  he knows how to handle. Whether this becomes something
+                  explicit is TBD.
+Mentors         : TBD
+Family          : TBD
+
+--------------------------------------------------------------------------------
+[ TALENT ]
+--------------------------------------------------------------------------------
+Name            : Stellar Affinity
+Classification  : Elemental / Magical — Cosmic / Celestial variant
+Timing          : Composite
+
+CORE:
+  Samantha carries an innate connection to stellar bodies. She does not
+  just observe stars — she is in relationship with them. They are a
+  power source she can draw upon, a presence she can channel, and
+  eventually a force she can direct on behalf of others.
+
+POWER ROAD:
+  AFFINITY       The foundation. Stars are not hostile to her. Their
+                 power flows toward her more readily than it should.
+                 Passive enhancement to Mystery and Willpower in the
+                 presence of open sky, stronger under stars.
+
+  BLESSING       The first active expression. She can extend stellar
+                 energy outward, granting those around her enhanced
+                 attributes, resistance, and resilience. The support
+                 specialization begins here. The range and potency
+                 of her blessings scale with her rank and the
+                 distance to the stellar body she is drawing from.
+
+  LARGE SCALE    Her mana pool is exceptional even within the
+                 Extraordinary-range mage tier. She is built for
+                 spells that others cannot sustain — area effects,
+                 long-duration buffs, and large-scale phenomena
+                 that require more reserve than precision.
+
+  STELLAR CALL   The late expression. Astral entities — beings native
+                 to the space between stars — become available to her
+                 as summons. These are not summoned monsters. They are
+                 entities from a dimension adjacent to stellar bodies
+                 who recognize her as a bridge. Their nature and
+                 capability vary.
+
+  STELLAR KNIGHT The most personal expression of the late talent.
+                 Samantha can grant a permanent stellar mark to
+                 individuals she chooses — elevating their capabilities
+                 through an ongoing connection to her stellar network.
+                 Stellar Knights carry a piece of her blessing as a
+                 permanent state. The number she can sustain is limited
+                 by her rank and reserve.
+
+--------------------------------------------------------------------------------
+[ CHARACTER ARC ]
+--------------------------------------------------------------------------------
+Start State     : A woman who has already demonstrated she can hold
+                  a structure together, who has chosen a support role
+                  from a position of genuine capability, and who carries
+                  something unresolved with Jay that neither of them
+                  has named.
+
+Internal Goal   : Figure out who she is beyond what she provides
+                  to the people around her.
+
+External Goal   : Build the faction into something that can survive
+                  without needing to be held together by hand.
+                  Move from background operator to a power in her
+                  own right. Become the Star Queen in fact, not
+                  just in eventual title.
+
+Turning Point   : The moment the faction faces a crisis her operational
+                  skill cannot manage alone and she has to step into
+                  a combat role she has been quietly building toward.
+
+End State       : TBD — open. She becomes a node. Not just a support
+                  figure but a gravitational presence — someone whose
+                  network of blessings, knights, and stellar entities
+                  makes her a strategic force no one planned around.
+
+Theme/Lesson    : Choosing to support is not the same as choosing to
+                  be secondary. The person who builds the foundation
+                  does not disappear into it. At some point the
+                  foundation speaks.
+
+--------------------------------------------------------------------------------
+[ NOTES ]
+--------------------------------------------------------------------------------
+Misc            : Samantha's warmth toward Jay is genuine and it is
+                  also clear-eyed. She sees him accurately — including
+                  the parts he does not show anyone. Whether that
+                  becomes romantic is TBD but it is always present
+                  as a quiet current in their scenes.
+                  Her executive role is the story's argument that
+                  power does not only express as combat capability.
+                  She should be treated as a primary character with
+                  the same weight as Jay and Jess, not as a support
+                  figure in the narrative sense.
+                  The execution ground backstory needs development.
+                  It is load-bearing for her relationship with Jay
+                  and should be handled with care.
+
+================================================================================

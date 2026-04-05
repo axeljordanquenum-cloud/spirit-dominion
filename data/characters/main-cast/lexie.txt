@@ -1,0 +1,271 @@
+================================================================================
+                        CHARACTER CARD — SPIRIT DOMINION
+================================================================================
+
+[ IDENTITY ]
+Name            : Lexie — (last name TBD)
+Aliases/Titles  : The Grand Architect
+Age             : TBD — early-to-mid twenties
+Gender          : Female
+Race/Species    : Human — Universe 711
+Class/Role      : War Mage / Grand Architect
+Affiliation     : Independent → Faction Core Member → Faction Builder
+
+--------------------------------------------------------------------------------
+[ SYSTEM STATS ] — LitRPG
+--------------------------------------------------------------------------------
+Level           : 1 (post-Ascension, Arc 1 start)
+Rank/Tier       : Rank F
+Primary Stat    : Mystery
+Secondary Stats : Willpower, Wisdom, Dexterity
+Unique Skill(s) : Fractal Form / Grand Architect — see talent section
+                  Twin Soul Bastion — shared with Alex, see below
+System Title    : — (none at start)
+Limitations     : Her combat power requires time and preparation to reach
+                  its apex — in an ambush or a short engagement without
+                  setup, she is not at her ceiling.
+                  Twin Soul Bastion's damage-sharing mechanic means her
+                  choices in combat have direct consequences for Alex.
+                  The dual talent condition is exceptional and not without
+                  its own cost, though its full nature is TBD.
+
+--------------------------------------------------------------------------------
+[ APPEARANCE ]
+--------------------------------------------------------------------------------
+Height/Build    : TBD
+Eyes            : TBD
+Hair            : TBD — some visual distinction from Alex that makes
+                  it clear they are twins without being identical.
+Distinguishing  : The quality of someone who is always building
+                  something in their head. Calm in a way that reads
+                  as unhurried even when she is working at speed.
+Combat Gear     : TBD — war mage configuration. Magic circle casting
+                  apparatus. Built for sustained deployment.
+Casual Look     : TBD
+
+--------------------------------------------------------------------------------
+[ PERSONALITY ]
+--------------------------------------------------------------------------------
+Core Traits     : Methodical and precise. She approaches every problem
+                  the way she approaches a construction: understand
+                  the load, identify the structure, build to last.
+                  Quietly formidable. Does not announce herself.
+                  Deeply loyal to the people she has chosen.
+
+Strengths       : Mastery of complexity without needing to simplify
+                  it first. Where most mages hit a ceiling on what
+                  they can hold in mind and execute cleanly, Lexie's
+                  ceiling is functionally invisible in her domain.
+                  Strategic patience. She can hold a plan across a
+                  long timeline and execute it at the right moment
+                  without losing her grip on the pieces.
+                  The faction's infrastructure exists because of her.
+                  She does not just build structures — she builds
+                  systems that outlast the moment they were needed for.
+
+Flaws           : The time requirement for her peak combat output is
+                  a genuine vulnerability. She knows it and has
+                  developed workarounds, but in a world that moves
+                  fast, this is always a tactical constraint.
+                  The twin bond is a source of strength and also a
+                  weight. She feels what happens to Alex in a way
+                  that does not switch off. This is not discussed.
+
+Fears           : Something happening to Alex that she absorbs
+                  too late to prevent.
+                  Building something magnificent and watching it
+                  fail because of a factor she did not account for.
+
+Motivations     : Build things that matter. Not just structures —
+                  the faction as a functioning civilization. She
+                  thinks in terms of what endures.
+                  Be the person the team can rely on when the
+                  foundation needs to hold.
+                  Push her mastery until there is no spell she
+                  cannot learn if she decides to.
+
+Moral Alignment : Principled. She has a clear code and she holds it
+                  quietly. Does not moralize. Does not need to —
+                  her actions are consistent enough that her
+                  values are self-evident to anyone paying attention.
+
+Speech Style    : Deliberate. She chooses words the way she chooses
+                  building materials: for load-bearing capacity,
+                  not decoration. Dry humor that surfaces occasionally
+                  and lands because it is not expected.
+
+--------------------------------------------------------------------------------
+[ BACKSTORY ]
+--------------------------------------------------------------------------------
+Origin          : TBD — arrived post-Ascension into Jay's orbit.
+                  The circumstances of their meeting are TBD but
+                  she and Alex come as a unit. Wherever one goes,
+                  the other is accounted for.
+
+Key Events      : The Ascension. Fractal Form activated and she
+                  felt the geometry of the world open up to her —
+                  not as abstraction but as something she could
+                  reach into and work with.
+                  First Blueprint awarded by the System. The moment
+                  she understood what her role in the faction could be.
+                  First major construction for the faction — TBD,
+                  but it is the moment the team understands what
+                  they have in her.
+
+Trauma/Wound    : TBD — to be developed. The twin bond implies
+                  that at some point they have been in a situation
+                  serious enough to trigger the damage-sharing
+                  mechanic. What that situation was is TBD.
+
+Secret(s)       : TBD
+
+--------------------------------------------------------------------------------
+[ RELATIONSHIPS ]
+--------------------------------------------------------------------------------
+Allies          : Alex (twin — closest relationship), Jay, Samantha, Jess
+Rivals          : TBD
+Enemies         : TBD
+Romantic        : TBD
+Mentors         : TBD
+Family          : Alex (twin brother)
+
+--------------------------------------------------------------------------------
+[ TALENT ]
+--------------------------------------------------------------------------------
+
+TALENT 1: FRACTAL FORM / GRAND ARCHITECT
+Classification  : Craft / Technique — Mastery variant with combat application
+Timing          : Composite
+
+CORE:
+  Lexie's talent operates through geometry. She perceives and interacts with
+  shape and form at a fundamental level — not just physical architecture
+  but the structure underlying magic, formations, and constructed systems.
+  Fractal Form means every structure she engages with has a recursive
+  depth she can read and work within.
+
+POWER ROAD:
+  MASTERY        The foundation. No spell is beyond her capacity to
+                 learn, given sufficient study. Complexity does not
+                 deter her — it is the medium she is most comfortable in.
+                 Her edge over other mages is not raw power but the
+                 ability to execute configurations they cannot hold.
+
+  MAGIC CIRCLES  Her casting method. Where other mages use conventional
+                 spell activation, Lexie casts through magic circle
+                 construction — intricate, precise, and capable of
+                 producing effects that standard casting architecture
+                 cannot replicate. The circles themselves are an art form.
+                 Higher complexity circles take more time but produce
+                 disproportionately greater output.
+
+  CONSTRUCTION   The non-combat expression. She is the only faction
+                 member capable of reading and using System-awarded
+                 Blueprints. Everything the faction builds physically
+                 passes through her hands — and everything she touches
+                 is enhanced by the talent's architectural affinity.
+                 The faction's infrastructure is a direct product
+                 of this expression.
+
+  WAR APPLICATION In time and with preparation, Lexie can bring
+                 comprehensive, devastating magical force to a
+                 battlefield. Her magic circle arrays, once deployed,
+                 operate as systems — coordinated outputs across
+                 an area that most individual mages could not
+                 replicate in scale or sustained intensity.
+                 Given enough time to prepare, she is one of the most
+                 dangerous forces the faction can deploy.
+
+TALENT 2: TWIN SOUL BASTION
+Classification  : Physical Enhancement / Defensive — shared talent
+Timing          : Composite
+Shared with     : Alex
+
+CORE:
+  The Twin Soul Bastion is not two talents — it is one talent split
+  across two bodies at the moment of Ascension. Lexie and Alex each
+  carry half of something that functions as a whole.
+
+EFFECTS:
+  MENTAL FORTRESS  Both twins carry tremendous natural resistance to
+                   mental interference, psychic attacks, and any
+                   ability that targets the mind or will. This is
+                   passive and always active. The strength of the
+                   resistance scales with the proximity of the other twin.
+
+  DAMAGE TRANSFER  When one twin receives a blow that would be fatal
+                   or critically debilitating, the damage can be
+                   distributed between them — halving the impact across
+                   both rather than concentrating it in one.
+                   This is not a toggle. It is an instinctive activation
+                   that occurs at threshold. The twin who receives the
+                   redistributed damage knows it is coming a split second
+                   before it arrives. No control over whether it triggers
+                   — only awareness.
+
+  PROXIMITY BOND   When Lexie and Alex are within range of each other,
+                   both their individual abilities are enhanced. The
+                   enhancement scales with the depth of their bond and
+                   their combined rank. Separation diminishes this effect.
+                   Extended separation begins to apply a low-level
+                   drain — the talent wants them together.
+
+  COST             The damage transfer is not clean. Distributing
+                   a fatal blow means both twins take serious damage
+                   rather than one taking catastrophic damage. This is
+                   survivable but not without consequence. The choice
+                   of whether to let a blow land on one or split it
+                   is not always available — sometimes the talent
+                   decides before the mind catches up.
+
+--------------------------------------------------------------------------------
+[ CHARACTER ARC ]
+--------------------------------------------------------------------------------
+Start State     : A mage of exceptional potential who has arrived with
+                  her twin, found a structure worth building into,
+                  and begun constructing the faction's foundation with
+                  the same quiet certainty she brings to everything.
+
+Internal Goal   : Build something that has never existed before and
+                  know she built it — not as support, but as author.
+
+External Goal   : Become the faction's permanent architectural and
+                  magical infrastructure. Push Fractal Form until
+                  there is no construction — physical or magical —
+                  that is beyond her reach.
+
+Turning Point   : A moment where the twin bond's damage-sharing
+                  triggers under circumstances that make the cost
+                  undeniable. The talent is generous and the price
+                  is real. This is the beat that makes both twins
+                  reckon with what they carry.
+
+End State       : TBD — open. The Grand Architect in full expression
+                  is someone who has authored entire systems. A war
+                  deployment from Lexie at high rank is an event.
+
+Theme/Lesson    : Mastery is not the same as control. To master
+                  something is to understand it so well you are
+                  no longer afraid of it. Control means the cost
+                  stops mattering. They are not the same and Lexie
+                  will have to learn the difference.
+
+--------------------------------------------------------------------------------
+[ NOTES ]
+--------------------------------------------------------------------------------
+Misc            : Lexie and Alex function as a unit without being
+                  the same person. Their bond is the quiet baseline
+                  of every scene they share — not performed, not
+                  discussed, simply present.
+                  The Grand Architect title should feel earned, not
+                  just assigned. The story needs to show her building
+                  the things that make the faction real.
+                  Her illusion-adjacent quality (structure and form
+                  as her medium) creates an interesting dynamic with
+                  Jess's True Sight. Two people who see structure
+                  differently — one through perception, one through
+                  construction.
+                  Blueprint mechanic needs expansion in the faction
+                  or system doc — it is load-bearing for her role.
+
+================================================================================

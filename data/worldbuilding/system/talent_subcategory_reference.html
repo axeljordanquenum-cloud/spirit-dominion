@@ -1,0 +1,443 @@
+
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:var(--font-sans);color:var(--color-text-primary);font-size:13px}
+.cat-block{margin:0 0 2px}
+.cat-header{padding:10px 16px;font-size:14px;font-weight:500;color:var(--color-text-primary);border-bottom:1px solid var(--color-border-tertiary);display:flex;align-items:center;gap:10px;cursor:pointer;user-select:none;background:var(--color-background-secondary)}
+.cat-dot{width:10px;height:10px;border-radius:50%;flex-shrink:0}
+.cat-body{border-bottom:2px solid var(--color-border-secondary)}
+.sub-block{border-bottom:1px solid var(--color-border-tertiary)}
+.sub-block:last-child{border-bottom:none}
+.sub-header{padding:8px 16px 6px 36px;font-size:12px;font-weight:500;color:var(--color-text-secondary);background:var(--color-background-primary)}
+.examples{padding:0 16px 10px 36px;display:flex;flex-direction:column;gap:8px}
+.example{border:1px solid var(--color-border-tertiary);border-radius:var(--border-radius-md);padding:9px 12px;background:var(--color-background-secondary)}
+.ex-header{display:flex;align-items:center;gap:8px;margin-bottom:4px}
+.ex-name{font-size:12px;font-weight:500}
+.ex-timing{font-size:10px;padding:1px 6px;border-radius:3px;font-weight:500}
+.timing-early{background:#FAEEDA;color:#633806}
+.timing-late{background:#EEEDFE;color:#3C3489}
+.timing-composite{background:#E1F5EE;color:#085041}
+.ex-desc{font-size:11px;color:var(--color-text-secondary);line-height:1.55}
+.ex-scale{font-size:10px;color:var(--color-text-tertiary);margin-top:4px;font-style:italic}
+.legend{display:flex;gap:12px;padding:8px 16px;font-size:11px;color:var(--color-text-secondary);background:var(--color-background-secondary);border-bottom:1px solid var(--color-border-tertiary)}
+</style>
+
+<div style="border:1px solid var(--color-border-tertiary);border-radius:var(--border-radius-lg);overflow:hidden;margin:4px 0">
+
+<div class="legend">
+  <span style="font-weight:500">Timing archetypes:</span>
+  <span><span class="ex-timing timing-early">Early</span> strong from start</span>
+  <span><span class="ex-timing timing-late">Late</span> edge reveals with rank</span>
+  <span><span class="ex-timing timing-composite">Composite</span> strong early + scales</span>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- PHYSICAL -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<div class="cat-block">
+<div class="cat-header">
+  <div class="cat-dot" style="background:#D85A30"></div>
+  <span>1 — Physical Enhancement</span>
+</div>
+<div class="cat-body">
+
+  <div class="sub-block">
+    <div class="sub-header">Sensory Enhancement</div>
+    <div class="examples">
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">All-Sight</span><span class="ex-timing timing-early">Early</span></div>
+        <div class="ex-desc">Vision enhanced far beyond human baseline — range, clarity, low-light, and motion tracking all elevated simultaneously. The owner sees what others cannot at the same rank.</div>
+        <div class="ex-scale">Late scaling: At high ranks, sight begins penetrating concealment, illusions, and eventually dimensional layers.</div>
+      </div>
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Predator's Nose</span><span class="ex-timing timing-composite">Composite</span></div>
+        <div class="ex-desc">Olfactory sense elevated to tracking-grade precision. Can identify individuals, emotional states, and residual traces across time and distance.</div>
+        <div class="ex-scale">Late scaling: Begins reading intent and energy signatures — the scent of fear, the smell of a lie, the trace of a technique recently used.</div>
+      </div>
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Tremor Sense</span><span class="ex-timing timing-late">Late</span></div>
+        <div class="ex-desc">Vibration awareness through contact with surfaces — footsteps, heartbeats, structural stress. Modest early. Requires understanding to deploy.</div>
+        <div class="ex-scale">Late scaling: Expands to airborne vibration, then to the subtle resonance of energy signatures — effectively a form of environmental awareness that bypasses conventional concealment.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="sub-block">
+    <div class="sub-header">Specific Attribute Enhancement</div>
+    <div class="examples">
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Iron Flesh</span><span class="ex-timing timing-early">Early</span></div>
+        <div class="ex-desc">Constitution scales at double the standard rate from every source — level-ups, FA allocation, class auto-attributes. The owner's physical resilience diverges from peers immediately.</div>
+        <div class="ex-scale">Late scaling: Constitution ceiling effectively uncapped — at high ranks the owner's body approaches a different structural category entirely.</div>
+      </div>
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Apex Reflex</span><span class="ex-timing timing-composite">Composite</span></div>
+        <div class="ex-desc">Agility and reaction speed permanently elevated above what the owner's attribute score should produce. The gap between stat and output widens with each rank.</div>
+        <div class="ex-scale">Late scaling: At S rank, the owner's movement begins operating outside conventional temporal perception — not time manipulation, but speed that produces similar results.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="sub-block">
+    <div class="sub-header">Full Body Enhancement</div>
+    <div class="examples">
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Titan's Frame</span><span class="ex-timing timing-early">Early</span></div>
+        <div class="ex-desc">All physical attributes enhanced simultaneously at a moderate rate. No specialization — a universal physical ceiling lift. The owner is better at everything physical, not exceptional at any one thing.</div>
+        <div class="ex-scale">Late scaling: Consistent but not explosive. The most reliable Physical Talent — never the highest ceiling in any single attribute, never outclassed across the board.</div>
+      </div>
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">War Body</span><span class="ex-timing timing-composite">Composite</span></div>
+        <div class="ex-desc">Physical attributes scale faster in combat than outside it — the owner's body adapts in real time to the demands of a fight. First few minutes of an engagement, still warming up. Sustained combat unlocks the Talent's full expression.</div>
+        <div class="ex-scale">Late scaling: Prolonged fights become increasingly one-sided. At high ranks, a sufficiently extended engagement effectively grants temporary attribute values several tiers above the owner's rank.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="sub-block">
+    <div class="sub-header">Transformation</div>
+    <div class="examples">
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Beast Skin</span><span class="ex-timing timing-early">Early</span></div>
+        <div class="ex-desc">The owner can partially or fully shift their body into a bestial form — enhanced physical stats, natural weapons, altered senses. The form is fixed at Ascension and does not change type.</div>
+        <div class="ex-scale">Late scaling: The bestial form grows in parallel with the owner — its attributes and capabilities scale with rank. At high ranks, the form may access elemental or conceptual properties tied to the beast's nature.</div>
+      </div>
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Adaptive Form</span><span class="ex-timing timing-late">Late</span></div>
+        <div class="ex-desc">The owner's body can restructure itself in response to damage — redistributing mass, sealing wounds by reorganizing tissue, altering proportions mid-combat. Early stage, this is slow and painful. Hard to use well.</div>
+        <div class="ex-scale">Late scaling: Adaptation speed becomes near-instant. At high ranks, the owner begins adapting proactively rather than reactively — the body restructures to counter a threat before it lands.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="sub-block">
+    <div class="sub-header">Recovery / Regeneration</div>
+    <div class="examples">
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Undying</span><span class="ex-timing timing-composite">Composite</span></div>
+        <div class="ex-desc">Passive regeneration rate is permanently elevated far above baseline. Wounds that would take days close in hours. Wounds that would take weeks close in days. Always active, scales with Vitality.</div>
+        <div class="ex-scale">Late scaling: Regeneration begins recovering things that should not regenerate — severed limbs, damaged organs, eventually even damage to the spirit and soul layers.</div>
+      </div>
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Death's Edge</span><span class="ex-timing timing-late">Late</span></div>
+        <div class="ex-desc">Recovery is dramatically accelerated specifically from near-fatal damage. Minor wounds heal normally. Catastrophic damage triggers a surge recovery. The closer to death, the faster the rebound.</div>
+        <div class="ex-scale">Late scaling: The surge recovery begins returning the owner stronger than before the damage — each near-death experience permanently elevates a physical attribute by a small amount.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="sub-block">
+    <div class="sub-header">Active / Passive Mode</div>
+    <div class="examples">
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Killing Intent</span><span class="ex-timing timing-early">Early</span></div>
+        <div class="ex-desc">Active. The owner can project a concentrated physical pressure that manifests as palpable threat. Weaker entities freeze, hesitate, or lose combat effectiveness in range. Costs nothing to maintain — operates like breathing.</div>
+        <div class="ex-scale">Late scaling: Killing Intent becomes capable of causing physical harm directly — pressure that stops hearts, collapses posture, and overwhelms weaker entities without contact.</div>
+      </div>
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Ghost Step</span><span class="ex-timing timing-composite">Composite</span></div>
+        <div class="ex-desc">Passive. The owner's movement produces no sound, no vibration, and minimal energy signature. Not invisibility — purely the absence of the physical traces that movement normally creates.</div>
+        <div class="ex-scale">Late scaling: The absence extends to visual trace, heat signature, and eventually the owner's presence in others' perception — not invisibility but the systematic erasure of every signal that would reveal location.</div>
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- MAGICAL / ELEMENTAL -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<div class="cat-block">
+<div class="cat-header">
+  <div class="cat-dot" style="background:#534AB7"></div>
+  <span>2 — Elemental / Magical Ability</span>
+</div>
+<div class="cat-body">
+
+  <div class="sub-block">
+    <div class="sub-header">Enhanced Elemental Affinity</div>
+    <div class="examples">
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Ember Core</span><span class="ex-timing timing-early">Early</span></div>
+        <div class="ex-desc">A permanent internal flame the owner externalizes at will. Direct fire expression — heat, combustion, light. Costs no MP to maintain at base level. Fire-based skills and spells cost less and hit harder.</div>
+        <div class="ex-scale">Late scaling: The flame begins expressing properties beyond temperature — burning concepts, intent, memory. At high ranks, what burns is not always physical.</div>
+      </div>
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Storm Blood</span><span class="ex-timing timing-composite">Composite</span></div>
+        <div class="ex-desc">Lightning affinity runs through the owner's body — movement generates charge, strikes carry voltage, and the owner is immune to electrical phenomena. Immediately useful and progressively harder to counter.</div>
+        <div class="ex-scale">Late scaling: The charge becomes a field. At high ranks, the owner's presence disrupts technology, interferes with magic circuits, and the lightning begins operating at speeds that bypass conventional reaction.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="sub-block">
+    <div class="sub-header">Special Affinity</div>
+    <div class="examples">
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Shadow Weave</span><span class="ex-timing timing-composite">Composite</span></div>
+        <div class="ex-desc">Affinity with darkness and shadow as a physical medium — not merely an absence of light but a substance the owner can shape, harden, and move through. Immediately tactical; grows stranger with rank.</div>
+        <div class="ex-scale">Late scaling: Shadow becomes a dimensional layer with its own interior. The owner can store things in it, move through it, and eventually pull things out of other people's shadows.</div>
+      </div>
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Gravity Well</span><span class="ex-timing timing-late">Late</span></div>
+        <div class="ex-desc">Affinity with gravitational force. Early expression is crude — localized weight increase, slow pull effects. Hard to use precisely and energy-expensive at low ranks.</div>
+        <div class="ex-scale">Late scaling: Gravity becomes directional, selective, and finally conceptual. At high ranks, the owner can apply gravitational logic to abstract things — the weight of a decision, the pull of a consequence.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="sub-block">
+    <div class="sub-header">Magic Talent in a Specific Field</div>
+    <div class="examples">
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Hex Weaver</span><span class="ex-timing timing-early">Early</span></div>
+        <div class="ex-desc">All curse-type magic costs half MP, activates faster, and lands harder. The owner's curses resist dispelling at a rate above their rank. Straightforward advantage in a specific magical domain.</div>
+        <div class="ex-scale">Late scaling: Curses begin persisting beyond the owner's death. At high ranks, a Hex Weaver's strongest curses become self-sustaining constructs that operate independently.</div>
+      </div>
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Unbound Healing</span><span class="ex-timing timing-composite">Composite</span></div>
+        <div class="ex-desc">Healing magic efficiency permanently doubled. MP cost halved. The owner can heal things other healers cannot — damage types outside standard healing jurisdiction respond to their touch.</div>
+        <div class="ex-scale">Late scaling: The healing field expands beyond the biological. Soul damage, mental damage, and eventually conceptual damage all become addressable. At high ranks, the owner can heal things that have never been healed before.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="sub-block">
+    <div class="sub-header">Conceptual Power</div>
+    <div class="examples">
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Absolute Denial</span><span class="ex-timing timing-late">Late</span></div>
+        <div class="ex-desc">The owner can negate one occurrence per engagement — a strike, a spell, an event. Early stage, this is costly and imprecise. The owner often cannot control exactly what gets negated.</div>
+        <div class="ex-scale">Late scaling: Denial becomes selective, instantaneous, and eventually capable of negating conceptual things — a law, a fate, a conclusion that was already decided.</div>
+      </div>
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Truth</span><span class="ex-timing timing-composite">Composite</span></div>
+        <div class="ex-desc">The owner perceives the true nature of what they observe — no illusion, no concealment, no false presentation holds against their sight. What is, is. What isn't, isn't. Immediately useful; grows incomprehensibly potent.</div>
+        <div class="ex-scale">Late scaling: Truth extends beyond perception into assertion. At high ranks, what the owner states as true becomes true within their domain — not manipulation, but the universe correcting itself to match the statement.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="sub-block">
+    <div class="sub-header">Symbol / Identity Related</div>
+    <div class="examples">
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Name Binding</span><span class="ex-timing timing-late">Late</span></div>
+        <div class="ex-desc">The owner can bind power to a name — their own or another's. Early stage, this produces weak effects: minor boosts when the name is spoken aloud, minor debuffs when a bound name is used against its owner's intent.</div>
+        <div class="ex-scale">Late scaling: At high ranks, a name the owner has bound becomes a lever of reality. Speaking it reshapes the named thing's behavior. Binding their own True Name produces effects that approach law-level authority.</div>
+      </div>
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Living Legend</span><span class="ex-timing timing-late">Late</span></div>
+        <div class="ex-desc">The owner's reputation, deeds, and identity accumulate as a tangible power source. Early stage, this produces nothing — the legend is not yet built. The Talent appears dormant for the entire early arc.</div>
+        <div class="ex-scale">Late scaling: As the owner's deeds accumulate weight, the Talent activates. At high ranks, the owner's identity has become so established that their presence alone reshapes how reality treats them — as if the universe has read the legend and is acting accordingly.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="sub-block">
+    <div class="sub-header">Spatial / Dimensional</div>
+    <div class="examples">
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Void Step</span><span class="ex-timing timing-composite">Composite</span></div>
+        <div class="ex-desc">Short-range spatial displacement — the owner briefly occupies the space between spaces and re-emerges at a nearby point. Immediately tactical as an evasion and repositioning tool.</div>
+        <div class="ex-scale">Late scaling: The void between spaces proves to have content. At high ranks, the owner can bring things out of the void, store things in it, and eventually operate within it as a combat environment.</div>
+      </div>
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Temporal Sense</span><span class="ex-timing timing-late">Late</span></div>
+        <div class="ex-desc">Passive awareness of time's texture — the owner senses when moments are significant, when timelines are being altered, when something that should have happened did not. No control early — only perception.</div>
+        <div class="ex-scale">Late scaling: Perception becomes influence. At high ranks, the owner begins nudging temporal texture — not full time manipulation, but the ability to make certain moments more or less likely to persist.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="sub-block">
+    <div class="sub-header">Anti-Magic / Nullification</div>
+    <div class="examples">
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Magic Eater</span><span class="ex-timing timing-early">Early</span></div>
+        <div class="ex-desc">The owner absorbs magical energy directed at them — spells, enchantments, and MP-based attacks convert to the owner's own MP on contact. Immediately powerful against magic-heavy opponents.</div>
+        <div class="ex-scale">Late scaling: Absorption extends to passive magical fields, environmental magic, and eventually the magical properties of objects and abilities rather than just active casts.</div>
+      </div>
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Dead Zone</span><span class="ex-timing timing-late">Late</span></div>
+        <div class="ex-desc">The owner projects a field that suppresses magical phenomena in range. Early stage, the field is small, inconsistent, and costs effort to maintain. Against low-rank magic it works; against high-rank magic it barely registers.</div>
+        <div class="ex-scale">Late scaling: The field hardens and widens. At high ranks, it becomes a passive zone that requires no maintenance — magic simply does not function correctly in the owner's presence, regardless of the caster's rank.</div>
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SKILL / WEAPON / TECHNIQUE -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<div class="cat-block">
+<div class="cat-header">
+  <div class="cat-dot" style="background:#1D9E75"></div>
+  <span>3 — Skill, Weapon &amp; Combat Mastery</span>
+</div>
+<div class="cat-body">
+
+  <div class="sub-block">
+    <div class="sub-header">Training Speed</div>
+    <div class="examples">
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Accelerated Growth</span><span class="ex-timing timing-composite">Composite</span></div>
+        <div class="ex-desc">All skill progression — class skills, combat techniques, lifestyle skills — advances at twice the standard rate. EXP thresholds for skill level-up are halved. The owner covers in a month what peers cover in a year.</div>
+        <div class="ex-scale">Late scaling: The acceleration compounds. At high ranks, the owner's skill acquisition speed has diverged so far from baseline that they accumulate mastery depth that others physically cannot match on the same timeline.</div>
+      </div>
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Combat Absorption</span><span class="ex-timing timing-late">Late</span></div>
+        <div class="ex-desc">The owner learns from combat experience at an elevated rate — but only from combat. Training drills and deliberate practice produce no bonus. The Talent only feeds on real fights.</div>
+        <div class="ex-scale">Late scaling: At high ranks, every serious fight becomes a growth event. The owner emerges from major engagements measurably stronger than they entered — not from the EXP, but from the Talent processing what they experienced.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="sub-block">
+    <div class="sub-header">Mastery Talent</div>
+    <div class="examples">
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Perfect Mimicry</span><span class="ex-timing timing-composite">Composite</span></div>
+        <div class="ex-desc">On witnessing a technique once, the owner can reproduce it at a functional level immediately. Not instant mastery — but the foundation is laid in a single observation. Requires combat-level witness; descriptions alone do not trigger it.</div>
+        <div class="ex-scale">Late scaling: Reproduction approaches the original's ceiling rather than its floor. At high ranks, the owner's version of a copied technique begins exceeding the original — they master it faster than its creator did.</div>
+      </div>
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">One Art</span><span class="ex-timing timing-late">Late</span></div>
+        <div class="ex-desc">The owner selects one weapon or combat discipline at Ascension. Mastery of that single art advances without ceiling — where others hit plateaus, the owner continues. Early stage, the advantage is modest.</div>
+        <div class="ex-scale">Late scaling: At high ranks, the owner's mastery of their chosen art has reached a depth that no amount of raw power can substitute for. They do things with their art that should be impossible given their rank.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="sub-block">
+    <div class="sub-header">Weapon Power Enhancement</div>
+    <div class="examples">
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Sword Saint</span><span class="ex-timing timing-early">Early</span></div>
+        <div class="ex-desc">All sword-type weapons in the owner's hands operate at a tier above their actual quality. A Basic sword performs like an Elite sword. An Elite sword performs like a Rare sword. The weapon's limits are lifted by the owner's touch.</div>
+        <div class="ex-scale">Late scaling: At high ranks, the quality elevation compounds — and the owner begins creating sword techniques that are not in any existing system. The Talent eventually produces a style that belongs only to them.</div>
+      </div>
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Bare Handed</span><span class="ex-timing timing-composite">Composite</span></div>
+        <div class="ex-desc">The owner's unarmed strikes carry force, sharpness, and impact equivalent to a wielded weapon at their rank. No equipment required. Immediately practical — never loses relevance because the weapon is always present.</div>
+        <div class="ex-scale">Late scaling: The owner's hands begin carrying properties beyond physical force — energy, elemental expression, conceptual weight. At high ranks, a bare-handed strike from this owner is not a physical event.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="sub-block">
+    <div class="sub-header">Active / Passive Skill Enhancement</div>
+    <div class="examples">
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Amplifier</span><span class="ex-timing timing-early">Early</span></div>
+        <div class="ex-desc">All active skills cost less and hit harder. A flat efficiency boost across the owner's entire skill kit — whatever they have, it works better in their hands than it would in anyone else's.</div>
+        <div class="ex-scale">Late scaling: The amplification begins applying to passive skills as well. At high ranks, even ambient passive effects from the owner's kit operate at a tier above what the skill's level should produce.</div>
+      </div>
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Overdrive</span><span class="ex-timing timing-composite">Composite</span></div>
+        <div class="ex-desc">The owner can push any active skill beyond its normal output ceiling for a short duration — using it as if it were several levels higher than it currently is. Cooldown after use. Strong immediately; scales with skill quality.</div>
+        <div class="ex-scale">Late scaling: At high ranks, Overdrive can push skills past their theoretical maximum — producing effects that the skill was not designed to be capable of. What those effects are depends entirely on what skill is being pushed.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="sub-block">
+    <div class="sub-header">Instinct / Combat Reading</div>
+    <div class="examples">
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Blade Sense</span><span class="ex-timing timing-composite">Composite</span></div>
+        <div class="ex-desc">Absolute spatial awareness of any bladed weapon in range — trajectories, timing, openings all perceived simultaneously. Makes the owner extraordinarily difficult to cut. Requires no conscious processing.</div>
+        <div class="ex-scale">Late scaling: Extends to all weapons, then to all attacks, then to intent. At high ranks, the owner perceives what an opponent is about to do before the opponent has committed to doing it.</div>
+      </div>
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Battle Mind</span><span class="ex-timing timing-late">Late</span></div>
+        <div class="ex-desc">The owner processes combat information at an accelerated rate — tracking more variables simultaneously than their Perception stat should allow. Early stage, the advantage is subtle. Hard to quantify against opponents near the owner's rank.</div>
+        <div class="ex-scale">Late scaling: At high ranks, the owner is processing combat several steps ahead of real time. They are not faster — they are earlier. The fight they are in is not the fight their opponent thinks is happening.</div>
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- CRAFT / TECHNIQUE -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<div class="cat-block">
+<div class="cat-header">
+  <div class="cat-dot" style="background:#BA7517"></div>
+  <span>4 — Craft / Technique</span>
+</div>
+<div class="cat-body">
+
+  <div class="sub-block">
+    <div class="sub-header">Crafting Talent</div>
+    <div class="examples">
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Master Hands</span><span class="ex-timing timing-composite">Composite</span></div>
+        <div class="ex-desc">All crafted items produced by the owner are one quality tier above what their skill level should produce. A novice crafter with this Talent produces Elite-quality work. The gap between their output and their peers never closes.</div>
+        <div class="ex-scale">Late scaling: At high ranks, the owner begins producing items that should not be possible at their crafting level — items that carry properties outside the standard quality framework.</div>
+      </div>
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Living Craft</span><span class="ex-timing timing-late">Late</span></div>
+        <div class="ex-desc">Items the owner creates carry a trace of life — they respond to their wielder, degrade more slowly, and resist breaking. Early stage this is a minor durability and responsiveness bonus. Hard to measure directly.</div>
+        <div class="ex-scale">Late scaling: The trace of life deepens. At high ranks, the owner's creations develop limited awareness — they remember their wielder, react to danger, and some eventually awaken into true spirit-adjacent entities.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="sub-block">
+    <div class="sub-header">Formation / Inscription</div>
+    <div class="examples">
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Inscription Prodigy</span><span class="ex-timing timing-composite">Composite</span></div>
+        <div class="ex-desc">Formation-setting and inscription work that would take a master months completes in days. Formations produced are more stable, more efficient, and harder to break than those of same-rank practitioners.</div>
+        <div class="ex-scale">Late scaling: The owner begins producing inscriptions that have no name — formations outside the standard vocabulary. At high ranks, their work begins reflecting their intent in ways that transcend the conventional inscription framework.</div>
+      </div>
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Seal Master</span><span class="ex-timing timing-early">Early</span></div>
+        <div class="ex-desc">All sealing-type formations the owner creates are immediately effective and resist dispelling at a rate above their rank. Straightforward advantage in a specific formation domain — useful in every arc.</div>
+        <div class="ex-scale">Late scaling: Seals begin affecting things that were not designed to be sealable — abilities, concepts, and eventually fates. What the owner can lock away expands with their rank.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="sub-block">
+    <div class="sub-header">Analysis / Deconstruction</div>
+    <div class="examples">
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Perfect Recall</span><span class="ex-timing timing-composite">Composite</span></div>
+        <div class="ex-desc">The owner retains everything they observe or experience with total fidelity — no degradation, no misremembering. A learning and analysis edge from day one. The library grows with every experience.</div>
+        <div class="ex-scale">Late scaling: Recalled experiences include full sensory and physical memory of techniques — recall becomes a technique library with perfect execution templates. What the owner has seen once, they can do.</div>
+      </div>
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Dissection Eye</span><span class="ex-timing timing-late">Late</span></div>
+        <div class="ex-desc">The owner perceives the structural composition of techniques, formations, and constructs — how they are built, what holds them together, where they are weak. Early stage, this is academic. Hard to act on quickly.</div>
+        <div class="ex-scale">Late scaling: Perception becomes action. At high ranks, the owner can deconstruct things in real time — dissolving techniques mid-execution, unraveling formations by touching their structural weak point, dismantling constructs by understanding them.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="sub-block">
+    <div class="sub-header">Technique Related</div>
+    <div class="examples">
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Body of Knowledge</span><span class="ex-timing timing-late">Late</span></div>
+        <div class="ex-desc">The owner's theoretical understanding of any discipline they study converts directly into practical capability at a rate that should not be possible. Early stage, this looks like exceptional academic aptitude. Unremarkable in combat.</div>
+        <div class="ex-scale">Late scaling: At high ranks, the conversion runs in both directions — practical experience refines theoretical understanding instantly, and theory produces capabilities that have never been physically trained. The owner can do things they have only ever read about.</div>
+      </div>
+      <div class="example">
+        <div class="ex-header"><span class="ex-name">Style Creator</span><span class="ex-timing timing-late">Late</span></div>
+        <div class="ex-desc">The owner can synthesize observed techniques into new forms that did not previously exist. Early stage, the synthesis is crude — functional combinations rather than genuine innovations. The results are unremarkable.</div>
+        <div class="ex-scale">Late scaling: At high ranks, the synthesis produces techniques that operate outside any existing framework — not combinations of what exists but genuinely new things. The owner becomes a source, not a derivative.</div>
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
+
+</div>

@@ -1,0 +1,181 @@
+================================================================================
+                    FACTION & LEADERSHIP SKILLS
+                    Spirit Dominion | The System Era
+================================================================================
+
+OVERVIEW
+--------
+Leadership in the System is not an innate attribute. It is not a number
+assigned at birth or allocated through Free Attribute Points. It is a
+capability earned through the act of leading — recognized by the System
+through a dedicated set of skills unlocked by position, achievement, and
+faction progression.
+
+A character with no faction has no access to these skills regardless of
+their personal power. A character who builds, leads, and grows a faction
+unlocks them progressively as their authority and achievement accumulate.
+
+This means leadership is always earned, never assumed. The System reflects
+what a leader has actually done — not what they were born with.
+
+Mechanically, leadership skills affect two domains:
+  - INTERNAL  : Recruitment, loyalty, retention, faction cohesion.
+  - EXTERNAL  : Morale buffs, ally combat enhancement, negotiation.
+
+================================================================================
+SKILL TIERS
+================================================================================
+
+Skills are grouped into four functional tiers. Unlock conditions are tied
+to faction rank, size, and achievement milestones — not personal level.
+
+────────────────────────────────────────────────────────────────────────────────
+TIER 1 — RECRUITMENT
+"Building the foundation."
+────────────────────────────────────────────────────────────────────────────────
+Skills that govern the ability to attract, assess, and bind members to
+the faction. Unlocked early — a faction cannot grow without them.
+
+  Faction Call
+    Broadcast the faction's presence and intent to unaffiliated individuals
+    in range. Increases the likelihood of voluntary recruitment approaches.
+    Effect scales with faction rank and reputation.
+
+  Evaluation Eye
+    Passive. Grants the leader a basic System-assisted read on a target's
+    class, approximate rank, and potential when in direct interaction.
+    Does not reveal full stats — only a surface assessment.
+    Accuracy improves with skill level.
+
+  Contract Binding
+    Formalizes agreements between the faction and new members through the
+    System. Bound contracts carry System-enforced consequences for breach.
+    Higher skill level allows more complex contract terms.
+
+────────────────────────────────────────────────────────────────────────────────
+TIER 2 — LOYALTY
+"Keeping what you've built."
+────────────────────────────────────────────────────────────────────────────────
+Skills that govern the cohesion, morale, and retention of faction members.
+Unlocked as faction size and internal complexity grow.
+
+  Rally
+    Active. In critical moments, the leader can issue a System-amplified
+    call that stabilizes the mental state of nearby faction members.
+    Counters fear, confusion, and morale collapse in combat or crisis.
+    Cooldown applies.
+
+  Shared Will
+    Passive. Faction members within range of the leader gain a minor
+    resistance to mental interference and morale debuffs. Effect radius
+    and strength scale with faction rank.
+
+  Oath of the Faction
+    A binding ceremony that deepens the System contract between a member
+    and the faction. Increases loyalty rating, reduces defection risk,
+    and grants minor stat bonuses to the bound member as a System reward
+    for commitment. Requires willing participation — cannot be forced.
+
+────────────────────────────────────────────────────────────────────────────────
+TIER 3 — COMBAT COMMAND
+"Leading from the front or the rear."
+────────────────────────────────────────────────────────────────────────────────
+Skills that provide direct combat enhancement to allies and coordinated
+tactical effects. Unlocked through combat leadership achievements —
+surviving engagements as a faction, not just as an individual.
+
+  Commander's Presence
+    Passive. Allies fighting within the leader's awareness range receive
+    a baseline combat buff — minor increases to attack, defense, and
+    stamina efficiency. Scales with skill level and faction rank.
+
+  Battle Coordination
+    Active. The leader designates a tactical formation or target priority
+    through the System interface. Participating members gain synchronized
+    attack and defense bonuses when operating within the designated
+    parameters. Requires members to have Oath of the Faction or equivalent
+    binding to activate fully.
+
+  Vanguard Aura
+    Active. The leader's presence on the frontline generates an aura of
+    pressure that buffs nearby allies and applies a minor suppression
+    effect on enemies within range. Effect is stronger the higher the
+    leader's personal combat power relative to enemies in range.
+    Cannot be faked — the leader must be genuinely in danger for the
+    full effect to activate.
+
+────────────────────────────────────────────────────────────────────────────────
+TIER 4 — NEGOTIATION & AUTHORITY
+"Power expressed without violence."
+────────────────────────────────────────────────────────────────────────────────
+Skills unlocked at higher faction ranks. Govern interaction with rival
+factions, neutral parties, and System-recognized political structures.
+
+  Iron Terms
+    Active. When entering a System-recognized negotiation, the leader
+    can lock proposed terms through the interface — making them visible
+    to all parties and creating a formal record. Prevents retroactive
+    denial of agreed terms. Increases negotiation credibility.
+
+  Threat Assessment
+    Passive. In diplomatic or confrontational interactions, the leader
+    receives a System-assisted read of the opposing party's intent,
+    stress indicators, and approximate faction strength. Not mind-reading
+    — a pattern recognition and data synthesis tool.
+
+  Diplomatic Immunity
+    Unlocked at advanced faction rank. When operating under a System-
+    recognized diplomatic flag, the leader and a designated party gain
+    temporary protection from unprovoked System-sanctioned aggression.
+    Does not prevent all attacks — removes System legitimacy from those
+    who breach it, with corresponding penalties applied by the System.
+
+================================================================================
+UNLOCK CONDITIONS — GENERAL FRAMEWORK
+================================================================================
+
+  Tier 1 — Recruitment   : Unlocked upon founding a faction and registering
+                           it with the System. Available from Arc 1.
+
+  Tier 2 — Loyalty       : Unlocked as faction membership grows past initial
+                           threshold and first internal challenges are
+                           survived. Mid Arc 1 to Arc 2.
+
+  Tier 3 — Combat Command: Unlocked through combat leadership achievements —
+                           leading faction members through significant
+                           engagements. Arc 2 onwards.
+
+  Tier 4 — Negotiation   : Unlocked at higher faction rank. Requires the
+                           faction to be recognized as a meaningful power
+                           by the System. Arc 3 onwards.
+
+================================================================================
+DESIGN NOTES
+================================================================================
+
+  - These skills reflect what Jay has actually done as a leader, not what
+    he was born capable of. The System rewards earned authority.
+
+  - Jay's personal combat power feeds directly into Vanguard Aura — one
+    of the few leadership skills where individual strength and leadership
+    reinforce each other explicitly.
+
+  - Evaluation Eye is intentionally limited at early levels — Jay will
+    get surface reads, not full profiles. Learning to read people beyond
+    what the System tells him is a narrative skill, not a mechanical one.
+
+  - Contract Binding and Oath of the Faction create a legal and social
+    infrastructure for the faction that becomes politically important
+    in later arcs.
+
+================================================================================
+TBD
+================================================================================
+
+  - Faction rank structure and thresholds          : TBD — see faction doc
+  - Advanced leadership skills at Named stage      : TBD — long arc
+  - Interaction between leadership skills and
+    Jay's Primal Spirit Orb buffs                  : TBD
+  - Skill upgrade paths and max levels             : TBD
+
+================================================================================

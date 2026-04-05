@@ -1,0 +1,309 @@
+================================================================================
+                    POWER SYSTEM — ATTRIBUTES
+                    Spirit Dominion | The System Era
+================================================================================
+
+OVERVIEW
+--------
+Attributes are the numerical foundation of every entity integrated into the
+System. They represent the measurable qualities of a being's physical, mental,
+and extraordinary capabilities. They are not merely numbers — each attribute
+maps directly to biological and metaphysical components of the body and mind,
+and their growth produces real, tangible change in those components.
+
+The System provides a unified rank track across all attribute types. Physical,
+magical, and mental attributes scale together — there is no separate progression
+path. A character's overall rank reflects the totality of their development.
+
+ATTRIBUTE GROWTH SOURCES
+  - Rank-up rewards        : Automatic attribute points granted on leveling.
+  - Racial level-up        : Bonus stats tied to species/race progression.
+  - Free Attribute Points  : Manually allocated by the character (see below).
+  - Skills / Talents       : Some abilities directly modify attributes.
+  - Equipment / Items      : External boosts, temporary or permanent.
+
+SOFT CAPS
+  Attributes have no hard ceiling per rank tier. However, diminishing returns
+  apply as totals rise — each additional point of Free Attribute allocation
+  costs progressively more as the attribute grows. This naturally discourages
+  pure single-stat stacking and rewards balanced or specialized builds over
+  extreme min-maxing. Top performance is heavily reliant on the user. Baseline
+  performance is what the numbers guarantee.
+
+================================================================================
+CORE ATTRIBUTES
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+PHYSICAL ATTRIBUTES
+────────────────────────────────────────────────────────────────────────────────
+
+CONSTITUTION
+  The structural integrity of the physical body. How strong, resilient, and
+  durable the physical form is — whether it is built of paper, wood, or steel.
+  The foundational support for all physical activity.
+
+  Body components : Skin, bones, joints, internal organs, cell membranes.
+  Translates into : HP, stamina pool, physical defense, basic resistance.
+  Synergises with : Strength, Agility, Vitality.
+
+  Notes: Core attribute of frontline and high-strength physical classes.
+  Everything physical is built on top of constitution.
+
+---
+
+VITALITY
+  The activity level of the body. How efficiently it generates energy, sustains
+  life functions, and recovers from damage and exertion. The source of the
+  body's life force and its recovery capability.
+
+  Body components : Heart, lungs, digestive tract, mitochondria, blood,
+                    bone marrow.
+  Translates into : Stamina pool, HP recovery rate, stamina recovery rate.
+  Synergises with : Constitution.
+
+---
+
+STRENGTH
+  The ability to exert physical force. Raw muscular power — the foundation of
+  damage output and the capacity to wield heavy equipment.
+
+  Body components : Muscles.
+  Translates into : Attack damage, equipment handling capability.
+  Synergises with : Constitution, Agility.
+
+---
+
+AGILITY
+  The character's speed in all its dimensions. Not just movement, but the full
+  chain of motion: from the nerve signal to the strike landing.
+
+  Encompasses     : Movement speed, reaction speed, reflex, acceleration,
+                    attack speed, precision of motion.
+  Body components : Motor nerves, muscles, joints, tendons.
+  Translates into : Movement speed, attack speed, attack rate, initial
+                    and maximum speed.
+  Synergises with : Strength, Constitution.
+
+---
+
+DEXTERITY
+  The character's mastery over their own body. Not how fast they move, but
+  how precisely and efficiently they move. The attribute of craft, technique,
+  and complex execution.
+
+  Encompasses     : Body control, coordination, attack accuracy, evasion rate,
+                    terrain adaptability, balance, flexibility.
+  Body components : Joints, tendons, muscles, hands.
+  Translates into : Accuracy, critical rate, training speed, movement range,
+                    turning speed, strength modulation, deceleration control.
+  Synergises with : Perception, Agility.
+
+  Notes: Core attribute for lifestyle and professional skills. Essential for
+  mastering complex or specialized weapons and high-tier techniques.
+
+────────────────────────────────────────────────────────────────────────────────
+MENTAL / EXTRAORDINARY ATTRIBUTES
+────────────────────────────────────────────────────────────────────────────────
+
+PERCEPTION
+  How completely and efficiently the character receives and processes
+  information from the world around them. The bridge between raw sense data
+  and actionable awareness.
+
+  Encompasses     : Perception range, perception speed, spatial sense, time
+                    perception, danger sense, reflex arc, dynamic and static
+                    vision, focus, eye-hand coordination, body control.
+  Body components : Sense organs, sensory nerves, brain.
+  Translates into : Accuracy, attack range, dodge rate, critical rate,
+                    environmental awareness.
+  Synergises with : Agility, Willpower, Dexterity.
+
+---
+
+MYSTERY  [ also: Intelligence ]
+  Affinity with the extraordinary. The character's ability to sense, absorb,
+  store, and manipulate energy beyond the physical. The foundation of all
+  magical and mana-based capability.
+
+  Encompasses     : Mana capacity, passive mana regeneration, magic damage,
+                    mana control, elemental affinity, magic resistance,
+                    mana density.
+  Body components : Brain, mana core, magic circuit (mana pathways).
+  Translates into : MP total, magic damage, magic resistance, mana regen.
+  Synergises with : Willpower, Constitution, Wisdom.
+
+---
+
+WILLPOWER  [ also: Mind ]
+  The strength of the mind as a casting and control instrument. Not
+  intelligence — this is the raw force of mental will applied to the
+  extraordinary. The attribute of execution, not knowledge.
+
+  Encompasses     : Spell control, casting speed, spell learning requirement,
+                    spell complexity capacity, casting frequency, active mana
+                    regeneration, mental interference resistance, psychic
+                    power, perception enhancement.
+  Body components : Mind.
+  Translates into : Casting speed, spell learning ability, mana regeneration,
+                    cooldown reduction, mental resistance.
+  Synergises with : Mystery, Wisdom.
+
+---
+
+WISDOM
+  Mental prowess and cognitive depth. The ability to process complex
+  information, retain knowledge, and apply it with precision. Where Willpower
+  is force, Wisdom is finesse.
+
+  Encompasses     : Learning capacity, memory, comprehension, error reduction
+                    in spell execution, spell requirement thresholds, spell
+                    library capacity.
+  Body components : Brain.
+  Translates into : Spell fault reduction, spell learning thresholds,
+                    knowledge retention, number of learnable spells.
+  Synergises with : Perception, Mystery, Constitution.
+
+================================================================================
+DERIVED STATS
+================================================================================
+
+HEALTH POINTS  [ HP ]
+  The character's overall physical state expressed as a single value.
+  A reference number — not the full picture of combat viability.
+
+  Formula         : HP = Constitution × 10
+  Additional gain : +10 HP per racial level-up (base human rate).
+
+  Important nuance:
+  HP is a general indicator. It does not reflect the impact of specific
+  injuries. The type and location of a wound must be considered separately
+  to assess real combat impact.
+
+  Threshold effects:
+  When HP falls below critical thresholds, systemic debuffs apply depending
+  on the character's resilience. Example baseline:
+    — HP < 50% : All attributes reduced by 10%, stamina depletion accelerated.
+  Exact thresholds and debuff severity scale with character resilience and
+  relevant skills or talents.
+
+  HP Regeneration:
+  Driven by Vitality. Passive regen operates differently in and out of combat.
+  Base passive regen is modest — meaningful improvement requires abilities,
+  skills, or talents that specifically enhance it.
+  Passive regen consumes additional stamina while active.
+  Passive regen only functions within a limited HP loss range. Severe injuries
+  (limb loss, massive blood loss, deep organ damage) cannot be addressed by
+  passive regen — active healing or recovery resources are required.
+
+---
+
+STAMINA
+  Physical energy. The resource consumed by all physical actions. The intensity
+  of the action determines the consumption rate.
+
+  Formula         : Stamina = Average of (Constitution + Vitality)
+  Additional gain : Can be increased through racial level-up.
+
+  Low HP interaction:
+  Reduced HP lowers the stamina ceiling and accelerates depletion rate.
+  Fighting at critical HP is a compounding disadvantage.
+
+  Stamina Regeneration:
+  Requires rest as baseline. Food and special resources can accelerate
+  recovery. Standard regeneration rate is governed by Vitality.
+
+---
+
+MANA POINTS  [ MP ]
+  The reservoir of magical energy. Fuel for all interaction with extraordinary
+  forces. The foundational resource for spirit abilities, spells, and energy-
+  based skills.
+
+  Formula         : MP = Mystery × [ conversion rate TBD ]
+
+  Regeneration:
+  Passive regen operates continuously in and out of combat. Active regen
+  through meditation or consumption of special resources. Regen rate is
+  enhanced in energy-rich environments.
+
+  High-cost casting risks:
+  Mobilizing large amounts of MP in a short period imposes physical and mental
+  strain. Adverse effects scale with the ratio of MP used versus the
+  character's Willpower and physical resilience:
+    — Dizziness, bleeding, confusion, disorientation.
+  Continuous high-cost casting compounds these effects rapidly.
+
+  CRITICAL: Empty MP can result in death. Characters must exercise caution
+  when casting expensive abilities in sequence. The burden placed on the mind
+  by severe MP depletion is not merely debilitating — it is potentially fatal.
+
+================================================================================
+FREE ATTRIBUTE POINTS  [ FA ]
+================================================================================
+
+Free Attribute Points are awarded through leveling and can be manually
+allocated by the character to any attribute of their choosing. They represent
+the player's direct control over their development path.
+
+ALLOCATION MECHANICS
+
+  Delayed absorption:
+  Allocated attributes do not take full effect immediately. The body and mind
+  require time to integrate the change. Effect builds progressively after
+  allocation.
+
+  Regional weighting:
+  Allocation affects the whole body, but the intensity of the effect is
+  greater in the parts of the body most actively used after allocation.
+  Example: A swordsman who allocates Strength points then trains sword work
+  will see greater upper-limb strength gains than lower-limb gains in that
+  period. Deliberate training focus shapes where the attribute lands hardest.
+
+  Diminishing returns:
+  As total attribute values rise, the FA cost to increase them further grows.
+  Early points in an attribute are efficient. Later points require
+  proportionally more FA for the same numerical gain. This is a soft system —
+  there is no hard wall, only increasing cost.
+
+  Human baseline FA per level (pre-Sublimation): 7–10 points.
+  Exact amount varies by individual potential.
+
+================================================================================
+ATTRIBUTE CATEGORIES — SUMMARY
+================================================================================
+
+  PHYSICAL      : Constitution, Vitality, Strength, Agility, Dexterity
+  MENTAL        : Perception, Willpower, Wisdom
+  EXTRAORDINARY : Mystery
+  DERIVED       : HP, Stamina, MP
+
+================================================================================
+EXPANDABLE SYSTEM
+================================================================================
+
+The twelve core attributes listed above are the standard framework provided
+by the System to all integrated entities in Universe 711 at the point of
+Ascension. They are not the totality of what is possible.
+
+Rare, special, or exceptional attributes can exist beyond this list. These
+may be:
+  - Unlocked through exceptional talent or bloodline
+  - Granted by unique skills, evolutions, or titles
+  - Discovered through contact with rare phenomena or entities
+  - Native to civilizations or species outside Universe 711
+
+The existence of attributes beyond the standard list is not common knowledge
+at the start of Arc 1. Their discovery will occur naturally through progression.
+
+================================================================================
+TBD
+================================================================================
+
+  - MP conversion rate from Mystery                  : TBD
+  - Full HP threshold/debuff table                   : TBD
+  - Racial level-up attribute bonus table            : TBD
+  - Rank tier definitions and scaling                : TBD — see rank-system doc
+  - Known rare/special attributes                    : TBD — expand as story grows
+
+================================================================================
